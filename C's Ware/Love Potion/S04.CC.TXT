@@ -1,0 +1,894 @@
+id40
+050
+I'm in the nurse's office, with the unique odor.
+The school nurse... doesn't seem to be here.
+id40
+050
+The nurse's office has an unique odor. Those lesbian girls\are not here.
+The school nurse is not here either. I wonder where she\could be?
+id40
+050
+The nurse's office has an unique odor.
+This odor makes me feel weird.
+I wonder where the school's nurse is? No one seems to be\in.
+Å@Look aroundÅ@Å@
+Å@Move
+No one is in the nurse's office.
+There are three beds, and no one is using the beds.
+Bright sunshine is coming in the window.
+There are clean, white beds, a white desk, and a white\medicine cabinet.
+The school nurse is probably wearing a white coat. The\whole place is covered with white.
+Å@Go to the faculty room
+Å@Go to the principal's officeÅ@Å@
+Å@Go in front of the school gate
+Alright, let's go to the principal's office.
+Alright, let's go back to the faculty room.
+Alright, let's go to the school gate
+id21
+030
+I came back to the faculty room.
+What was I doing in the principal's office?
+id21
+030
+I came back to the faculty room.
+id21
+030
+I came back to the faculty room.
+I guess I was a little over-exicted on my first day... I'm\quite tired.
+id21
+030
+This is the faculty room.
+id21
+030
+This is the faculty room.
+id21
+030
+This is the faculty room.
+The incident in the nurse's office should be over with by\now.
+id21
+030
+I came back to the faculty room.
+I was shocked by that lesbian girl. Her name was Yoko\Kawano, I think. God, she was so horny.
+Maybe I don't need to bring along the school nurse with\me, but, just in case, maybe I should. I have to find the\school nurse.
+Come to think of it, it might be hard to find the school\nurse in such a big campus like this.
+030
+Å@Move
+Å@Think
+Å@SaveÅ@Å@
+Let's go see the gymnastics team before we go. We might\meet Sayuri.
+The sun is already set. I better go say good bye to the\principal.
+I wonder what I should do about the gymnastics team.
+It is almost sunset. I guess it is a bit early to leave.
+I want to know more about this school.
+I won't be seeing those lesbian schoolgirls for a while.
+Why did I do that? I was looking at Yoko's vagina and I\felt dizzy...
+I need to pull myself together.
+Maybe I can get some good advice from the principal.
+Oh yeah, I can call the nurse over the PA. Why didn't I\think of this earlier.
+Let's go see the principal.
+Å@Go to the classroom
+Å@Go to the principal's officeÅ@Å@
+Å@Go in front of the school gate
+Å@Go to the nurse's office
+Maybe I should think about this some more.
+Yeah, I'm going to the principal's office.
+I don't think the nurse is in the principal's office.
+Maybe I should think just a little bit more about this.
+Ah yes, she said it's near the classroom.
+Alright, let's head to the classroom.
+Alright, let's go to the classroom.
+Is the nurse in the classroom?
+I'll think about this more.
+Okay, let's go to the school gate.
+I wonder if the school nurse is at the school gate....
+I think I should think about this.
+I decided to go to the nurse's office.
+Maybe you're back in your office, school nurse.
+Å@CancelÅ@Å@
+Å@Save 1
+Å@Save 2
+Å@Save 3
+save1
+Data saved in Save 1.
+save2
+Data saved in Save 2.
+save3
+Data saved in Save 3.
+id51
+040
+040b
+*Knock knock*
+ÅyYuichiÅz This is Yuichi.
+ÅyToshikoÅz Come in.
+id51
+040
+040b
+*Knock knock*
+ÅyYuichiÅz This is Yuichi.
+ÅyToshikoÅz Come in.
+ÅyToshikoÅz Oh, Professor Sakuma. What's wrong?
+ÅyYuichiÅz Oh right. I should go to the gymnastics club\now.
+ÅyToshikoÅz Huh?
+ÅyYuichiÅz No, no... it's nothing.
+Let's go to the gymnastics club as soon as possible.
+id51
+040
+040b
+*Knock knock*
+ÅyYuichiÅz This is Yuichi.
+ÅyToshikoÅz Come in.
+ÅyToshikoÅz Is there a problem, Mr. Sakuma?
+ÅyYuichiÅz Um, not really. I was thinking of going home\now.
+ÅyToshikoÅz Oh really, see you tomorrow then.
+040
+
+*Knock knock*
+...
+Is she not here?
+ÅyYuichiÅz This is Yuichi.
+Toshiko Amamiya doesn't appear to be here.
+id51
+040
+040b
+*Knock knock*
+ÅyYuichiÅz This is Yuichi.
+ÅyToshikoÅz Come in.
+ÅyToshikoÅz Is there a problem, Mr. Sakuma?
+ÅyYuichiÅz Um, I just wanted to see you.
+ÅyToshikoÅz That is great, I was looking to take a\breather.
+id51
+040
+040b
+*Knock knock*
+ÅyYuichiÅz This is Yuichi.
+ÅyToshikoÅz Come in.
+ÅyToshikoÅz Is there a problem, Mr. Sakuma?
+id51
+040
+040b
+*Knock knock*
+ÅyYuichiÅz This is Yuichi.
+ÅyToshikoÅz Come in.
+ÅyToshikoÅz Is there a problem, Mr. Sakuma?
+Å@Look at Toshiko AmamiyaÅ@Å@
+Å@Talk to Toshiko Amamiya
+Å@Look around
+Å@Move
+ÅyYuichiÅz Well, I guess I'd better be off.
+ÅyToshikoÅz Hmmm... Mr. Sakuma is an interesting man.
+ÅyToshikoÅzOh, what's wrong?Å@I thought you had already\gone home.
+ÅyYuichiÅz Yes, that's right. Why did I come in here?
+ÅyToshikoÅz Huh?
+ÅyToshikoÅz Anything else?
+ÅyYuichiÅz Come on, let's go to the Rhythmic Gymnastics\Club.
+ÅyToshikoÅz ?
+ÅyYuichiÅz I think I'll go check out the club activities\before I go home.
+ÅyToshikoÅz Yes. I hope I'll be seeing you around\tomorrow.
+ÅyYuichiÅz Um...
+ÅyToshikoÅz What is it?
+ÅyYuichiÅz Before I go home, I think I'll go check out the\club activities.
+Suddenly, I thought of it, so I asked Toshiko.
+ÅyToshikoÅz Sure, that is no problem at all.
+ÅyYuichiÅz I was wondering where the gymnastics team is\at?
+ÅyToshikoÅz The gymnastics team?
+ÅyYuichiÅz Oh, I'm not trying to see the girls in\leotards, I have no interest in that sort of thing.
+I might be digging my own grave, but she seems to not\notice.
+ÅyToshikoÅz No problem. It isn't only men who admire the\beauty of women.
+ÅyYuichiÅz Really, then where is the practice at?
+ÅyToshikoÅz I think it was at the first gym.
+ÅyYuichiÅz The first gym?
+ÅyToshikoÅz Yes, the first gym. It's pretty close from\your classroom.
+ÅyYuichiÅz Oh really.
+ÅyToshikoÅz So how was your first day?
+ÅyYuichiÅz How should I put it... I think there are many\unique students at this school. Which I think is\wonderful.
+ÅyToshikoÅz I'll see you tomorrow.
+ÅyYuichiÅz See you tomorrow.
+ÅyToshikoÅz It was really nice talking to you, professor\Sakuma.
+ÅyYuichiÅz Really?
+I didn't think she would say that... It's a little hard to\respond to that, but I decided to play it safe.
+ÅyToshikoÅz You look surprised.
+ÅyYuichiÅz (Shit!) No, not at all.
+ÅyToshikoÅz *chuckle*
+She is one hell of a mind reader.
+To tell you the truth, I didn't even understand half of\it.
+ÅyToshikoÅz Sorry, I shouldn't have said that.
+ÅyYuichiÅz I wasn't expecting that answer from you.
+I really wasn't expecting such an answer, but I guess she\knows what she is doing.
+I was hoping to have a meaningless conversation with her,\but I guess I touched something in Toshiko.
+ÅyToshikoÅz For me, Amamiya school is like...
+ÅyYuichiÅz ...
+ÅyToshikoÅz For me to make my personal paradigm in life a\reality.
+ÅyYuichiÅz Huh?
+Toshiko was looking at me, but her focus was far away.
+ÅyToshikoÅz ...
+ÅyYuichiÅz May I ask you something...
+ÅyToshikoÅz Yes?
+ÅyYuichiÅz What do you think of this school?
+ÅyToshikoÅz This school?
+ÅyYuichiÅz Yes, this school.
+ÅyToshikoÅz That is a hard question.
+ÅyToshikoÅz Please take your time.
+ÅyToshikoÅz I was just about to take a break. I can really\use some company right now.
+ÅyYuichiÅz Sorry for bothering you.
+ÅyToshikoÅz It's no problem at all.
+ÅyToshikoÅz Is there anything else?
+ÅyYuichiÅz Oh no, thank you very much.
+ÅyYuichiÅz I am sorry to bother you, but where is the\school nurse?
+ÅyToshikoÅz School nurse? Oh, you mean Ms. Iijima?
+ÅyYuichiÅz I took a student who was not feeling well to\the nurse's office, but the school nurse was not there.
+ÅyToshikoÅz That's weird. The school nurse should be\there. Hold on for a minute.
+040
+040b
+The principal was making a phone call. I guess she was\calling the nurse's office.
+ÅyToshikoÅz Yes, sure, I understand. Bye.
+ÅyYuichiÅz ...
+ÅyToshikoÅz Professor Sakuma, Ms Iijima is at her office.\The student that was not feeling well has left the\school.
+ÅyYuichiÅz Oh, is that true. That will save me some time.
+ÅyToshikoÅz You probably missed her by a just few minutes.
+ÅyYuichiÅz Sorry to have bothered you.
+ÅyToshikoÅz No it's ok.
+ÅyYuichiÅz No... thank you very much.
+There does not appear to be a nurse in the principal's\office.
+ÅyYuichiÅz Yes, I wonder if the school nurse is here.
+ÅyToshikoÅz The school nurse?Å@No, she is not here.
+ÅyYuichiÅz Well, I see...
+She looks at me saying "What's going on?"
+Why did I come here?
+She looks at me saying "What's going on?"
+Why did I come to the chancellor's office? Let's go to the\Gymnastics Club as soon as possible.
+I have already visited the principal's office a few times\today, and she still welcomes me. How nice of her.
+ÅyToshikoÅz Is there something on my face?
+ÅyYuichiÅz No, there is nothing on your face. Sorry to\bother you so many times.
+ÅyToshikoÅz You are not bothering me at all.
+You're as sharp as ever, Yoshiko Amamiya. She saw right\through me.
+Toshiko is smiling as usual.
+My question is making Toshiko think.
+Toshiko narrowed her eyes and is looking far away.
+Her eyes were looking far away. I wonder what she thinks\of this school?
+I suddenly have the urge to ask her the question.
+I came to visit her without an appointment, and she is\still welcoming me with a smile.
+Toshiko is smiling a little.
+When a beautiful woman treats me well, I feel like seeing\her.
+Even when I come many times, Toshiko seems happy to see\me.
+I know it's inappropriate, but she's a very attractive\woman.
+It may not be appropriate to use the word "mature woman"\to describe her. However, there is no doubt she is one.
+She was dressed in a navy blue striped suit and looked\like a career woman. She is a good-looking woman.
+ÅyToshikoÅz Umm... you seem to like this suit.
+ÅyYuichiÅz Yes. You look great in it.
+ÅyToshikoÅz Thank you, it's my favorite.
+This place does really feel like a principal's office.
+Can she get any work done in such a room.
+This room is too professional for me, but I guess the\principal's office should look like this.
+Å@Go to the faculty roomÅ@Å@
+Å@Go in front of the school gate
+Å@Go to the nursing office
+ÅyYuichiÅz So, I'll leave you now. See you tomorrow.
+ÅyToshikoÅz You're really interesting.
+She laughed at me... I shouldn't have come.
+I decided to go back to the staff room.
+It's too early for me to leave.
+ÅyYuichiÅz I'll be going now.
+ÅyToshikoÅz Please come again.
+I decided to go to the faculty room.
+Let's leave after we get our baggage from the staff room.
+It's too early for me to leave.
+Okay, let's go to the school gate.
+ÅyYuichiÅz Well, excuse me then.
+ÅyToshikoÅz Please come again.
+I don't have any use for this in the nurse's office.
+It's too early for me to leave yet.
+The nurse's office... okay, let's go there.
+ÅyYuichiÅz Now, if you'll excuse me.
+ÅyToshikoÅz Please come again.
+id03
+020
+This is in front of the classroom.
+I think I'll call it a day....
+id03
+020
+This is in front of the classroom.
+The gymnastics club is in the first gym, I think.
+id03
+020
+This is in front of the classroom.
+I should've asked Hiromi where the gymnastics club was\practicing.
+id67
+020
+020c
+This is in front of the classroom.
+That is Hiromi. She doesn't look well. Just like when I\saw her in front of the school gate.
+ÅyYuichiÅz Hi, what's up.
+ÅyHiromiÅz Hi, professor Sakuma.
+id03
+020
+This is in front of the classroom.
+There's only a few people left at school. Students are\probably already going home.
+id03
+020
+020c
+This is in front of the classroom.
+Å@Look aroundÅ@Å@
+Å@Move
+Few students are walking around the hallway.
+The floor is clean and shining. The doors and walls are\also very clean.
+There are no students left in the classrooms. There are\some voices, like that of a sports team, coming from the\school grounds.
+There is no one who looks like a nurse here.
+I don't see them in the classroom either...
+There seems to be no one who looks like a school nurse...
+Å@Go to the faculty roomÅ@Å@
+Å@Go to up to the roofÅ@Å@
+Å@Go to the gymÅ@Å@
+Å@Go to the gymnastics clubÅ@Å@
+I don't know where the Gymnastics Club is.
+Let's go back to the faculty room.
+Let's go to the rooftop.
+Let's go to the gym.
+I guess the gymnastics team practices in the first gym.\Let's go.
+id08
+080
+I went up to the roof top.
+However, even after walking around so much, there were\almost no clues...
+Well, it's only the first day.
+id08
+080
+I went up to the roof top.
+There's no point in staying here like this.
+id08
+080
+I went up to the roof top.
+Where is the gymnastics club? Well, obviously, I won't be\able to find them here.
+id08
+080
+I went up to the roof top.
+It's a little cold, but it sure does feel good to be here.
+id08
+080
+This is the roof top.
+The school nurse... isn't here.
+Å@Look aroundÅ@Å@
+Å@Move
+There seems to be no one around.
+But it sure is a pleasant rooftop. It would be nice to\come here when I'm feeling miffed or depressed about\something.
+I guess I walked around too much today... I'm a little\tired. It's a bad habit of beginners to be over-excited\on\the first day.
+Don't panic, don't rush, don't fuss.
+It's time to go home.
+The sun was already starting to get quite large and was\sending a trace amount of heat.
+The sky is already turning orange.
+It's a beautiful roof top.
+It seems like they clean even the roof tops well. It makes\me want to take a nap here.
+The sky is clear blue, and there are few clouds. A white\cloud is moving slowly.
+There is no one who looks like a school nurse on the roof.
+I don't see them.... I wonder where they are.
+I thought about it, I don't know what the school nurse\looked like.
+Hmmm, well, most of them will be dressed in white coats or\something.
+Å@Go to the classroomÅ@Å@
+Å@Go to the gymÅ@Å@
+Å@Go to the gymnastics clubÅ@Å@
+I decided to go back to the classroom.
+Let's go to the gym.
+As I recall, it was the first gym. Should be close.
+id12
+060
+This is a gymnasium.
+It seems the Gymnastics Club is closed for the rest of the\week.
+id12
+060
+I thought it was right out past the exit there. I don't\think I went the wrong way.
+Maybe it's here.
+I think this is a gym. But they said "the first gym", so I\guess there must be a second and third gym.
+I wonder where the gymnastics team practices?
+Å@Ask the nearby studentÅ@Å@
+Å@Look aroundÅ@Å@
+Å@Move
+I don't know what they will say to me again if I sit here\in a daze. It's probably time to go.
+The girls are exercising while calling out to each other.
+When I see a pair of bloomers digging into my butt, I kind\of feel the urge to fix them.
+The gymnastics club is closed for the rest of the week...\too bad.
+Of course, it's because I can't see Sayuri or whoever she\is. I don't want to see her leotard.
+I've noticed that all the students are looking at me.\There is almost a circle around me.
+Some students are even laughing at me.
+˚
+The gymnastics team isn't practicing.
+Maybe I'll ask a nearby student.
+This gym is rather warm, but I guess they have a heating\system.
+I recall that students were required to pay an equipment\fee. I guess this is reasonable.
+All the students are wearing shorts for PE. They're not\wearing some unattractive sweatshirt or jersey. I like\that.
+˚
+Usually, a gymnastics team member would be wearing a\leotard, but I don't see anyone like that.
+Is the gymnastics team really practicing here?
+I don't know if I was lucky or not, but a student wearing\shorts walked passed me.
+Perhaps she didn't even notice me, but this was my chance.
+ÅyYuichiÅz Excuse me.
+ÅyGirl wearing shortsÅz Yes.
+id15
+060b
+When I get closer to them, the students move away. It was\as if the circle of students around me was moving with\me.
+I have to do something about this.
+When I try to get near the students to ask a question,\they all seem to avoid me.
+I think I should ask questions.
+ÅyYuichiÅz Excuse me.
+ÅyGirlÅz *chuckle* Look at him...
+ÅyYuichiÅz Hey, wait a second.
+She is gone... What was that all about?
+Å@Go to the classroomÅ@Å@
+Å@Go to up to the roofÅ@Å@
+I don't think I should leave yet.
+Let's go back to the classroom.
+I don't think I should leave yet.
+Let's go to the roof.
+id03
+010
+This is the school gate.
+There are not many student here. Some students with their\backpacks are walking by me.
+id03
+010
+This is the school gate. I wonder if the school doctor is\here.
+Å@Look aroundÅ@Å@
+Å@Move
+It looks deserted around here.
+It is already dusk. The sun is almost set in the west.
+There are some sports teams practicing on the school\grounds. I can hear their voices.
+Geez, this school gate is really big, however many times I\look at it.
+One of the school slogans was to be great at everything,\but I don't think the school gate has to be this great.
+I don't see anyone who looks like a school nurse.
+I guess I should search the entire campus after all...
+Apparently, the school nurse isn't here.
+Å@Go to the faculty room
+Å@Go to the principal's officeÅ@Å@
+Å@Go to the nursing room
+I'll go back to the faculty room for the time being.
+Alright, let's go see the principal.
+I decided to go to the nurse's office.
+ÅyYuichiÅz No one is here. Are you okay Ms. Kawano?
+ÅyYokoÅz Move.
+ÅyYuichiÅz What?
+ÅyYokoÅz Get out of my way.
+ÅyYuichiÅz Hey... What are you doing?
+She pushed me away and went right into the nurse's office.
+What a rude girl.
+050e
+What is she doing?
+She was looking for something in the cabinet.
+Å@Look at Yoko KawanoÅ@Å@
+Å@Talk with Toko Kawano
+Å@Look around
+Å@Move
+Yoko is taking a pill from it's container.
+Yoko is in a rush to open the container.
+She took out some pills from the cabinet. I guess she was\looking for medicine.
+ÅyYokoÅz It's here.
+ÅyYuichiÅz Huh?
+Yoko took a container from the cabinet. The container did\not have any labels on it. I wonder what the medicine is\for.
+What's the rush?
+I wonder if it is okay for her to be in the cabinet.
+She seems to be looking for something.
+ÅyYuichiÅz You don't have to take your medicine so\quickly.
+130
+Yoko was in a hurry to take the medicine. Her hand was\shaking, and she couldn't hold on to the medicine firmly.
+The pills are falling out of her hands.
+ÅyYuichiÅz Hey, are you okay?
+ÅyYokoÅz *gulp*
+ÅyYuichiÅz You swallowed your pills without any water.\I'll go get you some water...
+ÅyYokoÅz Mmm... Mr...
+ÅyYuichiÅz Huh?
+ÅyYokoÅz Carry me...
+ÅyYuichiÅz What?
+ÅyYokoÅz Carry me to the bed.
+ÅyYuichiÅz Oh sorry. Sure.
+When I gave her my shoulder, she leaned on me. She didn't\have any energy left.
+ÅyYuichiÅz Are you okay? I'll carry you to bed.
+I carried Yoko to the bed.
+Yoko is ignoring me and looking for something.
+ÅyYuichiÅz Can I help you look for whatever it is that you\are looking for?
+ÅyYokoÅz ...
+\What the hell!
+God, young people these days... That is not to say I am\not young.
+ÅyYuichiÅz If you are not feeling good, I think you should\lie down. 
+ÅyYokoÅz ...
+ÅyYuichiÅz Are you going to be okay without the school\nurse around?
+ÅyYokoÅz ...
+Where could the school nurse be.
+There are three beds, and no one is using them.
+A stream of light is coming in from the window.
+It makes me want to take a nap.
+There are clean white beds, a white desk, and a white\cabinet with medicine in it.
+There should be a school nurse wearing a white frock as\well.
+Why is it that the nurse's office are always filled with\white things?
+Hey, are you gonna leave Yoko here all by herself?
+095
+Å@Look at Yoko KawanoÅ@Å@
+Å@Talk to Yoko Kawano
+Yoko seems to be suffering.
+She has small breasts, but they are shaped nicely. These\days, girls grow quickly... What!
+This is not the time to think about such things.
+She seems to be in real trouble. What if she faints, what\am I gonna do?
+ÅyYokoÅz I'm hurting.
+ÅyYuichiÅz Are you okay? Do you want me to look for the\school nurse?
+ÅyYokoÅz Clothes.
+ÅyYuichiÅz What?
+ÅyYokoÅz My clothes...
+ÅyYuichiÅz Oh, I'm sorry.
+When I carried her to the bed, her skirt slid upward.
+I don't think I should leave her like this.
+I fixed her skirt.
+ÅyYuichiÅz Here, that should be better.
+ÅyYokoÅz That's not it.
+ÅyYuichiÅz What's wrong?
+ÅyYokoÅz I'm not feeling good, so please take my clothes\off.
+ÅyYuichiÅz Ok... Um?
+ÅyYokoÅz Please hurry!
+ÅyYuichiÅz But don't you think you should, you know... I\mean, it is good, no, I mean, you should take care of\yourself, no that's not it either...
+ÅyYokoÅz What are you saying?
+ÅyYuichiÅz In any case, I think you should at least take\off your skirt by yourself.
+ÅyYokoÅz ...
+ÅyYuichiÅz I, um, I'll go look for the school nurse now.
+050
+I better go look for the school nurse quick.
+Mmmm, um, ah...
+What, what was that?
+ÅyYokoÅz Professor!
+Yoko seems to be in serious trouble. What am I gonna do? I\mean, I am a complete novice, and I have no clue what to\do.
+ÅyYokoÅz I, I'm...
+She seems to be in terrible pain. Is she going to be okay?
+ÅyYuichiÅz Are you okay?
+ÅyYokoÅz I'm not feeling good...
+ÅyYuichiÅz I know you are not feeling good. What do you\want me to do about it?
+Å@Go look for the school nurse
+Å@Stay with Yoko KawanoÅ@Å@
+I can't just leave her here by herself.
+I went back to the her bed.
+hs0723
+150
+ÅyYuichiÅz DAMN!
+ÅyYokoÅz Mmmm, oooh, ahhhh....
+ÅyYuichiÅz What in the world are you doing?
+I could see what she was doing right away. There was no\point in asking. But I thought she was not feeling good.
+ÅyYokoÅz Professor...
+ÅyYuichiÅz What, what?
+ÅyYokoÅz Please...
+ÅyYuichiÅz What do you mean by please?
+Yoko opened her tightly shut eyes. Her moist eyes were\looking at me.
+ÅyYokoÅz Please look at my pussy!
+Yoko took off the rest of her clothes.
+Yoko opened her legs and pushed up her pussy toward me. I\can see her beautiful pink colored pussy between her\legs.
+Her pussy was pulling me in. Her pink-colored, wet pussy\was calling to me.
+I was pulled to her pussy. When I got there, I could smell\it.
+Yoko opened her pussy wide with her hands in front of\me,and I could see her pink pussy lips right in front of\me.
+ÅyYokoÅz Here professor, look at my pussy... Please.
+From inside her pussy a half-clear liquid was coming out.\Each time her pussy moved, it made a wet sound.
+I'm feeling dizzy. What is wrong with me!
+ÅyYokoÅz Please lick my pussy, professor.
+I did exactly what she said, and gently stuck my tongue\in.
+When my tongue touched her pussy, it contracted real\tight. It was really hot and the taste was a little sour,\but I liked it. I went ahead and inserted my whole tongue\into her pussy.
+ÅyYokoÅz Haaa, ahhh!
+A half-clear juice was coming all over my mouth from\Yoko's pussy.
+I think this smell and her shiny pussy were making my\senses numb.
+ÅyYokoÅz Oh, professor, uhhh!
+I was concentrating on my tongue movement. When I stuck my\tongue deeper into her pink-colored pussy, the pussy\pushed my tongue out.
+But if I only licked the entrance to her pussy, her pussy\would contract and suck in my tongue deeper.
+ÅyYokoÅz Hold my leg up. Yes, like that.
+I did exactly what she said. I lifted her leg so that I\could see her ass. Then I poked my tongue deeper into her\pussy.
+ÅyYokoÅz Uhhhhh, ahhh, more, please, more!!
+Her pussy was making really nasty wet sounds.
+White liquid started coming out from her pussy. It is\soaking wet all around her pussy now. The shinyness makes\it much more lewd.
+An alarm has been ringing in my head. Logic tells me to\stop, but my body wouldn't listen.
+By summoning all the self control that I had, I lifted my\head from Yoko's pussy.
+But Yoko sensed my desire to leave, and pushed my head\against her pussy. Shit, if this keeps on going...
+ÅyWoman's VoiceÅz Is someone here?
+What is that?
+At that moment, a woman's voice echoed through the nurse's\office. Someone came into the room. It was like an angel\calling.
+I stood up forcefully enough to break away her hands. I\tried to come to my senses by shaking my head a few\times.
+ÅyYokoÅz Ahh, what's wrong? You can keep licking my pussy,\you know.
+ÅyYuichiÅz Oh, no thanks. How are you feeling now?
+That must have been a stupid answer. But I couldn't think\of anything else to say.
+ÅyYokoÅz I was feeling really good, but now...
+Yoko seems to be little disappointed and looked at me with\anger. Anyway, why should I help a student masturbate.
+I think I was more mad at myself for my lack of self\control than at Yoko.
+ÅyWoman's VoiceÅz What are you doing?
+050
+050b
+ÅyYuichiÅz Oh, what good timing.
+ÅyGirlÅz What?
+ÅyYuichiÅz She was not feeling good and ... You are...!!
+I almost yelled out "the other lesbian girl!", and I had\to stop my mouth with my hand.
+ÅyGirlÅz What is it?
+ÅyYuichiÅz Oh, it's nothing. Ms. Kawano wasn't feeling\good, so I brought her to the nurse's office.
+ÅyGirlÅz Okay...
+ÅyYuichiÅz But I couldn't find the school nurse, and...
+ÅyGirlÅz Uh-huh...
+I don't think she believes what I say.
+What is this? It seems like I'm trying to hide something\from her. All I did is bring a student who was not\feeling\well to the nurse's office.
+Of course, I did this and that, but...
+ÅyGirlÅz What is it?
+ÅyYuichiÅz Well, I did do this and that...
+ÅyGirlÅz Huh?
+ÅyYuichiÅz Oh no, it's nothing. I mean, I better...
+ÅyGirlÅz What are you saying?
+ÅyYuichiÅz Take care of her for me, and I'll go look for\the school nurse.
+ÅyGirlÅz What?
+I left the nurse's office. The girl was trying to stop me.
+It would be a better idea to stay with Yoko.
+But, what if she faints while I was looking for the school\nurse? Hmmm....
+Besides, I might not find the school nurse at all.
+Å@Change the subjectÅ@Å@
+Å@Look at Hiromi MatsunoÅ@Å@
+Å@Talk to Hiromi Matsuno
+That's a good idea, but what should I talk to her about.
+She seems apologetic.
+Is she thinking about the incident back then? I'm not even\thinking about it.
+Because of the incident, Hiromi Matsuno seems to be\uncomfortable.
+She has not looked at me yet.
+Hiromi Matsuno seems to not want to talk about it.
+ÅyYuichiÅz You ran away when I saw you. Did you need\something?
+ÅyHiromiÅz Sorry about that. I was impolite to professor\Sakuma.
+ÅyYuichiÅz Forget about it. I don't care. Are you done\with whatever you were doing?
+ÅyHiromiÅz ...
+It seems that she is uncomfortable. There is no reason to\push her.
+ÅyHiromiÅz ...
+ÅyHiromiÅz Professor Sakuma...
+ÅyYuichiÅz What happened back there?
+ÅyHiromiÅz ...
+Å@Confess my love to Hiromi Matsuno
+Å@Ask about "Sayuri"Å@Å@
+Å@Ask what she was doing behind the building
+Å@Just chat to make the atmosphere better
+ÅyYuichiÅz Hiromi!
+ÅyHiromiÅz Yes, what is it?
+ÅyYuichiÅz I, I, I am in...
+ÅyHiromiÅz What, what?
+chim2
+ÅyHiromiÅz Oh no, it's time for me to go to my club. I've\got to go...
+ÅyYuichiÅz I think this happens to me far too often.
+ÅyHiromiÅz What?
+ÅyYuichiÅz Oh, nothing. Oh yeah, so which club do you\belong to?
+ÅyHiromiÅz I can't tell a pervert.
+ÅyYuichiÅz That's not fair.
+ÅyHiromiÅz Well, I've got to go now. See you tomorrow.
+ÅyYuichiÅz See you tomorrow.
+id03
+020
+Hiromi Matsuno waved at me and left...
+Sigh...
+I want that...
+.........What!
+I was really saved by the bell.
+If that kept on, I might have done something terrible.
+Forget about Sayuri.
+ÅyYuichiÅz Hmmm, the gymnastics team... Right.
+ÅyHiromiÅz Huh?
+ÅyYuichiÅz There should be many girls in leotards, right?\And girls these days grow up so fast...
+ÅyHiromiÅz ...
+ÅyYuichiÅz ... I mean, um...
+I shouldn't have said that. How stupid of me.
+ÅyYuichiÅz You think I'm perverted now, don't you?
+ÅyHiromiÅz ...
+ÅyYuichiÅz I can understand that. That's too bad.
+ÅyHiromiÅz Oh, not at all.
+ÅyYuichiÅz What?
+ÅyHiromiÅz Professor, you know, you really are not like a\professor at all.
+ÅyYuichiÅz Are you trying to compliment me or what...
+ÅyHiromiÅz I mean, you are a male, and it's natural for\you to be interested in such things.
+\Oh!
+What a nice thing to say. I am touched.
+ÅyYuichiÅz You think so?
+ÅyHiromiÅz Yes.
+ÅyYuichiÅz For real?
+ÅyHiromiÅz You are so funny, professor Sakuma!
+\Oh.
+ÅyHiromiÅz If you go to the gymnastics team practice, I\think you will find her.
+ÅyHiromiÅz I think it's probably Ms. Amamiya.
+ÅyYuichiÅz Amamiya?
+ÅyHiromiÅz Yes, Sayuri Amamiya. She is the student\president, and her grades are always at the top of the\class. She is very popular in this school.
+ÅyYuichiÅz I see, Sayuri Amamiya.... Right. So, where can\I see her, I mean, see Ms. Amamiya at?
+ÅyHiromiÅz I don't know which class she is in, but I think\you can see her if you visit the gymnastics team. She is\also the team leader.
+ÅyYuichiÅz I see. The gymnastics team...
+ÅyYuichiÅz Hey.
+ÅyHiromiÅz Yes.
+ÅyYuichiÅz Do you happen to know anyone by the name of\Sayuri?
+ÅyHiromiÅz Sayuri...
+ÅyYuichiÅz Yeah, Sayuri, it is a common name.
+ÅyHiromiÅz Why do you want to know?
+ÅyYuichiÅz I heard about her in the faculty room.
+ÅyHiromiÅz Oh.
+I guess it is worth trying, since Hiromi Matsuno responded\to me. For just a moment, she even seemed relieved...
+Let's begin with small talk and try to ease the situation.
+I don't care about that.
+She's smiling.
+I shouldn't bring that up right now.
+It doesn't matter now.
+Enough with talking. I'm glad Hiromi is acting more like\her self.
+Is there anything interesting to talk about? Oh yeah.
+ÅyYuichiÅz Oh yeah, did you know that aliens will appear?
+ÅyHiromiÅz Yes I know. I think it's so romantic.
+ÅyYuichiÅz I bet all they will do is bring some guy from\around the corner and tell us that he is from the other\side of the universe.
+ÅyHiromiÅz It's not a joke. I am talking about intelligent\beings from outerspace.
+ÅyYuichiÅz Is that so.
+ÅyHiromiÅz Don't you believe in it?
+ÅyYuichiÅz If it would put money in my wallet, I would\believe it. I would even believe in god (It's true).
+ÅyHiromiÅz People like you will just owe more.
+ÅyYuichiÅz You...
+ÅyHiromiÅz *giggle*
+Next up, current social affairs...
+ÅyYuichiÅz Don't you think the international scene is\changing dramatically?
+ÅyHiromiÅz Yeah, I guess.
+ÅyYuichiÅz We are in a time that is moving so fast.
+020
+020b
+ÅyHiromiÅz You sound like those narrators on\documentaries.
+ÅyYuichiÅz Do I really? That's not good.
+Having a light conversation is harder than I thought.
+Conversations usually start with the weather, then goes to\the economy, and finally to something interesting.
+First, about the weather.
+ÅyYuichiÅz It is such a nice day today...
+ÅyHiromiÅz Huh?
+ÅyYuichiÅz The cold weather is gone...
+ÅyHiromiÅz Um, professor Sakuma?
+I am sure I am on the wrong track, but that's enough with\the weather conversation.
+Å@Look aroundÅ@Å@
+Å@Move
+The classroom is empty.
+Occasionally, female students pass by me as they talk.
+Hiromi Matsuno has already left for club activities. There\were only a few girls walking around.
+Å@Go to the faculty room
+Å@Go to up to the roof
+Å@Go visit the gymnastics teamÅ@Å@
+Alright, I'll go back to the faculty room for the time\being.
+Hmmm, but since we're here, shouldn't we go see the\gymnastics club?
+Maybe I'll go to the rooftop.
+Since we're here, let's go to the gymnastics club.
+I should've ask Hiromi for directions.
+I'll go visit the gymnastics team.
+Shit, come to think of it, I don't know where the\gymnastics team meets.
+Å@Look at the girlÅ@Å@
+Å@Talk to the girlÅ@Å@
+Å@Look at NorikoÅ@Å@
+Å@Talk to NorikoÅ@Å@
+She looks at me with an innocent expression. Her mental\age seems to be about 10 years old.
+ÅyNorikoÅz What is it?
+ÅyYuichiÅz Yes, I knew it.
+ÅyNorikoÅz Huh?
+She looks a bit sulky.
+The girl is looking at me.
+The girl is looking surprised. Her shorts caught my\attention.
+Sports shorts... They can be such a turn on.
+The girl wearing the shorts looks really young, but that\makes her look really cute.
+ÅyNorikoÅz I heard them saying that since they finished\their competition, they are taking a break this week.
+ÅyYuichiÅz They are taking a break this week?
+ÅyNorikoÅz I think so. They will probably start practice\next Monday.
+ÅyYuichiÅz I see.
+ÅyNorikoÅz Why are you looking for the gymnastics team?
+ÅyYuichiÅz Oh, um, I wanted to see how they are doing.\That's all.
+ÅyNorikoÅz Oh my god, you're so perverted.
+ÅyYuichiÅz That is not true. I simply wanted to know more\about gymnastics.
+ÅyNorikoÅz Yeah, sure...
+She is yawning. She is not even listening to me.
+ÅyYuichiÅz Uh hum, well, I'll come again next time Noriko.
+ÅyNorikoÅz You can come and play anytime. See you again.
+ÅyYuichiÅz I didn't come to play, but I'll come again.
+060
+ÅyYuichiÅz Hey, do you know where the gymnastics team\practices?
+ÅyNorikoÅz ...
+ÅyYuichiÅz This is the first gym, right?
+ÅyNorikoÅz ...
+ÅyYuichiÅz Okay, okay, fine, Noriko... I mean, I should\call you Nori, right?
+ÅyNorikoÅz *giggle* So what do you need to know?
+ÅyYuichiÅz I wanted to know about the gymnastics team.
+ÅyNorikoÅz I don't know much about the gymnastics team.
+ÅyYuichiÅz You...
+ÅyYuichiÅz Well, Ms. Furima, I wanted to ask you\something.
+ÅyNorikoÅz I won't say anything until you call me Nori!
+ÅyYuichiÅz But...
+ÅyNorikoÅz No, no, no, no, NO!
+The students are looking at me in a circle, and whispering\something about me. This is not what it looks like!
+ÅyYuichiÅz Okay, okay, okay... Please calm down.
+ÅyNorikoÅz Really?
+ÅyYuichiÅz Yes, really.
+ÅyNorikoÅz Then call me Nori.
+ÅyYuichiÅz Nori...
+ÅyNorikoÅz Not like that!
+ÅyYuichiÅz I said it right, didn't I?
+ÅyNorikoÅz It's Nori.
+ÅyYuichiÅz It's the same!
+ÅyGirlÅz Call me Nori, okay?
+ÅyYuichiÅz This is so embarrassing...
+ÅyYuichiÅz Um, you are...
+ÅyGirlÅz ...
+The girl wearing the shorts is pointing at her name tag.
+ÅyYuichiÅz Oh, um, Furuma, or is it Furima?
+ÅyGirlÅz Is something wrong?
+ÅyYuichiÅz Oh, not at all. Ms. Furima, right?
+ÅyGirlÅz I'm Noriko Furima.
+ÅyYuichiÅz Okay, and I am...
+ÅyNorikoÅz Professor Sakuma, right?
+ÅyYuichiÅz How did you know?
+ÅyNorikoÅz Of course, I know who you are. You are already\famous, you know. The guy who was standing lost in front\of our school gate.
+ÅyYuichiÅz That's not the way it was...
+Å@Look aroundÅ@Å@
+Å@Move
+What a warm gym. Girls wearing shorts are playing sports.
+Noriko Furima started exercising. Wow, do not open your\legs so much.... What!
+I looked around. No one seems to notice me. That's a\relief.
+After I finished talking to Noriko, all the students\surrounding us were gone.
+Shit, those gossip-mongering students. I hope they stop\acting like old ladies.
+Å@Go to the classroomÅ@Å@
+Å@Go to up to the roof
+Okay, let's go back to the classroom.
+Let's go to the rooftop.
+Å@Look aroundÅ@Å@
+Å@Move
+No one seems to be in the principal's office.
+On a large desk, there are some documents and lists of\names.
+I was tempted to take a look, but I shouldn't.
+It seems Yoshiko Amamiya isn't here. That's unusual.
+Å@Go to the faculty roomÅ@Å@
+Å@Go to the front of the school gate
+Å@Go to the nurse's office
+Okay, let's go to the faculty room.
+Let's go to the school gate.
+The nurse's office? Okay, let's go!
+Å@Look aroundÅ@Å@
+Å@Move
+There seems to be no school nurse here...
+ÅyGirlÅz I thought we were going to find the school nurse.
+Å@Go to the faculty room
+Å@Go to the principal's officeÅ@Å@
+Å@Go to the front of the school gate
+Okay, let's go to the principal's office.
+Let's go back to the faculty room.
+Okay, let's go to the school gate.
+030
+Å@Move
+Å@Think
+Å@SaveÅ@Å@
+I should go home now.
+My first day at school, which seemed a little short, is\finally over.
+My investigation resulted in nothing. I'll work harder\tomorrow.
+I may want to think about it some more.
+Å@CancelÅ@Å@
+Å@Save 1
+Å@Save 2
+Å@Save 3
+save1
+Data saved in Save 1.
+save2
+Data saved in Save 2.
+save3
+Data saved in Save 3.
+030
+Å@Move
+Å@Think
+Å@SaveÅ@Å@
+Å@Think about the gymnastics teamÅ@Å@
+Å@Think about the Amamiya Private School
+There will be no practice for the gymnastics team this\week.
+I wanted to meet Sayuri Amamiya, but since the practice is\canceled, I guess I'll have to meet her some other time.
+It's not like I will never see her. I'll visit her when\the practice starts next week.
+Well, this school is really the tops.
+It sure has everything it needs to be a top school.
+It's only my first day here, and there are many things\that I need to know.
+I'm sure the school looks different from the inside than\the outside. I better be careful not to be fooled.
+Å@Go to the classroom
+Å@Go to the principal's officeÅ@Å@
+Å@Go in front of the school gate
+Å@Go to the nurse's office
+There is no point in there.
+I may want to think a little more about this.
+The principal? I already talked to her.
+I may want to think a little more about this.
+I can't go to class anymore. Let's go home early.
+I may want to think a little more about this.
+Well, I think that is enough for today. If I solve it all\in one day, there will be no place for Megumi.
+I went home.
+Of course, I am not excited about the investigation\starting tomorrow.
+s05
+I feel like I should think about this a little more.
+Å@CancelÅ@Å@
+Å@Save 1
+Å@Save 2
+Å@Save 3
+save1
+Data saved in Save 1.
+save2
+Data saved in Save 2.
+save3
+Data saved in Save 3.

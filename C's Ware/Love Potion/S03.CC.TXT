@@ -1,0 +1,620 @@
+030
+This is the faculty room.
+030
+There are many different girls here.
+Well, there ARE about a thousand girls at this school.
+It would be scary, if they were all alike.
+030
+This is the faculty room. What should I do now?
+id21
+030
+That principal's a beauty, but she'll be hard to deal with.
+I can handle talking to her, but those eyes. I just get so hot. I'm such a good-for-nothing.
+030
+Å@Move
+Å@Think
+Å@SaveÅ@Å@
+I hope I can get the handle of things around here quickly.
+It's my first day here... I should take a look around the school.
+This must be what it is like, a private school for girls.
+I wonder what the principal thinks about the school?
+I thought it was just an ordinary young lady's school, but it's quite something, not to be underestimated.
+Well, it's my first day here... I should look around school.
+Ditching class and performing lesbian acts... They're not as innocent as they seem.
+But I'm interested in what they could tell me.
+All of my classes are done. I should use this time to check things out.
+That principal is so sexy...
+I was such a wimp back there. Enticed by a woman... I should think about that.
+Å@Go to the classroom
+Å@Go to the principal's officeÅ@Å@
+Å@Go in front of the school gate
+Okay, I'll go see the principal.
+id51
+I think I'll go to the classroom.
+id03
+I think I'll go in front of the school gate.
+id03
+Å@CancelÅ@Å@
+Å@Save 1
+Å@Save 2
+Å@Save 3
+save1
+Data saved in Save 1.
+save2
+Data saved in Save 2.
+save3
+Data saved in Save 3.
+040
+040b
+*knock knock*
+ÅyYuichiÅz It's Yuichi.
+ÅyToshikoÅz Come in.
+ÅyToshikoÅz Welcome, Professor Sakuma.
+ÅyYuichiÅz Sorry for the inconvience... that happens often.
+ÅyToshikoÅz It's alright... I will never to the door to Professor Sakuma.
+040
+040b
+*knock knock*
+ÅyYuichiÅz It's Yuichi.
+ÅyToshikoÅz Come in.
+ÅyToshikoÅz Can I help you, Professor Sakuma?
+ÅyYuichiÅz Oh no. I just wanted to see you.
+ÅyToshikoÅz Thank you.
+040
+040b
+*knock knock*
+ÅyYuichiÅz It's Yuichi.
+ÅyToshikoÅz Come in.
+ÅyToshikoÅz Can I help you, Professor Sakuma?
+040
+040b
+*knock knock*
+ÅyYuichiÅz It's Yuichi.
+ÅyToshikoÅz Come in.
+ÅyToshikoÅz Can I help you, Professor Sakuma?
+ÅyYuichiÅz Oh no. I just wanted to see you.
+ÅyToshikoÅz Thank you.
+Å@Look at Toshiko AmamiyaÅ@Å@
+Å@Talk to Toshiko Amamiya
+Å@Look around
+Å@Move
+ÅyToshikoÅz I'm counting on you.
+ÅyYuichiÅz I understand.
+ÅyToshikoÅz When there's a man around, all the girls know it.
+ÅyYuichiÅz Really...
+ÅyToshikoÅz If there's a student who catches your eye, please tell me.
+ÅyYuichiÅz A student who catches my eye?
+ÅyToshikoÅz I'm not going to do anything. I'll just tell the student to not get in your way.
+ÅyYuichiÅz It's my first time in a girls' school. I hope I won't cause you much trouble.
+ÅyToshikoÅz Don't worry. It's my job.
+ÅyToshikoÅz Are you getting used to the atmosphere here?
+ÅyYuichiÅz Um, there are many kinds of students here, aren't there?
+ÅyToshikoÅz They're at a very tender age, I'm sure there are peculiar students too.
+ÅyYuichiÅz Right... I mean... I guess so...
+ÅyToshikoÅz Was there a student who took a great interest in you?
+ÅyYuichiÅz Um, no, that's not what I meant.
+Just because a student is a little peculiar doesn't mean I should report it to the principal.
+ÅyToshikoÅz Anything else
+ÅyYuichiÅz Um, no.
+At any rate, I don't have to talk to the principal anymore
+ÅyYuichiÅz I'm sorry... I've visited often for trivial things.
+ÅyToshikoÅz Please don't worry about that. Communication with teachers is also a duty of the principal.
+ÅyYuichiÅz Oh, I see...
+ÅyToshikoÅz Besides...
+ÅyYuichiÅz Besides?
+ÅyToshikoÅz I would like to know more about you, Professor Sakuma...
+Toshiko Amamiya squinted her eyes and smiled thinly. I was surprised to see her smile.
+Hey, what am I nervous about? Her "I want to know" must be referring to my personality and work performance as a teacher.
+ÅyYuichiÅz Uh, yes. I will try to visit this office as much as possible.
+ÅyToshikoÅz I would be very grateful if you could do that.
+ÅyYuichiÅz And anyway, it is at your service to come and see the principal... but I think we have talked about this before.
+ÅyToshikoÅz It's called deja vu. It is caused by vague memories and misconceptions.
+ÅyYuichiÅz Oh, I see... hmmm... I'm learning.
+ÅyYuichiÅz Oh, please don't misunderstand me.
+ÅyToshikoÅz What, sir?
+ÅyYuichiÅz I don't mean that I came to see the principal, or that I came to talk to you without meaning to.......
+ÅyToshikoÅz Oh, then what can I do for you?
+ÅyYuichiÅz What, may I help you... (There is no such thing).
+ÅyToshikoÅz ...?
+ÅyToshikoÅz Anything else?
+ÅyYuichiÅz Um... Thank you for helping me.
+ÅyYuichiÅz So does this mean you're in love?
+ÅyToshikoÅz Well, I won't deny it.
+She gave me a luscious smile and kept her eyes on me.
+I guess people aren't always what they seem to be. But damn, I turn into a wimp when she stares at me like that.
+ÅyToshikoÅz I'll tell you, because you're special.
+ÅyYuichiÅz Thank you.
+ÅyToshikoÅz Eat well and exercise.
+ÅyYuichiÅz Oh, okay. (That's kind of normal).
+ÅyToshikoÅz Are you disappointed?
+ÅyYuichiÅz No, not at all... (Shit, she read my mind!)
+I thought my big mouth had slipped, and I had said what I was thinking. She's pretty sharp.
+ÅyToshikoÅz There's another secret.
+ÅyYuichiÅz A secret huh? Could you tell me what it is?
+ÅyToshikoÅz You have to be in love.
+ÅyYuichiÅz In love?
+ÅyToshikoÅz That's right, in love. That's the secret to keeping your youth and beauty.
+ÅyYuichiÅz Oh, okay.
+Wow... I didn't expect THAT from the principal.
+ÅyToshikoÅz Is there something wrong?
+ÅyYuichiÅz Um... I was just umm... Gathering my thoughts.
+ÅyToshikoÅz Oh... is that the Chinese meditation you were talking about?
+ÅyYuichiÅz Right. My meditation level peaks in this room.
+ÅyToshikoÅz Okay... And what was it you wanted to talk to me about?
+Shit!
+ÅyYuichiÅz I... I was just wondering how you keep so beautiful all the time.
+ÅyToshikoÅz *giggle* You're very funny.
+ÅyYuichiÅz I... I was just interested.
+It was poor, but the principal bought it. There's no woman who doesn't like to be complimented about their looks.
+...
+......
+Well, it's a strict school. I'm not surprised that the students take abnormal actions to relieve their stress.
+I don't like reporting students to the principal every time I see something abnormal. I consider myself pretty open.
+And I don't want her to know that I was peeping.
+I came to the principal's office before the shock from the lesbian scene wore off. How should I say this?
+"I just saw two women making love on the roof! What should we do!?"
+No... I won't say that.
+ÅyToshikoÅz Can I help you, Professor Sakuma?
+ÅyYuichiÅz Um, no.
+ÅyToshikoÅz Is there anything else?
+ÅyYuichiÅz Um, no.
+ÅyYuichiÅz I just wanted to see you.
+ÅyToshikoÅz *giggle* You're funny.
+ÅyYuichiÅz Wait... But don't get me wrong.
+ÅyToshikoÅz What?
+ÅyYuichiÅz It's not that I came to see you because I was bored or anything.
+ÅyToshikoÅz Oh okay, what did you want?
+ÅyYuichiÅz Um... (That WAS the reason why I came.)
+ÅyToshikoÅz ...?
+There's something about this woman that makes me feel like a sissy.
+It may not be appropriate to use the word "mature woman" to describe her. However, there is no doubt that she is a mature woman.
+While she's dressed in a rough, casual outfit with a suit pulled over her shoulders, she doesn't give the impression of being unnatural. In fact, it's full of unique elegance.
+She is an example of how a beautiful woman can dress any way she wants.
+Toshiko Amamiya is giving me a luscious smile.
+She's looking at me with a strange look.
+Shit... Shit! I have to say something, or I'm gonna go crazy!
+I don't want to be perverted or anything, but she does have a way of pumping my engine.
+She looks slender, but she is stacked!
+I didn't want to be perverted or anything but I couldn't stop my eyes wandering around her body.
+She wore a striped navy blue suit, like a career woman. She looked damn fine.
+ÅyToshikoÅz Is there a problem with the suit?
+ÅyYuichiÅz It um... It looks good on you.
+ÅyToshikoÅz Why, thank you. It's my favorite.
+It had an atmosphere of a principal's office.
+I wonder if she gets any work done in an office like this.
+The room is so formal. I guess the principal's office is supposed to look like this.
+Å@Go in the faculty roomÅ@Å@
+Å@Go in front of the school gateÅ@Å@
+I should talk to the principal a little bit more.
+ÅyYuichiÅz If you'll excuse me...
+ÅyToshikoÅz Please come again.
+I decided to go back to the faculty room.
+id21
+I should talk to the principal a little bit more.
+ÅyYuichiÅz If you'll excuse me...
+ÅyToshikoÅz Please come again.
+I decided to go in front of the school gate.
+id03
+080
+This is the roof.
+Hiromi Matsuno was right. It does have a beautiful view.
+080
+I came to the roof.
+Phew, I think I'll have a smoke here. No one else seems to be around, so I guess it's a good choice.
+080
+This is the roof.
+Wow, Hiromi Matsuno's recommendation was right. The view is beautiful.
+Å@Look aroundÅ@Å@
+Å@Move
+There seems to be no one around.
+It's a beautiful rooftop with a great view, but not many people around...
+I wonder if this cold weather is the cause after all.
+I've heard that things like that go on in girls' school but...
+Isn't it a little cold for that?
+It's a beautiful roof.
+The roof is so clean and beautiful that I might take a nap up here when I'm tired. It's a great place to take a cigarette break.
+The sky is so blue, and the clouds are moving slowly across the sky.
+Å@Go to the classroomÅ@Å@
+Å@Go to the gymÅ@Å@
+I decided to head back to the classroom.
+id03
+Let's go the gymnasium and meet this "sayuri" of the rhythmic gymnastics club.
+id12
+020
+I'm in front of the classroom.
+People are sparse inside and outside the classroom.
+020
+I'm in front of the classroom.
+The classes must be done for the day. I see a number of students with their backpacks.
+020
+020d
+I'm in front of the classroom.
+It must be time for lunch. There are a few students in the hallway.
+020
+I'm in front of the classroom.
+It seems that classes are still in session. The area is quiet and still.
+020
+I'm in front of the classroom.
+That took me by surprise...
+I mean, it is a girls' school. I guess it's not so uncommon.
+020
+I'm in front of the classroom.
+I'm a bit tired and wanna smoke, but not in the faculty room.
+020
+I'm in front of the classroom.
+There must be classes still going on. It's really quiet.
+Å@Look aroundÅ@Å@
+Å@Move
+There isn't anything special around.
+I hear club activity noises outside.
+They had no morning classes today, so there aren't many in the classrooms.
+I hear a professor's voice echoing down the hallway.
+I don't see any students in the hallways. This really is a strict school.
+The floors are waxed and shining. The doors and the walls are clean.
+Å@Go in the faculty roomÅ@Å@
+Å@Go up to the roof
+Let's go back to the faculty room.
+id21
+Let's go up to the roof.
+id08
+Yeah, it would be a good idea to gather my thoughts, while I smoke on the roof.
+id08
+I'm gonna go up to the roof to get some fresh air.
+id08
+010
+010b
+I went to the school gate.
+010
+I'm in front of the school gate.
+Is it lunchtime? Are the classes done for the day? I see a number of students with their backpacks.
+010
+This is the front of the school gate.
+Silence surrounds me. There's nothing more eerie than a school while in session.
+010
+This is the front of the school gate.
+It is a huge, iron gate.
+Å@Look aroundÅ@Å@
+Å@Move
+I see a few students in front of the school gate.
+A few athletic clubs already started their practices. I hear shouts now and then.
+But damn, it's a huge gate.
+I recall that this school wants to be great in everything, but even the school gate?
+I should head back now.
+No students are ditching classes.
+...But those lesbians were ditching classes and making out...
+...I guess they're not as innocent as they look.
+But I am interested in what they were talking about...
+chim2
+The classes are over. I should head back now.
+There's no one around.
+Everything's quiet around here.
+There's not a girl wearing a clad school uniform in sight.
+Yeah, it is during class time. I'm sure there're no students ditching.
+But damn, it's a huge gate.
+I recall that this school wants to be great in everything, but even the school gate?
+Å@Go to the faculty room
+Å@Go to the principal's officeÅ@Å@
+I'll head back to the faculty room.
+id21
+Okay, I'll go see the principal.
+id51
+Alright, I'll head to the infirmary.
+id40
+080
+I came to the roof.
+I felt the sun's warmth, as I laid down and took out cigarettes.
+I'm not supposed to smoke in the faculty room.
+It's becoming harder for smokers like me.
+ÅyYuichiÅz But it sure does feel good, taking a cigarette break. It reminds me of my high school years.
+It felt so good up here that I even talked aloud.
+It's kind of embarrassing talking to myself. I always look around to see if anyone else is around.
+When I talk to myself, I always take a look around.
+I wonder if it is just me who does that?
+I knew that I was the only person up here taking a cigarette break.
+...
+......
+ÅyYuichiÅz It's quiet huh?
+......
+Oh god...
+ÅyYuichiÅz What was that?
+......
+ÅyYuichiÅz Did I just hear something?
+ÅyYuichiÅz Or, was it just my imagination.
+Å@Look aroundÅ@Å@
+Å@Listen carefully
+There's no one around.
+It doesn't seem like there's anyone around. Was I just hearing things?
+I wonder if someone's here. Getting caught smoking by a student... Shit...
+A student, I might be able to get away with it. But what if it's that beautiful principal?
+She'll probably say something like she's disappointed in me.
+She might even fire me. Now THAT'LL be a problem.
+God...
+It sounds like... There're only a few situations when you would hear that kind of voice.
+Hmm. Nah- it can't be. Well... Maybe...
+I do wanna go see it but...
+......
+Oh yeah...
+Now I know I heard it!
+There's silence all around. I only hear birds singing.
+...
+......
+Hmm. I don't hear anything anymore. I thought I heard human voices.
+Å@Since I'm a professor, I'll head backÅ@Å@
+Å@I'll just stay quiet for a moment
+Å@Go towards where I heard the voices
+It's a joke right?
+As a professor, I should go check it out.
+Wait, because I'm a professor, I can't just let it go.
+Just go!
+What if it ends before I get there... I... I mean what if it was rape or something like that.
+Am I suppose to just sit here?
+Okay, I'm gonna get to the bottom of this.
+hs0701
+100
+ÅyGirl's Voice 1Åz Oh yeah... That feels good...
+ÅyGirl's Voice 2Åz You're so hard...
+ÅyYuichiÅz Holy baloney!!!
+There were two girls, one with black hair, the other with brown hair, having sex.
+ÅyYuichiÅz Well, it is a girls' school. I guess things like this do go on. But man... look at 'em go.
+I gulped. My eyes were fixed on these two angels eating each other out.
+The brown hair girl slowly kissed the black hair girl. It was a beautiful sight.
+ÅyBlack-Haired GirlÅz *moan*
+They were French kissing. They were sucking each other's lips.
+I saw their twirling tongues, as they sucked on each other.
+Their cheeks moved as their tongues twirled.
+The brown-haired girl cupped her boobs and flicked her pink nipple with one hand, as the other hand was groping the black-haired girl's pussy.
+ÅyBlack-Haired GirlÅz Oh god... Do my nipples too...
+ÅyBrown-Haired GirlÅz It's so hard...
+ÅyBlack-Haired GirlÅz OH please... Hurry!
+There was such a contrast between their innocent looks and their erect nipples. It was quite a turn on.
+As the tongue twirled around the nipples, I heard moans.
+ÅyBlack-Haired GirlÅz Oh, good. Bite me, bite me! Oh yeah...
+Her nipples were bitten a little too hard. The black-haired girl had tears in her eyes.
+ÅyBlack-Haired GirlÅz Oh yeah...
+ÅyBrown-Haired GirlÅz Please... Now let me cum...
+ÅyBlack-Haired GirlÅz Okay... I'll let you kiss my wet pussy now.
+ÅyBrown-Haired GirlÅz Thank you...
+Both of them had red hot cheeks and glistening eyes. It seems that the black-haired girl was the leader.
+As the skirt came up, the brown-haired girl threw her head between the other's legs.
+110
+ÅyBlack-Haired GirlÅz Oh god... Deeper! Deeper!
+ÅyBrown-Haired GirlÅz *suckling sound*
+ÅyBlack-Haired GirlÅz I'm SO wet.
+ÅyBrown-Haired GirlÅz *more suckling*
+ÅyBlack-Haired GirlÅz You have to drink up my love juice too...
+ÅyBrown-Haired GirlÅz Yes...
+The brown-haired girl's mouth was drenched with love juice. Her tongue was going in and out of the black-haired girl's cunt.
+A white residue was coming from her twat. The brown-haired girl opened up her pussy with her fingers and sucked the residue coming out.
+ÅyBlack-Haired GirlÅz Is it good?
+ÅyBrown-Haired GirlÅz Yes... It's delicious...
+ÅyBlack-Haired GirlÅz Oh god... Yes... Yes... Use your tongue.
+Seeing how she gasped, I could easily imagine what the tongue was doing inside her pussy.
+Oh shit... Now the brown-haired girl started masturbating. What a slut! *gulp*
+In the last few minutes, I gulped more than a few times.
+......
+But...
+As a professor, I was kind of ashamed of myself.
+I should...
+Å@Join them
+Å@Peeping is good enough for meÅ@Å@
+Å@Leave
+I said it's not possible!
+If you think about it, you can't do it.
+I should join them for a menage-a-trios.
+What am I saying?!
+I do wanna stay here a little longer, but it goes against my principles.
+Shit... I do wanna keep on looking, but I feel disgraceful.
+I started to feel ashamed.
+The brown hair girl started a conversation as I started to leave.
+ÅyBrown-Haired GirlÅz You know...
+ÅyBlack-Haired GirlÅz What?
+ÅyBrown-Haired GirlÅz Whoever heard of leaving notes when you run away from home.
+ÅyBlack-Haired GirlÅz ...But there are... At this school.
+ÅyBrown-Haired GirlÅz It's because they rebelled against Sayuri.
+This was unexpected. I stopped to listen.
+Isn't this conversation...
+Å@Just a chat?
+Å@About sex?
+Å@About the missing students?Å@Å@
+It probably doesn't have anything to do with sex.
+I don't think it has anything to do with sex.
+Leave a note and run away? How perverted.... Wait...
+No... It's not just a chat.
+It sure doesn't sound like a chat.
+It probably means that girls don't leave notes when they run away from home. Yeah, probably.
+Nah- this isn't just a chat.
+It sounds like they're talking about the runaway students. But who is this "Sayuri" girl?
+It's probably not the brown-haired girl. Maybe the black-haired girl? Or is it someone different?
+It sounds like a girl's name, but haven't I heard of that name before?
+ÅyBlack-Haired GirlÅz ...Right... Get it?
+ÅyBrown-Haired GirlÅz Right. I get it.
+Damn, they're starting to whisper. You are suppose to be alone... Talk louder!
+Å@Get a little closerÅ@Å@
+Å@Just leave
+Å@Listen moreÅ@Å@
+I was listening so carefully, that I forgot to check my footing.
+I KICKED A BUCKET.
+It was a loud noise. I jumped when I heard it.
+I kicked a bucket that was near my feet. Shit!
+ÅyBlack-Haired GirlÅz Who's there!?
+The black-haired girl's voice echoed.
+I ran for it!
+id03
+I'll just listen a little bit more.
+Yeah, this would be the right moment to go.
+But they might know something about the missing students.
+If I can get a little bit closer.
+I can't hear well from here. If I can get a little bit closer...
+Å@Look aroundÅ@Å@
+Å@Move
+There's a girl staring at me.
+Normally, you would try to look the other way, but this girl keeps looking at me.
+Hmm. This is not an easy situation to handle.
+I should've looked the other way, but instead I kept staring back, and now the girl is starting to come over.
+Shit... What if she's a bad......
+The girls, who walked by, seemed to all look at me.
+I like being looked at by girls, but this is uncomfortable.
+It must be lunch break. There are many student walking in the hallways.
+There are some students who turn around. I guess having a stranger in your school is unusual.
+Å@Go in the faculty roomÅ@Å@
+Å@Go up to the roof
+Let's go back to the faculty room
+id21
+Let's go up to the roof.
+id08
+id02
+020d
+020
+The students stop and turn to look at me.
+Å@Look at the studentÅ@Å@
+Å@Talk to the studentÅ@Å@
+She looking at me like if I'm some kind of a pervert. What a bitch.
+She looks cold, but also very beautiful.
+I get the impression that she's pretty cold.
+A little different from principal Toshiko's stare. I can't look at her straight in the eyes.
+A handsome face and a slender body... Boy, she's a beauty. Yeah, she's more beautiful than cute.
+ÅyYuichiÅz Hi... I hope I can do well here...
+ÅyBitchy-Looking GirlÅz ...
+How in the hell am I supposed to deal with that.
+ÅyYuichiÅz Hello?
+ÅyBitchy-Looking GirlÅz Hi, nice to meet you.
+ÅyYuichiÅz Excuse me?
+ÅyBitchy-Looking GirlÅz I said, "Nice to meet you."
+ÅyYuichiÅz Oh... Umm... Nice to meet you too.
+ÅyBitchy-Looking GirlÅz ...
+What do I say?! What a bitch...
+ÅyYuichiÅz You know what?
+ÅyYuichiÅz Um.
+I was about to lecture her on manners when she abruptly turned and walked away.
+What the hell!?
+I haven't seen her before... I wonder who that was.
+ÅyBitchy-Looking GirlÅz So you're the new professor.
+ÅyYuichiÅz Nice to meet you.
+ÅyBitchy-Looking GirlÅz ...
+Hmmmm...
+ÅyBitchy-Looking GirlÅz So you're the replacement for Ms. Sasaki.
+ÅyYuichiÅz Right... Nice to meet you. I'm Yuichi.
+ÅyBitchy-Looking GirlÅz ...
+I introduced myself, but there was no reply. She's not in any of my classes. I wonder who she is.
+ÅyYuichiÅz Excuse me...
+ÅyBitchy-Looking GirlÅz ...
+ÅyYuichiÅz Hellooooo?
+ÅyBitchy-Looking GirlÅz ...
+What a bitch!
+ÅyYuichiÅz Can I help you with something?
+ÅyBitchy-Looking GirlÅz ...
+Fine... Ignore me...
+id03
+Å@Look aroundÅ@Å@
+Å@Move
+The bitchy looking girl isn't there anymore.
+Beautiful, but not my type.
+I prefer a woman who is warmer. Like Hiromi Matsuno. What!
+The bitchy looking girl disappeared into a crowd of students.
+Å@Go in the faculty roomÅ@Å@
+Å@Go up to the roof
+Let's go back to the faculty room.
+id21
+Let's go up to the roof.
+id08
+Å@Look aroundÅ@Å@
+Å@Move
+I should head back now.
+There are many students going home. The ones that know me bow as they walk pass me.
+I wonder what Hiromi Matsuno is doing. Maybe she's involved in some after-school activities.
+It's probably because there're only morning classes today. It's only twelve, and after-school activities are starting.
+ÅyYuichiÅz I should head back now.
+Right when I started to leave, a student came running out of the back of a building.
+Isn't she...
+Let's look around a little more.
+Å@Principal Amamiya?Å@Å@
+Å@Sherry from that Manila bar?
+Å@Hiromi Matsuno?
+No, it's not Toshiko Amamiya.
+Is that Principal Amamiya?
+No, the principal wouldn't be wearing the school uniform. Maybe she's kinky?
+No, I don't think she's into that kind of stuff.
+No, I really don't think it's Sherry from the Manila bar.
+Think about it. What would she be doing in a school uniform running from the back of a building.
+Plus, she's much more voluptuous. What am I saying?
+That's gotta be Sherry from that Manila bar, that my boss took me to.
+I spent a ton of money on her, so she would not forget me. What!
+It's probably Hiromi Matsuno. Why would she be running out the back of a building.
+I'll just call to her.
+ÅyYuichiÅz Hey! Hiromi!
+The student stopped and looked around. Yep, that's her.
+ÅyYuichiÅz Over here.
+id57
+010b
+010
+When I approached her, she looked shocked.
+There's something wrong...
+Å@Look at Hiromi MatsunoÅ@Å@
+Å@Talk to Hiromi MatsunoÅ@Å@
+There's something wrong...
+She's looking back at where she came from. I wonder...
+She is not smiling.
+Hiromi Matsuno is afraid of something...
+No, not afraid. More like being cautious.
+ÅyYuichiÅz Is there something wrong?
+ÅyHiromiÅz No no. That's not it.
+ÅyYuichiÅz What's not it?
+ÅyHiromiÅz Um.
+ÅyYuichiÅz ...?
+ÅyHiromiÅz I'm sorry...
+ÅyYuichiÅz Why are you apologizing? You haven't done anything wrong.
+ÅyHiromiÅz Well yeah but...
+ÅyYuichiÅz But what?
+ÅyHiromiÅz I... I have to go.
+ÅyYuichiÅz Wait!
+......
+Before I could stop her, she was running toward the school buildings.
+ÅyYuichiÅz What's wrong? You don't look well.
+ÅyHiromiÅz No, nothing is wrong.
+No, there's something...
+ÅyHiromiÅz I, well...
+I've been terribly restless since a while ago. I wonder what's wrong.
+ÅyHiromiÅz Professor Sakuma...
+Hiromi Matsuno looks surprised.
+Å@Look aroundÅ@Å@
+Å@Move
+I wonder what is over there. Maybe I'll take a look.
+I wonder what she was doing in the back of the building.
+Hiromi Matsuno isn't here anymore.
+Okay, I'll check the back of the building.
+No. I probably shouldn't make my move yet.
+120
+There's a student crouched over.
+Å@Look at the studentÅ@Å@
+Å@Talk to the student
+She doesn't look well, but that helpless look was turning me on...
+Where did I see her?
+I know I've seen her before...
+I wonder if there's something wrong with her. She's crouched over, and she is breathing heavily.
+ÅyYokoÅz Can I help you?
+ÅyYuichiÅz Well? You want to go to the nurse's office, don't you?  Oh!
+ÅyYokoÅz Are you okay?
+ÅyYuichiÅz I... I don't know where the nurse is.
+ÅyYokoÅz You don't know?
+*sob*
+ÅyYokoÅz I'll lead you there.
+ÅyYuichiÅz Th... Thanks.
+I headed for the nurse, carrying Yoko Kawano.
+The nurse's office has an unique odor.
+s04
+ÅyYuichiÅz Wait... you're...
+That lesbian on the roof... I wanted to put my hands over my mouth.
+ÅyGirlÅz ...?
+ÅyYuichiÅz Oh, I'm sorry. Are you okay?
+ÅyGirlÅz I don't know... I don't feel well.
+ÅyYuichiÅz What's your name?
+ÅyGirlÅz My name is Kawano. Yoko Kawano.
+ÅyYuichiÅz Do you want me to take you to the nurse?
+ÅyYokoÅz Yes, please.
+Yoko looked at me, helplessly.
+Knowing what happened on the roof, please don't look at me like that...
+I must not be getting enough lately. I mean having sexual fantasies about the principal is one thing, but a kid!?
+ÅyYuichiÅz Are you okay?
+ÅyGirlÅz What?
+ÅyYuichiÅz Are you okay?
+ÅyGirlÅz I... I don't feel well.

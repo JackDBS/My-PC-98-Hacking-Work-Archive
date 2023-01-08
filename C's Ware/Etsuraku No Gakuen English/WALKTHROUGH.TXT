@@ -1,0 +1,772 @@
+=========================^============================^========================
+                                Love Potion (PC)
+             Copyright 1994, 1998 by C's Ware and Himeya Soft, Inc.
+                                  Walkthrough
+
+                                      by    
+    
+                                 Ben Woodhouse 
+                         shaky_mercury(at)yahoo<dot>com 
+                                 Oct. 29, 2003 
+                                 Version  1.01
+
+=========================^============================^========================
+
+******************************CONTENT DISCLAIMER*******************************
+Love Potion is an adult bishoujo game, meaning it contains sex. Therefore it 
+is intended solely for people over the age of 18.  If you are of age and still 
+find such material objectionable, then you probably have no interest in 
+playing this game or reading this FAQ.
+******************************************************************************* 
+Himeya Soft offers many of C's Ware's titles.
+Check them out online at shop.himeya.com.
+Jast USA also sells Himeya's translated titles.
+Find their store at www.jastusa.com.
+
+-=--=-====--==-=--==--
+  TABLE OF CONTENTS
+-=-=-==--=----=-=-=-==
+
+  i.     Introduction
+  ii.    System Requirements
+  iii.   Characters
+  iv.    Walkthrough
+  v.     Version History
+  vi.    Copyright Information
+
+-=-=--===-====----==-=-=-==-=-=-==--=-=-==--=-=--==-=-=--==-=--=-=-==--==-=-=-=
+                              i. INTRODUCTION
+=--=-=-=-=--=---===-=-=--=-=-==-=-=-=--=-==--==---=-==-=-=-==--=-=-=-=-=-==--==
+
+Something's not right at the prestigious Amamiya Private School.  For
+years, the Amamiya family has overseen the institution, working hard
+to help girls mature into refined young ladies.  But now the students
+are disappearing.  Perhaps they're just running away; with all the
+pressure placed upon them here, it could be possible...
+
+However, its up to the JES to find out what's really going on at the
+school.  This organization is in charge of running investigations
+within private schools; in fact, several of its agents have already
+gone undercover at the school.  All are now missing.  Yuichi Sakuma is
+the JES's latest plant.  Will he be able to discover the reason for
+the turmoil at Amamiya Private School, or will he end up just like the
+others?
+
+Love Potion is a menu-driven adventure game.  You play from Yuichi's
+perspective, leading him in his investigation.  Your main duty will be
+to guide Yuichi aroundt the school, looking in all the right places
+for clues to unravel the mystery.  Exactly what is going on at this
+posh private girls' school?  Play to find out!
+    
+=--=-=-=-=--===---=-==-=-=-=-=--=-=-=-=-=-=-=-==--==--===-=-=-=-=-=-=--=-=--==-
+                          ii. SYSTEM REQUIREMENTS                 
+-==-=-=-=--==-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=--=-=-=-==-=-=-=-=-=--==-=
+
+System requirements for Love Potion:
+
+Operating System..Windows 95/98
+Processor.........486SX / 33mhz or higher 
+Memory............8MB (12 recommended)
+CD-ROM............Twin-speed CD-ROM drive
+Sound Card........Any Windows 95 compatible
+Monitor...........256 color display with 640x480 resolution
+
+-=-==--==-==-==--===-=-=-=-=-=-=-=--=-=-=-==-=-=-=-=-=-=-=--==-=-=-=-=-=-=-=-==
+                             iii. CHARACTERS
+=-=-==--=-=-=-==-=-=-=-=-=-=-=--=-==-=--=-=-==--==--==-=-=-==-==--===-=-=--=---
+
+Yuichi Sakuma
+-------------
+I don't really know what Sakuma's superiors at the JES were thinking
+when giving him this assignment.  Sure, he's a sharp enough
+investigator, but he really just can't seem to control himself around
+the opposite sex.  In his current situation, where its not apparent
+who's trustworthy, Yuichi's weakness could mean his downfall.
+
+Toshiko Amamiya
+---------------
+Ms. Amamiya is the principal of the school which bears her family
+name.  She carries herself in a professional manner, bordering on
+uptight, but her demeanor is smoothed by a graceful air.  Her youthful
+appearance makes it hard to believe she has a daughter old enough to
+attend the school.
+
+Megumi Sasaki
+-------------
+Agent Sasaki was Yuichi's immediate predecessor at the Amamiya
+School.  The fact that this capable agent suddenly disappeared means
+the situation at the school may be deadly serious.
+
+Hiromi Matsuno
+--------------
+Hiromi is cute, energetic, and generally happy.  She's usually enjoys
+talking with Yuichi, but at times it seems as if she's troubled.  Will
+this student be able to trust and confide in him?
+
+Sayuri Amamiya
+--------------
+Sayuri is the model daughter and student.  She's at the top of her
+class, the student body president, and basically the pentultimate
+model for everyone at the school.  Can she really be so perfect?
+
+Yumiko Mizukami
+---------------
+Yumiko may have a great body, but it's a total mismatch to her boyish
+personality.  She openly displays her hostility towards Professor
+Sakuma.  Does that mean she has something to hide?
+
+Yoko Kawano
+-----------
+Yoko doesn't seem to have a personality of her own; she's basically
+Sayuri's lackey, going to great lengths to please the girl.
+
+Noriko Furima
+-------------
+Noriko is just a first year student at the school, so she's not in
+Yuichi's class.  She's always active in the gym after school, although
+she doesn't seem to belong to any particular club.  Talking to her can
+be infuriating, as she's somewhat immature and always silly.
+
+Shizuka Iijima
+--------------
+Ms. Iijima is the school nurse, and like any good bishoujo game nurse,
+she's sexy as hell and not afraid to show it.  Everytime she sees
+Yuichi, she just can't control herself.  Whether that's good or bad is
+up to personal opinion.
+
+Kyoko Himura
+------------
+This student seems to be a quiet loner.  Yuichi sometimes catches her
+staring at him, and he never sees her with other girls.  Her
+intentions are unknown, maybe she just has a crush on him?
+
+-=-=-==-=-=---==-=----=-=-==-=--==-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=--==-=-=--=
+                              iv. WALKTHROUGH  
+=-=-=-=--=-==-=-=-=--=-=-=-=-=-=-==-=-=-=--=-=-=-=-=-=-==-=-==-==-=-==-=-===--=
+
+Love Potion is a strictly linear game.  You can't lose, and none of
+the decisions you make affect the outcome of the story.  Basically,
+your purpose is to guide "Professor" Sakuma around the school,
+triggering the requisite events to move the story along.  
+
+Why do you need a walkthrough, then?  Easy, you don't.  In fact, its
+probably more fun playing through the game by yourself, not knowing
+what's going to happen next.  I would heartily recommend playing that
+way, and I can understand if no one ever uses this walkthrough.
+
+However,  just because the game is linear doesn't mean its not
+frustrating.  You can spend minutes going to the different locations
+in the school, swearing that you've done everything possible to move
+the action along, and nothing happens.  This guide attempts to keep
+those situations to a minimum, telling you where to go and what choices
+you need to make in order to advance the plot.  It leaves out any
+extraneous action, so if you want to read all the innocuous minutia
+the game offers, do that before fulfilling the requirements for
+advancement.
+
+So, if you're playing through the game for a fifth time and want to
+move quickly, or you have a short attention span, or you're just plain
+lazy or impatient; you should find this document useful.
+                                 ___________
+                                |           |
+|-------------------------------|   Day 1   |---------------------------------|
+|                               |___________|                                 |
+________________________
+   \In front of the gate\
+
+   Look at the school campus - 3 times
+   Look around - 3 times
+   Ask a nearby student - 3 times
+   Look around - Once
+
+   Look at the student - 3 times
+   Talk to the student - Twice
+
+   Think for a moment - Twice
+   Go home - Twice
+   Run to the principal's office - Once
+________________________
+     \Meet the principal\
+
+   Look at the principal - Twice
+   Talk to the principal - Four times
+   Change the subject - Once
+________________________
+    \In the faculty room\
+
+   Think about the principal - Three times
+   Think about Amamiya School - Twice
+   Think about today's class - Three times
+
+   Move->To the classroom
+______________________________
+    \In front of the classroom\
+
+   I know I saw her somewhere - Once
+ 
+   Look at Hiromi Matsuno - Three times
+   Talk to Hiromi Matsuno - Three times
+   Ask about Megumi Sasaki - Twice
+   Look at Hiromi Matsuno - Twice
+   Ask about Megumi Sasaki - Twice
+
+   Move->Go to the faculty room
+
+   Look at the student - Four times
+   Talk to the student - Four times
+________________________
+    \In the faculty room\
+
+   Think about Hiromi Matsuno - Twice
+   Think about Megumi Sasaki - Three times
+   Think about Yumiko Mizukami - Three times
+   Think about Hiromi Matsuno - Once
+
+   Move->Go to the principal's office
+______________________________
+    \In the principal's office\
+
+   Look at Toshiko Amamiya - Three times
+   Talk to Toshiko Amamiya - Twice
+  
+   Confess love to the principal - Three times
+   Jump the principal - Three times
+   Leave the principal's office
+________________________
+    \In the faculty room\
+
+   Move->Go to the classroom
+   Move->Go up to the roof
+     Look around - Twice
+
+   Move->Go to the classroom
+   Move->Go to the faculty room
+   Move->Go in front of the school gate
+     Look around - Three times
+
+   Move->Go to the principal's office
+     Talk to Toshiko Amamiya - Three times
+
+   Move->Go to the faculty room
+     Think - Once
+
+   Move->Go to the classroom
+     Look around - Three times
+
+   Move->Go up to the roof
+_________________________
+             \On the roof\
+
+   Look around - Twice
+   Listen carefully - Three times
+
+   Go towards where I heard the voices
+
+   Leave
+   About the missing students?
+  
+   Listen more
+   Get a little closer
+__________________________________
+    \After witnessing great things\
+
+   Move->Go to the faculty room
+     Think
+
+   Move->Go to the principal's office
+     Look at Toshiko Amamiya - Three times
+     Talk to Toshiko Amamiya - Three times
+     Look at Toshiko Amamiya - Once
+     Talk to Toshiko Amamiya - Four times
+
+   Move->Go in front of the school gate
+     Look around - Three times
+
+   Move->Go to the faculty room
+
+   Move->Go to the classroom
+     Look around - Three times
+     Look at the student - Three times
+     Talk to the student - Four times
+     Look at the student - Once
+     Talk to the student - Once
+
+   Move->Go to the faculty room
+
+   Move->Go to the principal's office
+     Talk to Toshiko Amamiya - Three times
+
+   Move->Go in front of the school gate
+     Look around - Three times
+     Move
+
+   Hiromi Matsuno?
+ 
+   Talk to Hiromi Matsuno - Twice
+   Look at Hiromi Matsuno - Twice
+   Talk to Hiromi Matsuno - Once
+   Look at Hiromi Matsuno - Twice
+   Talk to Hiromi Matsuno - Once
+
+   Look around - Three times
+   Move
+
+   Look at the student - Three times
+   Talk to the student - Four times
+_________________________
+   \In the nurse's office\
+
+   Look at Yoko Kawano - Three times
+   Talk to Yoko Kawano - Four times
+   Look around - Three times
+   Look at Yoko Kawano - Three times
+   Talk to Yoko Kawano - Once
+
+   Look at Yoko Kawano - Three times
+   Talk to Yoko Kawano - Twice
+ 
+   Stay with Yoko Kawano
+__________________________
+           \Find the nurse\
+
+   Think
+   Talk to Toshiko Amamiya
+
+   Move->Go to the nursing office
+     Look around - Three times
+
+   Move->Go to the faculty room
+     Think
+   
+   Move->Go to the classroom
+     Look around - Three times
+
+   Move->Go up to the roof
+     Look around - Three times
+
+   Move->Go in front of the school gate
+     Look around - Three times
+
+   Move->Go to the principal's office
+     Talk to Toshiko Amamiya - Twice
+     Look at Toshiko Amamiya - Twice
+     Talk to Toshiko Amamiya - Once
+     Look at Toshiko Amamiya - Once
+     Talk to Toshiko Amamiya - Four times
+
+   Move->Go to the faculty room
+   Move->Go to the classroom
+__________________________
+              \Meet Hiromi\
+
+   Look at Hiromi Matsuno - Three times
+   Talk to Hiromi Matsuno - Three times
+   Change the subject
+     
+   Just chat to make the atmosphere better - Four times
+   Ask about "Sayuri" - Four times
+   Confess my love to Hiromi Matsuno - Once
+
+__________________________
+        \Search for Sayuri\
+
+   Move->Go visit the gymnastics team - Twice
+   Move->Go to the faculty room
+     Think
+   
+   Move->Go to the principal's office
+     Talk to Toshiko Amamiya - Three times
+
+   Move->Go to the faculty room
+   Move->Go to the classroom
+   Move->Go to the gym
+
+   Look around - Three times
+   Ask the nearby student - Twice
+   Look around - Once
+   Ask the nearby student - Twice
+
+   Look at the girl - Three times
+   Talk to the girl - Five times
+__________________________
+           \End of the day\
+
+   Move->Go to the classroom
+   Move->Go to the faculty room
+     Think
+     Think->Think about the gymnastics team - Twice
+     Think->Think about the Amamiya Private School - Twice
+   
+   Move->Go in front of the school gate
+
+Day Two begins immediately after the last step!
+
+|_____________________________________________________________________________|
+
+                                 ___________
+                                |           |
+|-------------------------------|   Day 2   |---------------------------------|
+|                               |___________|                                 |
+________________________
+   \In front of the gate\
+
+   Think about this school - Three times
+   Think about Hiromi Matsuno - Once
+
+   You're Yumiko Mizukami... - Once
+
+   Look at Yumiko Mizukami - Three times
+   Talk to Yumiko Mizukami - Three times
+   Look at Yumiko Mizukami - Once
+   Talk to Yumiko Mizukami - Twice
+_________________________
+     \In the faculty room\
+
+   Think - Three times
+____________________________
+  \In front of the classroom\
+
+   Look around - Three times
+
+   Look at Hiromi Matsuno - Three times
+   Talk to Hiromi Matsuno - Three times
+   Look at Hiromi Matsuno - Once
+   Talk to Hiromi Matsuno - Four times
+   Look at Hiromi Matsuno - Twice 
+   Talk to Hiromi Matsuno - Once
+
+   Your slender body : swim team?
+
+   Talk to Hiromi Matsuno - Once
+_________________________
+          \Meet the nurse\
+
+   Move->Go to the faculty room
+   Move->Go to the nursing office
+     Look around - Three times
+     Look at the syringe - Three times
+     Look at the white pills - Three times
+     Look at the syringe - Once
+
+   Move->Go to the faculty room
+   Move->Go to the classroom
+   Move->Go to the gym
+     Look around - Three times
+     Look at the girl - Three times
+     Talk to the girl - Three times
+     Look at the girl - Once
+     Talk to the girl - Once
+
+   Move->Go to the swimming pool
+     Look around - Three times
+
+   Move->Go to the classroom
+   Move->Go to the faculty room
+   Move->Go to the principal's office
+     Look at Toshiko Amamiya - Twice
+     Talk to Toshiko Amamiya - Twice
+     Look around - Twice
+     Talk to Toshiko Amamiya - Once
+
+     About the gymnastics team - Once
+     About the school nurse - Once
+     About the principal's three sizes - Once
+     About the school nurse - Once
+
+   Move->Go to the nurse's office
+     Look at the woman standing in front of me - Three times
+     Talk to the woman standing in front of me - Four times
+     Look at Shizuka Iijima - Once
+     Talk to Shizuka Iijima - Once
+________________________________________
+      \Explain yourself to the principal\
+
+   Move->Go to the faculty room
+   Move->Go to the classroom
+   Move->Go up to the roof
+     Think about my body - Three times
+     Think about broadcasting - Once
+     Go to the principal's office - Once
+
+   Look at Toshiko Amamiya - Twice
+   Talk to Toshiko Amamiya - Five times
+   Look at Toshiko Amamiya - Once
+   Talk to Toshiko Amamiya - Once
+_________________________
+             \Investigate\
+
+   Move->Go to the faculty room
+     Think - Three times
+
+   Move->Go to the nursing office
+     Look around - Once
+     Think - Four times
+     Take out the pills - Once
+     Look at Shizuka Iijima - Three times
+     Talk to Shizuka Iijima - Once
+
+   Move->Go to the faculty room
+     Think - Twice
+
+   Move->Go in front of the school gate
+     Look around - Three times
+_________________________
+       \Hiromi's swimming\
+
+   Move->Go to the faculty room
+   Move->Go to the classroom
+   Move->Go to the swimming pool
+     Look around - Three times
+     Ask a nearby student - Twice
+     Look around - Twice
+
+   Move->Go to the locker room
+     Rescue Hiromi Matsuno
+
+     Look at Kyoko Himuro - Three times
+     Talk to Kyoko Himuro - Three times
+
+   Look around - Three times
+_________________________
+     \The gymnastics club\
+
+   Move->Go to the gym
+     Look around - Once
+
+   Look at Noriko Furima - Three times
+   Talk to Noriko Furima - Three times
+   Look at Noriko Furima - Once
+   Talk to Noriko Furima - Twice
+
+   Move->Go to the classroom
+   Move->Go to the faculty room
+   Move->Go in front of the school gate
+   Move->Go to the principal's office
+     Look around - Three times
+
+   Move->Go to the faculty room
+     Think - Once
+   
+   Move->Go to the classroom
+   Move->Go to the gym
+     Look around - Twice
+
+     Look at Sayuri Amamiya - Three times
+     Talk to Sayuri Amamiya - Three times
+     Look at Sayuri Amamiya - Once
+     Talk to Sayuri Amamiya - Twice
+     Look at Sayuri Amamiya - Once
+     Talk to Sayuri Amamiya - Twice
+
+     Leave the gym - Once
+     Obey her - Once
+_______________________
+         \Time to relax\
+
+   Move->Go to the classroom
+   Move->Go to the faculty room 
+     Think - Twice
+
+   Move->Go to the classroom
+   Move->Go up to the roof
+     Look at Hiromi Matsuno - Twice
+     Talk to Hiromi Matsuno - Twice
+
+   Move->Go to the classroom
+   Move->Go to the faculty room
+     Think->Think about Hiromi Matsuno - Four times
+
+     Look at Kyoko Himuro - Three times
+     Talk to Kyoko Himuro - Twice
+
+     Think - Twice
+__________________________________________
+     \Investigate until the end of the day\
+
+   Move->Go to the nursing office
+     Look at Shizuka Iijima - Once
+     Talk to Shizuka Iijima - Twice
+     Look at Shizuka Iijima - Once
+     Talk to Shizuka Iijima - Three time
+
+   Move->Go to the faculty room
+   Move->Go in front of the school gate
+
+Day Three begins immediately after the last step!
+
+|_____________________________________________________________________________|
+
+                                 ___________
+                                |           |
+|-------------------------------|   Day 3   |---------------------------------|
+|                               |___________|                                 |
+_________________________________
+   \The investigation chugs along\
+
+   Look around - Three times
+   
+   Move->Go to the faculty room
+     Think - Twice
+
+   Move->Go to the school gate
+     Look at Yumi - Three times
+     Talk to Yumi - Twice
+     Look at Yumi - Once
+     Talk to Yumi - Once
+     
+     Talk to Yumi - Once
+__________________________
+             \Killing time\
+
+   Move->Go to the principal's office
+     Look around - Three times
+ 
+   Move->Go to the nursing office
+     Look around - Three times
+
+   Move->Go to the faculty room
+     Think - Three times
+
+   Move->Go to the classroom
+     Look around - Three times
+
+   Move->Go up to the roof
+     Look around - Three times
+
+   Move->Go to the swimming pool
+     Look around - Three times
+_________________________
+     \More fooling around\
+
+   Move->Go to the gym
+     Look around - Twice
+     Look at Noriko Furima - Three times
+     Talk to Noriko Furima - Twice
+
+     Talk to Noriko Furima
+
+   Move->Go to the classroom
+   Move->Go to the faculty room
+     Think - Twice
+
+   Move->Go to the principal's office
+     Look around - Twice
+
+   Look at Kyoko Himuro - Three times
+   Talk to Kyoko Himuro - Twice
+
+   Move->Go to the nurse's office
+     Look around - Twice
+ 
+   Move->Go to the faculty room
+   Move->Go to the classroom
+   Move->Go up to the roof
+     Look around - Twice
+__________________________
+     \Time for the meeting\
+
+   Look around - Three times
+   Wait a little more - Four times
+   Look around - Twice
+   Wait a little more - Twice
+   Move->Go to the locker room
+___________________________
+   \Regaining consciousness\
+
+   Look at Hiromi Matsuno - Three times
+   Talk to Hiromi Matsuno - Four times
+   Look at Hiromi Matsuno - Once
+   Talk to Hiromi Matsuno - Once
+____________________________
+      \In the nurse's office\
+
+   Look around - Three times
+   Go toward the bed - Once
+
+   Keep watching - Three times
+   Get in to help - Once
+____________________________ 
+               \On the trail\
+
+   Look at Kyoko Himuro - Three times
+   Talk to Kyoko Himuro - Three times
+   Look at Kyoko Himuro - Once
+   Talk to Kyoko Himuro - Three times
+   Look at Kyoko Himuro - Once
+   Talk to Kyoko Himuro - Three times
+   Look at Kyoko Himuro - Twice
+   Talk to Kyoko Himuro - Twice
+   Look at Kyoko Himuro - Once 
+   Talk to Kyoko Himuro - Once
+
+   Move->Go to the faculty room
+   Move->Go to the principal's office
+
+   Examine the bookshelf - Six times
+   Look around - Three times
+   Examine the bookshelf - Once
+
+   Talk to Toshiko Amamiya - Twice
+   Talk to Megumi Sasaki - Three times
+   Look around - Three times
+   Talk to Toshiko Amamiya - Five times
+____________________________
+                 \Resolution\
+
+   Look at Hiromi Matsuno - Three times
+   Talk to Hiromi Matsuno - Twice
+   Look at Hiromi Matsuno - Twice
+   Talk to Hiromi Matsuno - Twice
+
+   Look at Megumi Sasaki and Kyoko Himuro - Twice
+   Talk to both of them - Twice
+   Look at Megumi Sasaki and Kyoko Himuro - Once
+   Talk to both of them - Twice
+   Look at Megumi Sasaki and Kyoko Himuro - Once
+   Talk to both of them - Once
+   
+The End.  Enjoy the sketches that roll before the credits.
+
+|_____________________________________________________________________________|
+
+=--=---==-==--===--=--=-==-=-=--=-==-=--==-=-=-=-=-=-=-=--=-=-==--=-==--==-=--=
+                             v. VERSION HISTORY
+-==-=-=--==-=-=-=-=-=-=-=-==-=-=-=-=-=-=-=--=-=-==-=-=-=-=-==--==--==----=-=-==
+
+v1.0 - Walkthrough complete.
+
+v1.01 - IGN.com is now authorized to host a copy of this document.
+
+-=-=-=-=-=---=--=---=-==-=--=-==-=--==-=-=-=-=-=-=-=-=-=-=-=-=-=-==-=-=-=--=-==
+                         vi. COPYRIGHT INFORMATION               
+=--=-=-=-=--===---=-==-=-=-=-=--=-=-=-=-=-=-=-==--==--===-=-=-=-=-=-=--=-=--==-
+
+All information and work in this document is copyright 2003 by Ben Woodhouse 
+unless otherwise stated and may be not be reproduced under any circumstances 
+except for personal, private use. It may not be placed on any web site or 
+otherwise distributed publicly without advance written permission. Use of this 
+guide on any other web site or as a part of any public display is strictly 
+prohibited, and a violation of copyright.  
+
+Thanks for your cooperation.
+
+         -----------===-------=-=-=-=-------------------------------=-
+                 This FAQ is approved for posting on websites:
+ 
+                      GameFAQs - www.gamefaqs.com
+
+                      HonestGamers - www.honestgamers.com
+
+                      IGN.com  - www.ign.com
+
+         Any other site or publication posting it has ripped this FAQ.  
+                  React according to your own moral standards.
+         ------------------------------------------------------------=
+       
+===============================================================================
+===============================================================================
+If you have any additions or corrections that you feel belong in this
+document, feel free to let me know!
+===============================================================================
+===============================================================================
+                                   -<-EoF->-

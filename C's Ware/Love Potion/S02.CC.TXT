@@ -1,0 +1,316 @@
+id21
+030
+This is the faculty room.
+There is time before the class starts.This would be a good time to gather my thoughts.
+@Think about the principal
+@Think about Amamiya Private School
+@Think about today's class@@
+True beauty is blind to age, I guess.
+But damn, she is fine. And she's got a kid. She can't be all that young...
+She looks after and administers the school, and she has a very good reputation. She might look a tad bitchy, but when you talk to her, she seems nice.
+But it's early to conclude this case is a simple case of runaways. You can't be too careful.
+I can understand why the students would want to run away. Maybe it really isn't strange.
+Amamiya Private School prides itself on strictness and order. To be honest, I'd run away too, if I were in their shoes.
+It's tradition for everyone to introduce themselves in the first class. I don't think I'll need to teach today.
+It's almost time for class... Is there anything else I should do?
+Remember, it's all girls. Don't let it get to you.
+But damn, I wish they wouldn't do those weird things with their eyes after they look at me.
+If they do, I don't know what I will do.
+Now it's time for my first class. Even at my age, I guess I'm a little nervous.
+They're ALL girls you know...
+030
+Okay, what should I do now.
+@Move
+@Think
+@Save@@
+I can't think about anything other than the class I'm about to teach.The first impression is very important.
+@Go to the classroom
+@Go to the principal's office
+@Go to the school gate@@
+Wait, wait. You don't have time for that. The class is about to start.
+The class is about to start.I better get to the classroom.
+Okay, it's almost time for class.The first impression is very important, let's get with it.
+@Cancel@@
+@Save 1
+@Save 2
+@Save 3
+save1
+Data saved in Save 1.
+save2
+Data saved in Save 2.
+save3
+Data saved in Save 3.
+id51
+040
+040b
+*Knock knock*
+yYuichiz It's Sakuma.
+yToshikoz Come in.
+chim2
+020
+Whew. The class went without a problem.
+It's kind of a pain in the ass when it's all girls.
+Yep, I was right. They did do that eye thing. I didn't know what to do. *sob*
+yWoman's Voicez Professor Sakuma?
+yYuichiz Yes?
+id67
+020b
+yYuichiz Wait, you're...
+@Jessica@
+@I know I saw her somewhere
+I told you to stop.
+You need guts to say it a second time. I probably shouldn't say it.
+yYuichiz You're Jessica from that Filipino bar right?
+yGirlz Who are you talking to?
+I think she is giving me a stern look.
+yYuichiz I know I saw you somewhere...
+yGirlz You already forgot? I was just in your class. I raised my hand twice for nothing?
+yYuichiz That's not what I meant. And what do you mean "for nothing"? If my memory serves me correct, didn't we meet this morning?
+yGirlz *giggle* You remembered.
+yYuichiz Yeah, thank you for this morning. You're... Ms. Matsuno right?
+yGirlz It's Hiromi. Hiromi Matsuno.
+yYuichiz That's right! I remember you because you are so cute.
+yHiromiz You're such a flirt. How many girls have you said that to?
+yYuichiz What do you mean?
+We had a nice chat in front of the classroom.
+Hiromi Matsuno looked innocent and naive. She was pleasant to talk to. It was different from my first impression of her, but I liked her more.
+@Look at Hiromi Matsuno@@
+@Talk to Hiromi Matsuno
+Hiromi Matsuno brings up topics, one after another. She's fun to be with.
+She's cute.
+She looks like a child with a new toy. It didn't feel that bad being treated as a toy.
+Hiromi Matsuno had this throbbing energy, even with her innocent and naive looks.
+yYuichiz I see, the professors here are pretty strict about rules, eh?
+yHiromiz Very much.
+yYuichiz I heard a rumor that the professor before me... Professor Sasaki? Well, that she was pretty understanding.
+I was searching for clues. I had made up the rumor, but I knew Megumi Sasaki. I felt that she and Megumi would get along.
+yHiromiz Professor Sa... Sasaki?
+020
+020c
+What happened? She all of sudden became grim.
+yYuichiz Yeah... I'm listening.
+yHiromiz It's so bad. Just the other day, my friend had her pictures printed in a magazine, and just for that she was suspended.
+yYuichiz Maybe it was one of those perverted magazines.
+yHiromiz What do you mean by perverted magazines?
+yYuichiz As in nude, you know.
+yHiromiz It was just a normal picture of her in her school uniform.
+yYuichiz I see. That shouldn't matter too much then.
+yHiromiz You think so too? I'm glad you're a person I can talk to.
+yYuichiz I don't wanna be judged on that. Is there something else?
+yHiromiz They all got sticks up their butts.
+yYuichiz God, it sounds like this school's got nothing good.
+yHiromiz Well, maybe the roof?
+yYuichiz The roof?
+yHiromiz Yep. I think it's the only place this school can brag about. It's got beautiful views.
+yYuichiz Is that so.
+yHiromiz When you feel troubled or confused, you can go up there. It'll clear up your mind.
+yYuichiz Sounds like a good place.
+yHiromiz It is. You should try going there sometime.
+yYuichiz A beautiful view... I'll try it when I have time.
+yHiromiz Are you listening Professor Sakuma?
+yHiromiz ... is the case.
+yYuichiz ...
+yHiromiz Professor?
+@Look at Hiromi Matsuno
+@Ask about Megumi Sasaki@@
+I think Hiromi Matsuno is becoming herself again. Her face is all lit up.
+I guess Hiromi Matsuno didn't like Megumi Sasaki.
+If that's the case, it would make sense if she didn't want to talk about her.
+She doesn't want to talk.
+She looks confused and anxious. I wonder what's wrong?
+yHiromiz But do you know what Professor Sasaki said?
+yYuichiz What?
+yHiromiz She said that school regulations are for school, and it shouldn't be forced onto your private life.
+yYuichiz That sounds reasonable.
+yHiromiz Yeah, I liked it. I never had a teacher like that before.
+yYuichiz That's probably because...
+yHiromiz Because...?
+yYuichiz No... Nothing...
+yHiromiz You are weird.
+yYuichiz She sounded like she was a good professor.
+yHiromiz So are you, though.
+chim2
+yHiromiz Oh damn, I have to go now. Thanks for the chat.
+yYuichiz Yeah, you should be on your way.
+yHiromiz Right. I'll see you later then.
+020
+Umm, okay...
+I WANT that.
+.........What!
+Shame on me. Okay, now what should I do.
+yYuichiz I'm sorry. I guess you didn't like her.
+yHiromiz  No no, that's not true!
+She was almost yelling as she denied it.
+yHiromiz Professor Sasaki was...
+yYuichiz Was...?
+yHiromiz ...
+yHiromiz You know something, don't you?
+yHiromiz Yes, I had her class once a week.
+yYuichiz How was her class?
+yHiromiz *giggle* Her class was...
+020
+020b
+She was her happy self again. Close call.
+yHiromiz ...
+She looks like she's holding something back.
+yHiromiz Professor Sasaki...
+yYuichiz Yes. You know her, right?
+yHiromiz Well... Yes... I do.
+Strange answer... I wonder what's wrong?
+@Look around@@
+@Move
+There's nothing peculiar.
+The next period was about to start, and the girls were rushing into their classrooms.
+I don't see Hiromi Matsuno anymore. She must've gone to her next class.
+@Go to the faculty room@@
+@Go up to the roof
+Guess I'll be heading back to the faculty room.
+yWoman's Voicez Professor!
+What now?
+I don't have any business on the roof.
+But Hiromi Matsuno said it is a great place. I'll go later.
+id57
+020e
+What now? Who is this girl?
+@Look at the student@@
+@Talk to the student@@
+@Look at Yumiko Mizukami@@
+@Talk to Yumiko Mizukami@@
+Yumiko Mizukami is looking at me.
+In one sentence, she's a tomboy with big breasts and glasses.
+The glasses might make her look unbalanced, but it wasn't bad.
+From above the shoulders, she looks like a tomboy, but the size of her breasts! 36? Nah- more like 38.
+She's a tomboy with her innocence still intact.
+If you put her in T-shirts and shorts, she might pass for a boy.
+yYumikoz Be careful, Professor.
+yYuichiz About what?
+yYumikoz Think about it.
+020
+yYuichiz Wait...
+Damn, she is already gone.
+Cute, but weird.
+Time to head back to the faculty room.
+yGirlz Hey what's up? My name's Yumiko Mizukami.
+yYuichiz Um, okay.
+yYumikoz So, what do you want?
+yYuichiz Um... no, nothing. My name is Sakuma, and I teach biology.
+yYumikoz Nice to meet you.
+yYuichiz Nice to meet you too. Your name's Yumiko right? It's a pretty name.
+yYumikoz I don't like my name.
+yYuichiz Oh... I am sorry.
+yYumikoz ...
+yYuichiz ...Is there anything I can help you with?
+yYumikoz You seem to get along well with Hiromi.
+yYuichiz I only met her today.
+yYumikoz ...Still.
+yYuichiz Still?
+yYumikoz I have never seen Hiromi having fun talking to anyone.
+yYuichiz Is that so... But perhaps that was because it was the first time I met her.
+yYumikoz *stare*
+What the hell does she want from me?
+yGirlz *stare*
+What does she want. Why did she stop me?
+yYuichiz Is there a problem?
+yGirlz *stare*
+yYuichiz You're making me blush.
+yGirlz ...
+Well, I thought it was funny.
+id21
+030
+I came back to the faculty room.
+The first day of classes went by without a problem.
+There're a lot of things to think about.
+@Think about Hiromi Matsuno
+@Think about Megumi Sasaki
+@Think about Yumiko Mizukami@@
+She's a tomboy.
+She is far from being a woman, but her tits are A+.
+I wonder what she was doing in the classroom?
+Hmm... Strange.
+She's pretty weird, that tomboy.
+I wonder if she was watching Hiromi Matsuno and I talk. It seems to be the case.
+But the way Hiromi Matsuno acted when I brought up Megumi Sasaki's name. That's something to think about.
+She looked confused and anxious.
+.....
+Wait a minute, didn't I have to report to the principal?
+I am pretty slow today. I might be fired for almost being late and sleeping in the principal's office.
+She likes me so far.
+I wonder if there's a way to use her as a source of information.
+I got the impression she was brought up comfortably.
+I wonder what happened to her...?
+She was one of the best JES agents, and for her to just disappear, is very unlikely.
+It seems like Megumi Sasaki was liked, at least by Hiromi Matsuno.
+030
+@Move@@
+@Think@@
+@Save@@
+Okay, I'm gonna go see the principal.
+@Go to the classroom
+@Go to the principal's office@@
+@Go in front of the school gate
+I should get to the principal's office.
+Wait, wait. You don't have time for that.I better get there quick, or I'm fired.
+I'm supposed to report to the principal after class. I should get to the principal's office.
+@Cancel@@
+@Save 1
+@Save 2
+@Save 3
+save1
+Data saved in Save 1.
+save2
+Data saved in Save 2.
+save3
+Data saved in Save 3.
+yYuichiz May I come in?
+yToshikoz Thank you for coming.
+yYuichiz It's no problem.
+@Look at Toshiko Amamiya@@
+@Talk to Toshiko Amamiya
+@Look around
+@Move
+Toshiko Amamiya is standing in front of me.
+I wonder what those awards are for? I'll ask her next time I see her.
+It looks like a principal's office. Why is it that I feel like a student every time I step into this room?
+I should talk to Toshiko Amamiya a little bit more.
+She's looking at me.
+It feels like I'm being stared down by Medusa.
+She has a smile saying, "Good job!" She's got me in her sight, and she's not letting me go.
+yYuichiz It was just that...
+yToshikoz Yes?
+yYuichiz Well, how can I put this. It was my first time in an all-girls school, and everywhere I looked, there were girls, so it was pretty overwhelming.
+yToshikoz *giggle* You're pretty cute, Professor Sakuma.
+yYuichiz You... you think so?
+yToshikoz Yes I do.
+She smiled lustfully at me. That smile was making me HOT.
+Is it just my imagination or are her eyes glimmering? My heart is pounding. Oh-oh, this is dangerous.
+yYuichiz Um, I should get going now.
+yToshikoz But I haven't even served you coffee yet.
+yYuichiz Right... But, you know...
+yToshikoz Yes?
+yYuichiz Um...
+I must've sounded like an idiot. I felt like an adolescent being toyed with by an older woman.
+She looked as though she could see right through me. And she did look like she was toying with me.
+Well, if that's so...
+yToshikoz I have high hopes for you, Professor Sakuma.
+yToshikoz How was your first day?
+yYuichiz Well, I thought it went pretty well.
+yToshikoz That's good.
+@Leave the principal's office@@
+@Jump the principal@@
+@Confess love to the principal@@
+I should stop now.
+yToshikoz  You're a very funny person, Professor Sakuma.
+yYuichiz You really think so?
+yToshikoz *chuckle*
+yYuichiz I... I had a crush...
+yToshikoz Excuse me? Are you alright?
+yYuichiz Um, nothing...
+I told you I can't do it.
+If you think about it, it's ridiculous.
+Well, I will make her have sex and teach her how to behave........ What!
+Yeah, I should leave now and cool down a little bit.
+yYuichizI should get going now. I have to get ready for the next class. I'll come by if there're anymore problems.
+I excused myself and left.
+yToshikoz Come again...
+I left the principal's office thinking of Toshiko Amamiya's words.
+s03

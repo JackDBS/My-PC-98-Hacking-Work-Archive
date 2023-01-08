@@ -1,0 +1,27 @@
+image 040C ofs 352,40
+image 050C ofs 248,24
+image BACK ofs 56,95
+image ED-01 ofs -64,64
+image ED-02 ofs -64,64
+image ED-03 ofs -64,64
+image ED-04 ofs -64,64
+image ED-05 ofs -64,64
+image ED-06 ofs -64,64
+image ED-07 ofs -64,64
+image ED-08 ofs -64,64
+image ED-09 ofs -64,64
+image ED-10 ofs -64,64
+image ED-11 ofs -64,64
+image ED-12 ofs -64,64
+image HS0716 ofs 8,0
+image HS0718 ofs 8,0
+image ID28_B ofs 8,0
+image MENU1 ofs 216,53 res 640x400
+image MENU2 ofs 216,53 res 640x400
+image MENU3 ofs 216,53 res 640x400
+image NAME ofs 184,20 res 640x400
+image ROGO ofs 144,2 res 640x400
+image TIT ofs 0,58 res 640x400
+image TIT2 ofs 32,57 res 640x400
+image TIT3 ofs 0,57 res 640x400
+image WAKU res 640x400

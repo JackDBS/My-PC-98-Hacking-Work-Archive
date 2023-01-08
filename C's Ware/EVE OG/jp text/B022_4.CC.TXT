@@ -1,0 +1,947 @@
+　入力する
+　検索を終了する
+【まりな】そうね‥‥とりあえずトップメニューに戻りましょう。
+　人物１
+　人物２
+　御堂
+　孔
+　《テラー》
+　真弥子
+【まりな】また調べるの‥‥？
+【まりな】時間は貴重って言ったばかりなのに‥‥。
+--> s0
+--> st0
+--> sto0
+--> stol0
+--> stole0
+--> stolem0
+--> stolema0
+--> stoleman0
+--> stoleman 0
+--> stoleman k0
+--> stoleman ko0
+□　ストールマン＝コウ0
+身長:178cm    体重:75Kg  国籍:エルディア共和国\生年月日:01/02  年齢:35  住所:(*1)\(*1)戸籍抄本参照0
+エール外国人学校校長、祖父はエルディア王家に仕える執事（死亡）、父親は旧エルディア科学局局長（死亡）、国王へ進言し教育基金を設立し、外国人学校を開校。0
+** warnning level.3 **0
+横領の疑いあり。監視機構［氷室恭子］が調査中。0
+** warnning level.5 **0
+現在、内閣調査室からの要望により調査停止中。0
+【まりな】さっきと変わらないわよ‥‥。
+serch a database\press number to select0
+1: Politics\2: Law, Patents, Trademarks, Copyrights\3: Business0
+4: Arts, Literature, Religion\5: People0
+press number to select\--> 10
+input subject words. (end: enter_key)\-->0
+【まりな】さて、次はどうしようかしら‥‥。
+【まりな】ディレクターのこと‥‥？
+【まりな】私には、他に調べることがあったと思うけど‥‥。
+【まりな】ま、検索に１分もかからないし‥‥。
+--> s0
+--> st0
+--> sto0
+--> stol0
+--> stole0
+--> stolem0
+--> stolema0
+--> stoleman0
+--> stoleman 0
+--> stoleman k0
+--> stoleman ko0
+□　ストールマン＝コウ0
+身長:178cm    体重:75Kg  国籍:エルディア共和国\生年月日:01/02  年齢:35  住所:(*1)\(*1)戸籍抄本参照0
+エール外国人学校校長、祖父はエルディア王家に仕える執事（死亡）、父親は旧エルディア科学局局長（死亡）、国王へ進言し教育基金を設立し、外国人学校を開校。0
+【まりな】代々エルディアに仕えているって感じね‥‥。
+【まりな】父親がエルディア科学局の局長さんか‥‥。
+【まりな】‥‥‥‥。
+** warnning level.3 **0
+横領の疑いあり。監視機構［氷室恭子］が調査中。0
+** warnning level.5 **0
+現在、内閣調査室からの要望により調査停止中。0
+【まりな】ワーニングが出たわ‥‥。
+【まりな】氷室さんのことが出てる‥‥一昨日に、本部長が調べたのは、恐らくこのことね。
+【まりな】この端末のアクセス権だと、かなり上位レベルの情報まで見れるみたいよ。
+serch a database\press number to select0
+1: Politics\2: Law, Patents, Trademarks, Copyrights\3: Business0
+4: Arts, Literature, Religion\5: People0
+press number to select\--> 10
+input subject words. (end: enter_key)\-->0
+【まりな】さっ、時間は貴重だわ‥‥次に情報にいきましょう。
+【まりな】私はいま、サポートが欲しい‥‥。
+【まりな】そして今、本部のＤＢＭＳには不法アクセス者が存在する‥‥。
+【まりな】‥‥‥‥。
+--> mido and ambassador0
+□　ロス＝ミドウ　エルディア共和国大使0
+今年度よりエルディア共和国大使として赴任。エルディア改革の中心人物。0
+王宮省、科学局、情報部など旧体制を次々と解体し、首相とともにエルディア共和国改革の陣頭指揮を取る。旧エルディア情報部・部長。0
+今年度より、日本におけるエルディア共和国大使に赴任、活動を続けている。0
+** warnning level.# **0
+access level short0
+【まりな】勝手にデータが‥‥参照されている。
+【まりな】どういうこと‥‥？
+serch a database\press number to select0
+1: Politics\2: Law, Patents, Trademarks, Copyrights\3: Business0
+4: Arts, Literature, Religion\5: People0
+press number to select\--> 10
+input subject words. (end: enter_key)\-->0
+【まりな】やっぱり！
+【まりな】誰かが同じパスで、２重アクセスしているんだわ‥‥。
+【まりな】本部のＤＢＭＳに不法アクセスするなんて、なかなかのヤリ手じゃない‥‥。
+【まりな】私のアクセスを待って侵入したんだわ‥‥。
+【まりな】‥‥‥‥。
+【まりな】でも、なぜ御堂大使のことを調べているのかしら‥‥。
+【まりな】彼に、何があるというの‥‥？
+【まりな】‥‥‥‥。
+【まりな】そうよ、待って‥‥。
+【まりな】私はいま、サポートが欲しいって、言っていたじゃない‥‥。
+【まりな】これはもしかすると‥‥。
+【まりな】‥‥‥‥。
+【まりな】とにかく、もう一度やって‥‥あら？
+--> mido and ambassador0
+□　ロス＝ミドウ　エルディア共和国大使0
+今年度よりエルディア共和国大使として赴任。エルディア改革の中心人物。0
+王宮省、科学局、情報部など旧体制を次々と解体し、首相とともにエルディア共和国改革の陣頭指揮を取る。旧エルディア情報部・部長。0
+今年度より、日本におけるエルディア共和国大使に赴任、活動を続けている。0
+** warnning level.# **0
+access level short0
+【まりな】勝手にデータが‥‥参照されている。
+【まりな】どういうこと‥‥？
+serch a database\press number to select0
+1: Politics\2: Law, Patents, Trademarks, Copyrights\3: Business0
+4: Arts, Literature, Religion\5: People0
+press number to select\--> 10
+input subject words. (end: enter_key)\-->0
+--> mido and ambassador0
+□　ロス＝ミドウ　エルディア共和国大使0
+今年度よりエルディア共和国大使として赴任。エルディア改革の中心人物。0
+王宮省、科学局、情報部など旧体制を次々と解体し、ロイド首相が行うエルディア共和国改革のサポートを行っている。旧エルディア情報部・部長。0
+今年度より、日本におけるエルディア共和国大使に赴任、活動を続けている。0
+** warnning level.# **0
+access level short0
+serch a database\press number to select0
+1: Politics\2: Law, Patents, Trademarks, Copyrights\3: Business0
+4: Arts, Literature, Religion\5: People0
+press number to select\--> 10
+input subject words. (end: enter_key)\-->0
+【まりな】‥‥‥‥。
+【まりな】まさか、トレースされていた！？
+【まりな】誰かが、外部回線から侵入している！
+【まりな】誰よ‥‥いったい‥‥。
+【まりな】ふぅ‥‥もう一度、やってみる？
+--> m0
+--> mi0
+--> mid0
+--> mido0
+--> mido 0
+--> mido a0
+--> mido an0
+--> mido and0
+--> mido and 0
+--> mido and a0
+--> mido and am0
+--> mido and amb0
+--> mido and amba0
+--> mido and ambas0
+--> mido and ambass0
+--> mido and ambassa0
+--> mido and ambassado0
+--> mido and ambassador0
+--> mido and ambassador0
+□　ロス＝ミドウ　エルディア共和国大使0
+今年度よりエルディア共和国大使として赴任。エルディア改革の中心人物。0
+王宮省、科学局、情報部など旧体制を次々と解体し、首相とともにエルディア共和国改革の陣頭指揮を取る。旧エルディア情報部・部長。0
+今年度より、日本におけるエルディア共和国大使に赴任、活動を続けている。0
+【まりな】ここでエスケープ、端末を固定‥‥。
+【まりな】それから‥‥それからが続かないわ。
+【まりな】ああン、もう１人欲しい‥‥もう１人、サポートが欲しいわ‥‥。
+** warnning level.# **0
+access level short0
+serch a database\press number to select0
+1: Politics\2: Law, Patents, Trademarks, Copyrights\3: Business0
+4: Arts, Literature, Religion\5: People0
+press number to select\--> 10
+input subject words. (end: enter_key)\-->0
+【まりな】ふぅ‥‥ダメだわ、ダメよ‥‥。
+【まりな】どうすればいい‥‥？
+【まりな】じゃ、行くわよ‥‥。
+--> m0
+--> mi0
+--> mid0
+--> mido0
+--> mido 0
+--> mido a0
+--> mido an0
+--> mido and0
+--> mido and 0
+--> mido and a0
+--> mido and am0
+--> mido and amb0
+--> mido and amba0
+--> mido and ambas0
+--> mido and ambass0
+--> mido and ambassa0
+--> mido and ambassado0
+--> mido and ambassador0
+--> mido and ambassador0
+□　ロス＝ミドウ　エルディア共和国大使0
+今年度よりエルディア共和国大使として赴任。エルディア改革の中心人物。0
+王宮省、科学局、情報部など旧体制を次々と解体し、首相とともにエルディア共和国改革の陣頭指揮を取る。旧エルディア情報部・部長。0
+今年度より、日本におけるエルディア共和国大使に赴任、活動を続けている。0
+【まりな】エスケープでいったんＤＢＭＳから抜けて、画面をストップさせる‥‥。
+【まりな】そして、おもむろにパスワードを入力‥‥。
+【まりな】‥‥‥‥。
+【まりな】だ、ダメだわ、エスケープしている間はパスワードが入力できない。
+【まりな】慌てて入力しようとしても‥‥。
+** warnning level.# **0
+access level short0
+serch a database\press number to select0
+1: Politics\2: Law, Patents, Trademarks, Copyrights\3: Business0
+4: Arts, Literature, Religion\5: People0
+press number to select\--> 10
+input subject words. (end: enter_key)\-->0
+【まりな】ふぅ‥‥ダメだわ。間に合わない‥‥。
+【まりな】‥‥どうする？
+【まりな】データ表示中にパスワードを入力しなくちゃ、意味がないわ‥‥。
+【まりな】パスワードがない今、データを表示しても意味がない‥‥。
+--> m0
+--> mi0
+--> mid0
+--> mido0
+--> mido 0
+--> mido &0
+--> mido & 0
+--> mido & a0
+--> mido & am0
+--> mido & amb0
+--> mido & amba0
+--> mido & ambas0
+--> mido & ambass0
+--> mido & ambassa0
+--> mido & ambassado0
+--> mido & ambassador0
+--> mido & ambassador0
+□　ロス＝ミドウ　エルディア共和国大使0
+今年度よりエルディア共和国大使として赴任。エルディア改革の中心人物。0
+王宮省、科学局、情報部など旧体制を次々と解体し、首相とともにエルディア共和国改革の陣頭指揮を取る。旧エルディア情報部・部長。0
+今年度より、日本におけるエルディア共和国大使に赴任、活動を続けている。0
+【まりな】さっきと同じデータだわ‥‥。
+serch a database\press number to select0
+1: Politics\2: Law, Patents, Trademarks, Copyrights\3: Business0
+4: Arts, Literature, Religion\5: People0
+press number to select\--> 10
+input subject words. (end: enter_key)\-->0
+【まりな】パスワードよ‥‥パスワードを考えなくっちゃ。
+【まりな】そうよ、御堂大使のパーソナルデータ、これが必要だわ。
+【まりな】御堂と大使のＡＮＤをとって入力するわよ‥‥。
+--> m0
+--> mi0
+--> mid0
+--> mido0
+--> mido 0
+--> mido &0
+--> mido & 0
+--> mido & a0
+--> mido & am0
+--> mido & amb0
+--> mido & amba0
+--> mido & ambas0
+--> mido & ambass0
+--> mido & ambassa0
+--> mido & ambassado0
+--> mido & ambassador0
+--> mido & ambassador0
+□　ロス＝ミドウ　エルディア共和国大使0
+今年度よりエルディア共和国大使として赴任。エルディア改革の中心人物。0
+王宮省、科学局、情報部など旧体制を次々と解体し、首相とともにエルディア共和国改革の陣頭指揮を取る。旧エルディア情報部・部長。0
+今年度より、日本におけるエルディア共和国大使に赴任、活動を続けている。0
+【まりな】エルディア情報部の元部長だわ‥‥。
+【まりな】へぇ‥‥ずいぶんと興味深いデータじゃない。
+【まりな】旧ということは、もうエルディア情報部は存在していないということね‥‥。
+serch a database\press number to select0
+1: Politics\2: Law, Patents, Trademarks, Copyrights\3: Business0
+4: Arts, Literature, Religion\5: People0
+press number to select\--> 10
+input subject words. (end: enter_key)\-->0
+【まりな】‥‥‥‥。
+【まりな】アクセス・レベルが低いんだわ‥‥この端末のアクセスレベルは６。
+【まりな】だけど、本部長は７以上のアクセス権を持っているはず‥‥。
+【まりな】もっと重要なパーソナルデータを見るためには、アクセスレベル７を解除する必要があるわ。
+【まりな】そのためには、解除キー‥‥パスワードが必要になる。
+【まりな】本部長はいつも利用しているはずよ、身近なものに書き留めているに違いないわ‥‥。
+【まりな】‥‥‥‥。
+【まりな】パスワードが‥‥必要だわ。
+【まりな】パスワードが！
+【まりな】そうね‥‥《テラー》のことはもう一度調べてみたいわ。
+--> t0
+--> te0
+--> ter0
+--> terr0
+--> terro0
+--> terror0
+□　《テラー》(terror)\国際手配Number:B12AJ23コードネーム《テラー》0
+ナイフを主な武器とする中東を活動の場とする暗殺者。正体不明、性別不明、人種不明、年齢不明、殺人達成率100%、エルディア軍正式採用のナイフを好んで使用する。0
+政治的に利用しようとするむきも少なくなく、要注意人物。0
+** warnning level.5 **0
+現在、日本に上陸中。0
+公安出動中。0
+内閣調査室、捜査中。0
+【まりな】相変わらず凄い経歴の殺し屋だわ‥‥。
+【まりな】私の目の前で、二階堂を殺した‥‥。
+【まりな】‥‥‥‥。
+serch a database\press number to select0
+1: Politics\2: Law, Patents, Trademarks, Copyrights\3: Business0
+4: Arts, Literature, Religion\5: People0
+press number to select\--> 10
+input subject words. (end: enter_key)\-->0
+【まりな】次はどうするの？
+【まりな】そうね‥‥《テラー》のことを調べてみるのも、いいかもしれない。
+【まりな】ＤＢＳＭには、どう記載されてるのかしら‥‥。
+--> t0
+--> te0
+--> ter0
+--> terr0
+--> terro0
+--> terror0
+□　《テラー》(terror)\国際手配Number:B12AJ23コードネーム《テラー》0
+ナイフを主な武器とする中東を活動の場とする暗殺者。正体不明、性別不明、人種不明、年齢不明、殺人達成率100%、エルディア軍正式採用のナイフを好んで使用する。0
+政治的に利用しようとするむきも少なくなく、要注意人物。ストールマン＝孔、二階堂進の殺人容疑。0
+【まりな】聞いてはいたけど、改めて凄いプロフィールね‥‥。
+【まりな】国際指名手配されてるみたいだけど‥‥。
+【まりな】一切の経歴が不明ときてるわ‥‥。
+** warnning level.5 **0
+現在、日本に上陸中。0
+公安出動中。0
+内閣調査室、捜査中。0
+【まりな】ま、この辺は聞いた通りね‥‥。
+【まりな】ブロンドに関しては、まだ不確定要素ということかしら‥‥入力はされてないわ。
+【まりな】内調の捜査力で、何とか手がかりを捜したいところだけど‥‥。
+serch a database\press number to select0
+1: Politics\2: Law, Patents, Trademarks, Copyrights\3: Business0
+4: Arts, Literature, Religion\5: People0
+press number to select\--> 10
+input subject words. (end: enter_key)\-->0
+【まりな】次はどうするの？
+【まりな】そうね、もう一度見てみましょう‥‥。
+--> m0
+--> mi0
+--> mid0
+--> mido0
+--> mido0
+--> mido 0
+--> mido m0
+--> mido ma0
+--> mido may0
+--> mido maya0
+--> mido mayak0
+--> mido mayako0
+□　マヤコ＝ミドウ0
+身長:161cm    体重:44Kg  国籍:エルディア共和国\生年月日:12/07  年齢:18  住所:Eldia Embassy0
+エルディア国大使・御堂の娘。母親は爆弾テロにより２年前に死亡。現在エール外国人学校へ通学中。（注：エール外国人学校－12/05付で休校）0
+** warnning level.5 **0
+現在、１級捜査官［法条まりな］が護衛中。0
+** warnning level.6 **0
+内務監査の調査により、１級捜査官の階級剥奪中。0
+【まりな】さっきと同じね‥‥ま、当たり前か。
+serch a database\press number to select0
+1: Politics\2: Law, Patents, Trademarks, Copyrights\3: Business0
+4: Arts, Literature, Religion\5: People0
+press number to select\--> 10
+input subject words. (end: enter_key)\-->0
+【恭子】さっ、次はどのキーワードで検索する？
+【まりな】真弥子ちゃんのプロフィールか‥‥。
+【まりな】そうね、ちょっとだけ見てみようかしら‥‥。
+--> m0
+--> mi0
+--> mid0
+--> mido0
+--> mido0
+--> mido 0
+--> mido m0
+--> mido ma0
+--> mido may0
+--> mido maya0
+--> mido mayak0
+--> mido mayako0
+□　マヤコ＝ミドウ0
+身長:161cm    体重:44Kg  国籍:エルディア共和国\生年月日:12/07  年齢:18  住所:Eldia Embassy0
+エルディア国大使・御堂の娘。母親は爆弾テロにより２年前に死亡。現在エール外国人学校へ通学中。（注：エール外国人学校－12/05付で休校）0
+【まりな】ま、この辺は確認作業ってところね‥‥。
+【まりな】でも改めて見ると、ショックよね‥‥爆弾テロで母親を亡くしてるなんて。
+** warnning level.5 **0
+現在、１級捜査官［法条まりな］が護衛中。0
+【まりな】私のことだわ‥‥フフ、照れるわね、改めてこう表示されると。
+** warnning level.6 **0
+【まりな】‥‥レベル６ワーニングだわ。
+【まりな】本部長のアクセス権ギリギリというところね。
+内務監査の調査により、１級捜査官の階級剥奪中。0
+【まりな】あらあら、もう監査のことが入力されてるわ‥‥。
+【まりな】ほとんどリアルタイムで更新されてるって感じね‥‥。
+serch a database\press number to select0
+1: Politics\2: Law, Patents, Trademarks, Copyrights\3: Business0
+4: Arts, Literature, Religion\5: People0
+press number to select\--> 10
+input subject words. (end: enter_key)\-->0
+【まりな】さっ、次はどうするの？
+　鈴木
+　シリア
+　まりな
+【まりな】もう一度、調べてみるの？
+--> s0
+--> su0
+--> suz0
+--> suzu0
+--> suzuk0
+--> suzuki0
+--> suzuki 0
+--> suzuki &0
+--> suzuki & 0
+--> suzuki & s0
+--> suzuki & su0
+--> suzuki & sun0
+--> suzuki & sunp0
+--> suzuki & sunpl0
+--> suzuki & sunplu0
+--> suzuki & sunplus0
+--> suzuki & sunplus 0
+--> suzuki & sunplus l0
+--> suzuki & sunplus li0
+--> suzuki & sunplus lif0
+--> suzuki & sunplus life0
+--> suzuki & sunplus life 0
+--> suzuki & sunplus life I0
+--> suzuki & sunplus life In0
+--> suzuki & sunplus life Ins0
+--> suzuki & sunplus life Ins.0
+□　鈴木　源三郎0
+身長:180cm    体重:80Kg  国籍:日本国\年齢:45  住所:不定  職業:保険調査員0
+サンプラス生命保険会社、資本金１千万円、従業員人数１０人、昨年の売上高不定。0
+【まりな】オジサマ、苦労してるのね‥‥。
+serch a database\press number to select0
+1: Politics\2: Law, Patents, Trademarks, Copyrights\3: Business0
+4: Arts, Literature, Religion\5: People0
+press number to select\--> 10
+input subject words. (end: enter_key)\-->0
+【まりな】さて、次はどうするの？
+【まりな】オジサマのパーソナルデータか‥‥。
+【まりな】そうね、調べてみるのも悪くないわ‥‥。
+--> s0
+--> su0
+--> suz0
+--> suzu0
+--> suzuk0
+--> suzuki0
+--> suzuki 0
+--> suzuki &0
+--> suzuki & 0
+--> suzuki & s0
+--> suzuki & su0
+--> suzuki & sun0
+--> suzuki & sunp0
+--> suzuki & sunpl0
+--> suzuki & sunplu0
+--> suzuki & sunplus0
+--> suzuki & sunplus 0
+--> suzuki & sunplus l0
+--> suzuki & sunplus li0
+--> suzuki & sunplus lif0
+--> suzuki & sunplus life0
+--> suzuki & sunplus life 0
+--> suzuki & sunplus life I0
+--> suzuki & sunplus life In0
+--> suzuki & sunplus life Ins0
+--> suzuki & sunplus life Ins.0
+□　鈴木　源三郎0
+身長:180cm    体重:80Kg  国籍:日本国\年齢:45  住所:不定  職業:保険調査員0
+サンプラス生命保険会社、資本金１千万円、従業員人数１０人、昨年の売上高不定。0
+【まりな】な、なによこれ‥‥本当に小さな会社ね。
+【まりな】底辺の保険会社なんて、こんなものかもしれないけど‥‥。
+【まりな】オジサマ、ひょっとして苦労してるの‥‥？
+serch a database\press number to select0
+1: Politics\2: Law, Patents, Trademarks, Copyrights\3: Business0
+4: Arts, Literature, Religion\5: People0
+press number to select\--> 10
+input subject words. (end: enter_key)\-->0
+【まりな】さて、次はどうするの？
+【まりな】そうね、もう一度だけ調べてみましょう。
+--> s0
+--> si0
+--> sir0
+--> siri0
+--> siria0
+□　シリア＝フラット0
+身長:171cm    体重:49Kg  国籍:エルディア共和国\生年月日:07/07  年齢:23  住所:(*1)現在不定0
+エール外国人学校アラビア語教師、１年前にストールマン＝孔の紹介により赴任、現在に至る。0
+** warnning level.5 **0
+［ストールマン＝孔］殺害の重要参考人として、現在指名手配中。0
+元エルディア情報部特務第３班所属。0
+【まりな】旧エルディア情報部に所属していたらしいわ‥‥。
+【まりな】シリア‥‥。
+serch a database\press number to select0
+1: Politics\2: Law, Patents, Trademarks, Copyrights\3: Business0
+4: Arts, Literature, Religion\5: People0
+press number to select\--> 10
+input subject words. (end: enter_key)\-->0
+【まりな】さて、次はどうするの？
+【まりな】シリア‥‥。
+【まりな】現在、指名手配中のはず‥‥。
+【まりな】どうなってるのかしら、データは‥‥。
+--> s0
+--> si0
+--> sir0
+--> siri0
+--> siria0
+□　シリア＝フラット0
+身長:171cm    体重:49Kg  国籍:エルディア共和国\生年月日:07/07  年齢:23  住所:(*1)現在不定0
+エール外国人学校アラビア語教師、１年前にストールマン＝孔の紹介により赴任、現在に至る。0
+** warnning level.5 **0
+［ストールマン＝孔］殺害の重要参考人として、現在指名手配中。0
+元エルディア情報部特務第３班所属。0
+【まりな】シリア‥‥エルディア情報部？
+【まりな】‥‥‥‥。
+serch a database\press number to select0
+1: Politics\2: Law, Patents, Trademarks, Copyrights\3: Business0
+4: Arts, Literature, Religion\5: People0
+press number to select\--> 10
+input subject words. (end: enter_key)\-->0
+【まりな】さて、次はどうするの？
+【まりな】何度も見なくていいわよ‥‥。
+【まりな】また体重が表示されるだけだし‥‥。
+--> h0
+--> ho0
+--> hoj0
+--> hojo0
+--> hojo 0
+--> hojo m0
+--> hojo ma0
+--> hojo mar0
+--> hojo mari0
+--> hojo marin0
+--> hojo marina0
+□　法条まりな0
+身長:167cm    体重:48Kg  国籍:日本国\生年月日:05/05  年齢:24  住所:不定(*1)\(*1)現在、サン・マンション401号室0
+公安委員会－内閣調査室。１級捜査官。任務実働回数102回、任務達成率99%、検挙率99%、表彰4回、1年前米国へ栄転、現在日本にて任務中。0
+** warnning level.5 **0
+現在、［マヤコ＝ミドウ］を護衛中。0
+** warnning level.6 **0
+内務監査の調査により、現在査問中。0
+【まりな】ふぅ‥‥ま、こんなものね。
+serch a database\press number to select0
+1: Politics\2: Law, Patents, Trademarks, Copyrights\3: Business0
+4: Arts, Literature, Religion\5: People0
+press number to select\--> 10
+input subject words. (end: enter_key)\-->0
+【まりな】次はどうするの？
+【まりな】私のパーソナルデータは、どうなってるのかな。
+【まりな】‥‥そんなこと調べてる暇は、ないんだけど。
+--> h0
+--> ho0
+--> hoj0
+--> hojo0
+--> hojo 0
+--> hojo m0
+--> hojo ma0
+--> hojo mar0
+--> hojo mari0
+--> hojo marin0
+--> hojo marina0
+□　法条まりな0
+身長:167cm    体重:48Kg  国籍:日本国\生年月日:05/05  年齢:24  住所:不定(*1)\(*1)現在、サン・マンション401号室0
+公安委員会－内閣調査室。１級捜査官。任務実働回数102回、任務達成率99%、検挙率99%、表彰4回、1年前米国へ栄転、現在日本にて任務中。0
+【まりな】‥‥今は４７キロになってるわよ。
+【まりな】ふぅ‥‥。
+** warnning level.5 **0
+現在、［マヤコ＝ミドウ］を護衛中。0
+** warnning level.6 **0
+内務監査の調査により、現在査問中。0
+【まりな】別に珍しいデータじゃないわね‥‥。
+【まりな】私自身のことだもの、あたりまえよ。
+serch a database\press number to select0
+1: Politics\2: Law, Patents, Trademarks, Copyrights\3: Business0
+4: Arts, Literature, Religion\5: People0
+press number to select\--> 10
+input subject words. (end: enter_key)\-->0
+【まりな】さて、次はどうするの？
+serch a database\press number to select0
+1: Politics\2: Law, Patents, Trademarks, Copyrights\3: Business0
+4: Arts, Literature, Religion\5: People0
+press number to select\--> _0
+【まりな】何番を選ぶの‥‥？
+　戻る
+　３を選ぶ
+　１を選ぶ
+　４を選ぶ
+　２を選ぶ
+　５を選ぶ
+1265
+【まりな】時間は貴重よ‥‥本部長が来るまでに、御堂氏のことを調べないと‥‥。
+【まりな】政治カテゴリー‥‥調べたいのはやまやまだけど、時間がないわ。
+【まりな】本部長がせっかくくれたチャンスよ‥‥有効に使いましょうよ。
+【まりな】法律関係に用はないわ‥‥。
+【まりな】とりあえず、法律に用事はないわ。
+【まりな】私が調べたいのは、彼のパーソナルデータよ。
+【まりな】違う、私が調べたいのはこれじゃないわ‥‥。
+【まりな】ビジネス関連か‥‥。
+【まりな】さしあたって、必要のない項目だわ。
+【まりな】とりあえず、関連性はないわね‥‥。
+【まりな】美術か‥‥。
+【まりな】そういえば今日大使館に来た、例の長髪の男‥‥。
+【まりな】絵画の写真を御堂大使に見せていたけど‥‥。
+【まりな】‥‥‥‥。
+【まりな】それよりも、この侵入者を利用した方がいいと思うけど‥‥。
+press number to select\--> 5_0
+press number to select\--> 5 0
+input subject words. (end: enter_key)\-->0
+【まりな】検索するキーワード入力‥‥。
+【まりな】どの情報を調べるの‥‥？
+【まりな】そうよ、私が調べたい項目はここだわ。
+press number to select\--> 5_0
+press number to select\--> 5 0
+input subject words. (end: enter_key)\-->0
+【まりな】検索するキーワード入力‥‥。
+【まりな】どの情報を調べるの‥‥？
+【まりな】そうね、御堂氏のパーソナル情報は、この項目だわ。
+【まりな】５を入力するわよ‥‥。
+press number to select\--> 5_0
+press number to select\--> 5 0
+input subject words. (end: enter_key)\-->0
+【まりな】検索するキーワード入力か‥‥。
+【まりな】御堂大使だから‥‥「御堂」と「大使」でＡＮＤを取ればいいのかな。
+　見る・調べる
+　移動する
+　解除する
+　セーブ・ロード
+　セーブ
+　ロード
+　御堂の個人情報
+【まりな】もう出来ることはやったわ‥‥。
+【まりな】後はデータが来るのを待つだけよ‥‥端末のモニターに注目してましょう。
+【まりな】じゃ、まずは御堂氏本人のパーソナル情報へ‥‥。
+serch a database\press number to select0
+1: Politics\2: Law, Patents, Trademarks, Copyrights\3: Business0
+4: Arts, Literature, Religion\5: People0
+press number to select\--> 10
+input subject words. (end: enter_key)\-->0
+--> m0
+--> mi0
+--> mid0
+--> mido0
+--> mido 0
+--> mido &0
+--> mido & 0
+--> mido & a0
+--> mido & am0
+--> mido & amb0
+--> mido & amba0
+--> mido & ambas0
+--> mido & ambass0
+--> mido & ambassa0
+--> mido & ambassado0
+--> mido & ambassador0
+--> mido & ambassador0
+□　ロス＝ミドウ　エルディア共和国大使0
+今年度よりエルディア共和国大使として赴任。エルディア改革の中心人物。0
+王宮省、科学局、情報部など旧体制を次々と解体し、首相とともにエルディア共和国改革の陣頭指揮を取る。旧エルディア情報部・部長。0
+今年度より、日本におけるエルディア共和国大使に赴任、活動を続けている。0
+【まりな】ここでエスケープ、端末固定‥‥。
+1265
+【まりな】ふぅ‥‥何とかここまで来たわ。後は向こうさんにパスワードを入力させるだけよ‥‥。
+【まりな】エスケープモードから、向こうへメッセージを送るわ。
+カタカタカタ‥‥。
+【まりな】『ＯＫ。入力をはじめて。』‥‥こんなところかしら。
+【まりな】後は、向こうさんがパスワードを首尾良く入力してくれたら‥‥。
+【まりな】‥‥‥‥。
+【まりな】解除しようにも‥‥向こうさんの返答待ちね。
+【まりな】今は端末のモニターに注目していましょう。
+【まりな】フフ、何だか照れるわね‥‥見ず知らずの人にメッセージを送るなんて。
+cannot access ... level too short0
+パ0
+パス0
+パスワ0
+パスワー0
+パスワード0
+パスワードは0
+パスワードは解0
+パスワードは解析0
+パスワードは解析済0
+パスワードは解析済。0
+パスワードは解析済。20
+パスワードは解析済。240
+パスワードは解析済。2420
+パスワードは解析済。242B0
+パスワードは解析済。242BA0
+パスワードは解析済。242BA30
+【まりな】こんな感じでどうかしらね‥‥。
+【まりな】向こうも、もう気付いているはずよ‥‥。
+【まりな】‥‥‥‥。
+1265
+【まりな】そうね‥‥このもう１人の人間も、御堂大使の情報を調べているみたい‥‥。
+【まりな】フフ、ゾクゾクしちゃうじゃない。見ず知らずの人間に協力するなんて‥‥。
+【まりな】恐らく向こうも、アクセスレベルを解除しようとしているんだわ‥‥。
+【まりな】向こうの入力と同時に、こちらもやれば、あるいは‥‥。
+【まりな】‥‥‥‥。
+serch a database\press number to select0
+1: Politics\2: Law, Patents, Trademarks, Copyrights\3: Business0
+4: Arts, Literature, Religion\5: People0
+press number to select\--> 10
+input subject words. (end: enter_key)\-->0
+--> mido and ambassador0
+□　ロス＝ミドウ　エルディア共和国大使0
+今年度よりエルディア共和国大使として赴任。エルディア改革の中心人物。0
+王宮省、科学局、情報部など旧体制を次々と解体し、首相とともにエルディア共和国改革の陣頭指揮を取る。旧エルディア情報部・部長。0
+今年度より、日本におけるエルディア共和国大使に赴任、活動を続けている。0
+【まりな】ここよ！　ここでパスワードを入力すれば‥‥。
+** warnning level.7 **0
+[ Neo Cerebral Project ]\日本政府は、旧エルディア■0
+日本政府は、旧エルディア情■0
+日本政府は、旧エルディア情報■0
+日本政府は、旧エルディア情報部■0
+日本政府は、旧エルディア情報部へ■0
+日本政府は、旧エルディア情報部への■0
+日本政府は、旧エルディア情報部への ■0
+日本政府は、旧エルディア情報部への  ■0
+日本政府は、旧エルディア情報部への   ■0
+日本政府は、旧エルディア情報部への    ■0
+日本政府は、旧エルディア情報部への     ■0
+【まりな】だ、ダメ！　制御しきれない！！
+cannot access ... level too short0
+【まりな】ふぅ‥‥。
+1265
+【まりな】やっぱり、１人ではむずかしいわ。
+【まりな】向こうさんと、協力しないと‥‥。
+【まりな】‥‥‥‥。
+　あたりの様子
+　机
+　本棚
+　端末
+　時計
+【まりな】どうしたのかしら‥‥あっ！0
+** warnning level.7 **0
+[ Neo Cerebral Project ]0
+エルディア政府は科学局ドールマン孔の死亡の報を受け、0
+研究続行不能の決定を下し、さらにエール外国人学校校長0
+ストールマン＝孔の暗殺事件により、0
+中東勢力の存在を認識し、旧エルディア科学局への資金援0
+助を打ち切り、プロジェクトからの全面撤退を確認した。0
+情報部部長であったロス＝ミドウはこの要請を受けて、0
+科学局及び情報部は解体。極秘裏に進められていたＣプロ0
+ジェクトは、事実上崩壊したことになる。陸幕二部では、0
+研究成果の［μ-101］の収集に全力を傾けると共に0
+資料を持ち出したと推測される旧エルディア情報部の残党0
+とその協力者の割り出しを、エルディア共和国ロイド首相0
+に依頼している。0
+1265
+【まりな】『極秘に進められたＣプロジェクト‥‥。』
+【まりな】『陸幕二部が研究成果の回収‥‥！？』
+【まりな】どういうことなの、これは‥‥。
+【まりな】自動的にディスクへ画面が保存されているはず‥‥。
+【まりな】とにかく、データが終了するまでは、このまま‥‥。
+バタン！
+【声】法条さん！
+【まりな】えっ‥‥！？
+b022_5
+【まりな】おかしいわね‥‥早くパスワードを入力してよ。
+【まりな】まだ、動きはないわ‥‥。
+【まりな】さっ、御堂大使の個人情報のロックを、早く解除しましょう！
+cannot access ... level too short0
+パスワードは解析済。242BA30
+【まりな】んもぉ、時間が無いっていうのに‥‥早くして！
+【まりな】あっ！0
+■0
+了■0
+了解■0
+了解。■0
+了解。こ■0
+了解。こち■0
+了解。こちら■0
+了解。こちらで■0
+了解。こちらで入■0
+了解。こちらで入力■0
+了解。こちらで入力す■0
+了解。こちらで入力する■0
+了解。こちらで入力する　0
+【まりな】きたわ！
+【まりな】ふぅ‥‥向こうさんでパスワード入力、こちらで端末の固定‥‥。
+【まりな】これだったら、何とかなりそうだけど‥‥。
+【まりな】じゃ、アクセスレベルを解除するわよ。
+1265
+cannot access ... level too short0
+パスワードは解析済。242BA30
+【まりな】レスポンスが返ってこない‥‥。
+【まりな】早くしてよ‥‥早く！
+1265
+【まりな】もう１人を利用して、アクセスレベルを解除した方がいいと思うけど‥‥。
+【まりな】そうね、早くあのパスワードを入力してみましょう。
+【まりな】そうね、時間は貴重よ‥‥。
+【まりな】早くＤＢＭＳで検索しましょう。
+【まりな】そうよ、端末を今なら‥‥。
+【まりな】本部長の好意を無駄にしたくないわ‥‥って、勝手に私が解釈してるだけだけど。
+【まりな】こう言っておかないと、本部長が危機に陥るしね。
+s20
+【まりな】久しぶりね、ＤＢＭＳを使用するのも‥‥。
+【まりな】これは純粋な端末‥‥スタンドアロンとして使用できるＣＰＵじゃないわ。
+【まりな】電源を入れれば、そのまま内部ネットへアクセスできるはず‥‥。
+カチッ‥‥フィーーーン‥‥‥‥。
+eve_44
+*****   P.S.I.A Data Base Management System   *****\== Last Login 99-99-99 99:99:99 ==\== Login Time 95-12-06 15:43:18 ==0
+Ch20-50 64k/31.2k/28.8kbps\Ch2,3 President 28800k Degital Opt.0
+News infomation (95/12/06)\    ttm: soc.politics.jiji\    mtm: soc.economic.jiji0
+Input Your Password : ■0
+【まりな】パスワード‥‥。
+【まりな】‥‥‥‥。
+【まりな】パスワードは１２桁の数字・アルファベット・記号‥‥。
+【まりな】本部長は、いつも１桁少ないパスワードを設定する。
+【まりな】１１桁‥‥。
+【まりな】‥‥‥‥。
+【まりな】本部長の誕生日は、確か９月２３日だったわね‥‥。
+【まりな】［0923］‥‥これで４桁か。
+【まりな】早くしないと、戻ってきてしまう。
+【まりな】トイレにサイフを捜しに行くのに、３０分もかからないわよ‥‥。
+【まりな】桁数が足りない‥‥どうすればいいかしら‥‥。
+【まりな】‥‥‥‥。
+【まりな】そっか、スラッシュで区切れば［09/23］‥‥まだ５桁ね。
+【まりな】これに西暦年号をくわえて‥‥確か５５年生まれだったっけ？
+【まりな】［1955/09/23］‥‥１０桁にしかならない。１桁足りない。中途半端だわ‥‥。
+【まりな】ああン‥‥もぉ、本部長は他に何か言ってなかったかしら‥‥。
+【まりな】‥‥‥‥。
+【まりな】そうだわ、確かプレゼントがどうとか‥‥。
+【まりな】タイが欲しいって‥‥タイ。アルファベットで［tie］。
+【まりな】これを頭に付けると‥‥［tie1955/09/23］。
+【まりな】これで１３桁‥‥西暦の頭２桁を削れば‥‥。
+【まりな】［tie55/09/23］。これで１１桁、ドンピシャ！
+【まりな】でも、キャッシュディスペンサーのように、２回までパスワードが間違えられる訳じゃないから‥‥。
+【まりな】１回で警告がくる‥‥慎重に入れないと。
+【まりな】ふぅ‥‥私って１本指打法なのよね。タッチタイプができないのよ‥‥。
+Input Your Password : t■0
+Input Your Password : ti■0
+Input Your Password : tie■0
+Input Your Password : tie5■0
+Input Your Password : tie55■0
+Input Your Password : tie55/■0
+Input Your Password : tie55/0■0
+【まりな】ふぅ‥‥ちょっと緊張するわ。
+Input Your Password : tie55/09■0
+Input Your Password : tie55/09/■0
+Input Your Password : tie55/09/2■0
+Input Your Password : tie55/09/23■0
+【まりな】これで‥‥いいはずよね。
+【まりな】じゃあ、インターキーを‥‥。
+【まりな】‥‥‥‥。
+【まりな】待って、本部長まだ何か言っていなかったかしら‥‥。
+【まりな】そうよ‥‥確か‥‥。
+【まりな】幅の広い‥‥大きなタイがいいって‥‥言っていたわ。
+【まりな】幅の広い？　大きな？
+【まりな】‥‥‥‥。
+【まりな】そっか、最初の３文字‥‥識別子が大文字よ！
+【まりな】危なかったわ‥‥慎重に打たないと。
+Input Your Password : tie55/09/2■ 0
+Input Your Password : tie55/09/■ 0
+Input Your Password : tie55/09■  0
+Input Your Password : tie55/0■   0
+Input Your Password : tie55/■    0
+Input Your Password : tie55■     0
+Input Your Password : tie5■      0
+Input Your Password : tie■       0
+Input Your Password : ti■        0
+Input Your Password : t■         0
+Input Your Password : ■          0
+【まりな】最初の３文字は大文字と‥‥。
+Input Your Password : T■0
+Input Your Password : TI■0
+Input Your Password : TIE■0
+Input Your Password : TIE5■0
+Input Your Password : TIE55■0
+Input Your Password : TIE55/■0
+Input Your Password : TIE55/0■0
+Input Your Password : TIE55/09■0
+Input Your Password : TIE55/09/■0
+Input Your Password : TIE55/09/2■0
+Input Your Password : TIE55/09/23■0
+【まりな】ふぅ、インター‥‥これでいいはず。
+Input Your Password : TIE55/09/23　0
+Input Your Password : TIE55/09/23■0
+Input Your Password : TIE55/09/23　0
+Input Your Password : TIE55/09/23■0
+Input Your Password : TIE55/09/23　0
+Input Your Password : TIE55/09/23■0
+Input Your Password : TIE55/09/23　0
+Connect channel 25  64.4k/ISDN/ARQ\Last Logout=95/12/04 18:43:06\Today's Access #2232+a80b20
+main>> _0
+【まりな】あとは、ＤＢＭＳのプロシジャーをオープンすれば‥‥。
+【まりな】確か、プロシジャー名は［service.dbms］。
+main>> o_0
+main>> op_0
+main>> open_0
+main>> open _0
+main>> open s_0
+main>> open se_0
+main>> open ser_0
+main>> open serc_0
+main>> open serci_0
+main>> open sercic_0
+main>> open sercice_0
+main>> open sercice._0
+【まりな】あっ‥‥スペルミス‥‥。
+【まりな】ｖがｃになってる‥‥ふぅ、落ち着いて行きましょう‥‥。
+main>> open sercice_ 0
+main>> open sercic_  0
+main>> open serci_   0
+main>> open serc_    0
+main>> open ser_     0
+main>> open serv_0
+main>> open servi_0
+main>> open servic_0
+main>> open service_0
+main>> open service._0
+main>> open service.d_0
+main>> open service.db_0
+main>> open service.dbm_0
+main>> open service.dbms_0
+main>> open service.dbms 0
+wait for a moment..0
+【まりな】‥‥時間にはあまり余裕がないわ。
+【まりな】御堂大使のデータを、早く調べないと‥‥。
+wait for a moment........0
+wait for a moment.........0
+wait for a moment..........0
+wait for a moment...........0
+wait for a moment...........Connect!0
+【まりな】つながったわ‥‥目指すはピープル情報ね。
+serch a database\press number to select0
+1: Politics\2: Law, Patents, Trademarks, Copyrights\3: Business0
+4: Arts, Literature, Religion\5: People0
+press number to select\--> _0
+【まりな】ふぅ‥‥とりあえず、ここまできたわ。
+1265
+【まりな】この部屋には私が１人‥‥。
+【まりな】本部長は、おトイレに時計を捜しに行ったわ‥‥。
+【まりな】フフ、不器用は相変わらずね‥‥でも時計って何かしら。
+【まりな】今、この部屋には私だけよ‥‥。
+【まりな】意外性の無いパスワードの隠し場所だったわ。
+【まりな】それよりも、早く入力しましょう。時間が惜しいわ。
+【まりな】時計、ね‥‥。
+【まりな】まさか、底とかに貼ってあるなんてこと‥‥あった！
+【まりな】本部長ぉ、もうちょっと気を遣ってよ‥‥。
+【まりな】ま、絶対に身近なところにあると思ったけどね。パスワードはと‥‥。
+【まりな】「２４２ＢＡ３」。
+【まりな】これをＤＢＭＳのアクセス画面で入力すれば‥‥。
+【まりな】早く、入力しましょう！
+【まりな】時計、ね‥‥。
+【まりな】机の下も‥‥ない。
+【まりな】本部長の思考レベルなら、だいたい把握できてるはずなんだけど‥‥。
+【まりな】‥‥‥‥。
+【まりな】そういえば、彼、何て言って出ていった？
+【まりな】そう、確か「時計を捜しに‥‥」とか言っていたわ。
+【まりな】時計か‥‥。
+【まりな】そうよ、どうせ部長のことだから、パスワードなんて、何かに書いてあるに決まってる。
+がさごそ‥‥ごそごそ‥‥。
+【まりな】‥‥‥‥。
+【まりな】どこかしら‥‥ないわ。
+【まりな】机じゃないわ。机の上の‥‥。
+【まりな】机だけど、その上のものに用事があるんじゃない？
+【まりな】本棚は関係ないわ‥‥。
+【まりな】本部長のエロ本貯蔵場所‥‥というのは冗談だけど。
+【まりな】今は本棚なんて関係ないわよ‥‥。
+　外に出る
+【まりな】ダメよ、今はやることがあるのよ‥‥。
+【まりな】今はやることがあるわ‥‥。
+【まりな】それにどうせ出ていったって、捕まるだけよ‥‥。

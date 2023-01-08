@@ -1,0 +1,11 @@
+(mes
+ (meta (engine 'AI5) (charset "pc98") (dictbase 128))
+ (dict)
+ (palette 3 0)
+ (delay 100)
+ (sound 1)
+ (color 0)
+ (set-arr~ @ 6 0)
+ (box 0 0 79 399)
+ (set-arr~ @ 6 1)
+ (box 0 0 79 399))

@@ -1,0 +1,1178 @@
+
+040
+*knock knock*
+...
+ÅyYuichiÅz It's me, Yuichi.
+...
+The principal isn't here. I wonder why.
+
+040
+*knock knock*
+...
+ÅyYuichiÅz It's me, Yuichi.
+...
+It doesn't look like the principal's here.
+Å@Look aroundÅ@Å@
+Å@Move
+There's no point in staying here. Shall we move to another place?
+It is already evening...
+No one seemed to be here. I felt a bit of relief.
+There is no one in the principal's office.
+The sunlight finds its way into the room. The window frame is giving off bright reflections.
+It happened in this room... Toshiko Amamiya and I...
+There's no one in the principal's office. I was relieved.
+Well, I used to be glad to come and see her, but now... it's a little uncomfortable.
+There's no one in the principal's office.
+On that table... The principal, Toshiko Amamiya, and I...
+Principal Amamiya picked up a few documents and left. Now there's only me in the principal's office.
+Å@Go to the faculty roomÅ@Å@
+Å@Go in front of the school gate
+Å@Go to the nursing office
+Yeah, I should go back to the faculty room.
+I'd like to return to the faculty room and reorganize my thoughts.
+Okay, let's go in front of the school gate.
+I'd like to relax in the faculty room.
+Okay, let's go to the nurse's office.
+010
+id03
+010
+I'm now in front of the school gate.
+I wonder if I will meet Megumi Sasaki tomorrow at 6.
+id03
+010
+I'm now in front of the school gate.
+But I'm feeling down. I wonder if there is some place where I can get rid of this kind of depression.
+010
+id03
+I'm now in front of the school gate.
+I wonder what Hiromi Matsuno and Yumiko Mizukami were talking about. It bothers me.
+id03
+010
+I'm now in front of the school gate.
+I'm going to get the pills analyzed. The results should come back in a few days.
+They can tell me themselves their analysis.
+id03
+010
+I'm now in front of the school gate. I see some students leaving.
+I stare a little.
+...
+...
+I think I'm okay now. I don't feel as hot anymore.
+Å@Look aroundÅ@Å@
+Å@Move
+There is nothing in particular that stands out about this.
+Female students who had finished their afternoon classes and club activities were passing through the school gate. As they passed me, they bowed their heads.
+It is already evening. The massive iron gate glows reddish black under the setting sun.
+I should move to another place.
+There's nothing I can do here. Let's move to another place.
+A thick black steel gate is in front of me.
+Hiromi Matsuno already left for the school buildings.
+There are a few students walking by.
+They are talking to each other. Yumiko Mizukami looks a bit emotional. She looks angry.
+Hiromi Matsuno is just listening. I wonder what they're talking about.
+Yumiko Mizukami is coming this way.
+id57
+010e
+ÅyYumikoÅz You...
+ÅyYuichiÅz Hi...
+ÅyYumikoÅz ...
+ÅyYuichiÅz How are you?
+ÅyYumikoÅz Eat shit and die!
+ÅyYuichiÅz What the...?
+010
+Yumiko left running. Boy did she look pissed...
+This was the first time a woman has told me to die.
+I was a little shocked.
+010b
+ÅyHiromiÅz Professor Sakuma... Were you watching?
+ÅyYuichiÅz What's wrong with her?
+ÅyHiromiÅz There was a misunderstanding...
+ÅyYuichiÅz A misunderstand, eh?
+I didn't want to take a peek into her affairs. It's not like I wasn't interested, but....
+She was too serious.
+ÅyYuichiÅz ...
+ÅyHiromiÅz ...
+Shit... An awkward moment... I need a topic...
+ÅyYuichiÅzÅd So um, when is the swim team starting their practices? I went to the pool but there was no one there.
+ÅyHiromiÅz Oh, we just finished our meeting, so the practice should start soon.
+ÅyYuichiÅz Okay, I'll definitely come by so don't tell me not to come this time.
+ÅyHiromiÅz *giggle* I won't say that... I'll be waiting.
+ÅyYuichiÅz See you later.
+010
+Hiromi left giggling. She's still waving her hands at me.
+Dang it... I want her.
+... WHAT!
+There is nothing special. Huh?
+Hiromi Matsuno is standing in front of the school gate. Yumiko Mizakami is with her. They're a weird combination.
+A few students are walking by the school gate. They must've finished their class a little early.
+So let's move on to another place.
+So let's move on to another place.
+So let's move on to another place.
+Å@Go to the faculty room
+Å@Go to the principal's officeÅ@Å@
+Å@Go to the nursing office
+Let's wait a bit until moving.
+Okay, I'll return to the faculty room.
+Let's wait a bit until moving.
+Okay, let's go to the principal's office.
+Let's wait a bit until moving.
+Let's go to the nurse's office.
+050
+The nurse's office has a distinct smell.
+ÅyYuichiÅz Excuse me... Is Dr. Iijima here?
+ÅyShizukaÅz Professor Sakuma. I've been waiting for you.
+050d
+id57
+id40
+050
+The nurse's office has a distinct smell.
+Thank god. It seems that Shizuka Iijima is not here.
+id40
+050
+The nurse's office has a distinct smell.
+The area is quiet and still.
+id40
+050
+The nurse's office has a distinct smell.
+Doesn't seem like anyone's here.
+id40
+050
+The nurse's office has a distinct smell.
+Shizuka doesn't seem to be here.
+Å@Look aroundÅ@Å@
+Å@Move
+There seems to be no one in here.
+I stared at the shelf.
+I will take those pills to headquarters tonight for analysis. We'll see what the results will be...
+As usual, there seems to be no one in the infirmary. Shizuka Iijima, who is supposed to be working there full-time, is nowhere to be found...
+I'm a little bit of a relief. I don't want her to come at me again with those breasts swaying yummyingly.
+I seem to be the only one in here right now.
+Here we are with the school doctor, Shizuka Iijima.
+No one seems to be in the infirmary.
+The smell of the place was so strong that it was irritating.
+Å@Go to the faculty room
+Å@Go to the principal's officeÅ@Å@
+Å@Go in front of the school gate
+Let's go back to the faculty room.
+The principal's office, huh? Okay, let's go there.
+Okay, let's go to the school gate.
+id21
+030
+This is the faculty room.
+id21
+030
+This is the faculty room.
+id21
+030
+This is the faculty room.
+id21
+030
+This is the faculty room.
+id21
+030
+This is the faculty room.
+id21
+030
+This is the faculty room.
+id21
+030
+This is the faculty room.
+id21
+030
+This is the faculty room.
+id21
+030
+This is the faculty room.
+id21
+030
+I returned to the faculty room.
+030
+Å@Move
+Å@Think
+Å@SaveÅ@Å@
+Most of the student's have gone home. There aren't many professors left in the faculty room.
+It's time to go home...
+I'll go to the nursing office and ask about Megumi Sasaki.
+It's already late...
+I looked at my wristwatch and it was a little past five in the evening.
+That's right, I was going to ask about Megumi Sasaki at the nurse's office but I forgot about it with all the confusion.
+I'm not so sure about meeting Shizuka.
+This place is getting stranger by the minute. Kyouko Himuro, now she's one suspicious character.
+Isn't there a place that can make me forget all this and just relax?
+I never thought that she would be Sayuri Amamiya.
+I'm being played with by a bunch of girls. I did so many stupid things today, shit.
+I'm starting to feel like shit...
+The gymnastics team is about to start their practice. Maybe I should get going.
+Come to think of it, I was going to go see the gymnastics club today. I wonder when it will start.
+The visit to the swimming club turned out to be unexpected. I wonder if Hiromi Matsuno will be okay.
+Let's go to the swimming pool.
+Didn't Hiromi say that the swim team is going to start practicing soon?
+The swim team practices at the swimming pool. Let's go.
+Yumiko looked really stern. I wonder what she was saying to Hiromi.
+I know it's senseless, but it's only human to want to know.
+I have so much to do today.
+Didn't I make a promise to go watch the swim team practice? I wonder when they start?
+I was finally able to get my hands on these pills...
+If they're just ordinary pills, no problem. But I just wanna be safe and get them checked out at the lab.
+If I hand them over tonight, I should get the results back within a couple of days.
+I have a lot of things to do today.
+Seeing the swim team would be nice, but I would really like to meet the captain of the gymnastics team, Sayuri.
+...
+I'm not getting anywhere just standing around. When you're not getting anywhere, use your feet. That's what they taught us at the academy.
+I don't feel so wild anymore. I have a mild headache.
+You know... I don't get Toshiko. She listened to my explanation and let me go but...
+But to tell you the truth, I am at a loss.
+...
+I'm not a saint. I have sexual desires and there are times that I want a woman.
+But I never thought my sexual drive would out weigh my rationality.
+But man... Fucking the principal?
+Å@Go to the classroom
+Å@Go to the principal's officeÅ@Å@
+Å@Go in front of the school gate
+Å@Go to the nursing office
+I don't have anything to do in the classroom. Even if do go, there'll be no one there.
+Let's think a little bit more.
+Okay, let's go to the principal's office.
+Even if I go to the principal's office, Toshiko probably wouldn't be there.
+Let's think a little bit more.
+Let's go to the classroom.
+Let's go home for the day.
+Let's think a little bit more.
+Okay, let's go to the school gate.
+To the nurse's office? Are you mad? I just escaped from that place... You wanna go back?
+Let's think a little bit more.
+Let's go to the nurse's office.
+Å@CancelÅ@Å@
+Å@Save 1
+Å@Save 2
+Å@Save 3
+save1
+Data saved in Save 1.
+save2
+Data saved in Save 2.
+save3
+Data saved in Save 3.
+id03
+020
+I'm now in front of the classroom.
+The sun is setting. I didn't realize it was so late.
+id03
+020
+I'm now in front of the classroom.
+Å@Look aroundÅ@Å@
+Å@Move
+There are a few students walking through the hallways.
+The setting sun was making the waxed floor of the hallway glitter.
+Most of the students have left already. There are only a few remaining.
+There's nothing special around here to notice.
+I hear shouts now and then. They must be coming from the athletic clubs.
+There are more than a few students who are staying after school to study. Students studying... Not a bad sight...
+Å@Go to the faculty room
+Å@Go up to the roof
+Å@Go to the gym
+Å@Go to the swimming poolÅ@Å@
+I feel like I should look around a little more.
+Okay, let's go back to the faculty room.
+I feel like I should look around a little more.
+Let's go to the roof.
+I feel like I should look around a little more.
+Okay, let's go to the gym.
+I feel like I should look around a little more.
+Okay, let's go to the swimming pool.
+id08
+080
+This is the roof.
+I was with Hiromi Matsuno eariler.
+Will I be able to meet Megumi Sasaki tomorrow?
+080
+id67
+080
+*sigh*
+The cold air was pinching me. It helped clear up my mind.
+I see the sun setting in the west. It's dusk already...
+There is nobody on the rooftop. What?
+300
+id08
+080
+This is the roof.
+I feel refreshed, but cold as ever.
+Å@Look aroundÅ@Å@
+Å@Move
+I'm the only one standing alone on the rooftop.
+The big red sun was visible to the west. The weak sunlight transmitted a faint heat to my skin.
+The rooftop seems empty. The wind was carrying cold air. I shivered once.
+I should go back. I don't want to catch a cold.
+It's dusk. The setting sun is illuminating the roof. It was here that Hiromi and I...
+I was blushing. Considering my age, that's pretty embarrassing.
+Hiromi has already left. I thought about what she said. She said that she will bring Megumi Sasaki tomorrow.
+Tomorrow...
+There are several female students around.
+There seem to be a couple of female students. They are happily discussing something.
+They are quite energetic in this cold weather.
+That smell is a bit jiggy.
+The sky is bright blue.
+A cold wind was blowing against my cheeks, but I felt refreshed. I guess it's good to come here when I feel down.
+Å@Go to the classroom
+Å@Go to the gym
+Å@Go to the swimming poolÅ@Å@
+Okay, let's go to the classroom.
+Let's go to the gym.
+The pool? Ok, let's go.
+id12
+060
+This is the first gym.
+I don't see anyone. Club activities must have ended.
+id12
+060
+This is the first gym.
+It seems that the gymnastics club is still active.
+id12
+id12
+060
+This is the first gym.
+Yummy, girls in leotards. So I'm finally able to meet them.
+id15
+060
+060b
+This is the first gym.
+Damn it! When is the gymnastics team going to start practicing!
+id12
+060
+This is the first gym.
+Damn it! When is the gymnastics team going to start practicing!
+id12
+060
+This is the first gym.
+I was told that the gymnastics club would resume activities today.
+Å@Look aroundÅ@Å@
+Å@Move
+No one seems to be in the gym.
+The air conditioner must be turned off. It's a little chilly...
+It seems that the club activities have already finished. There is no one in the gymnasium.
+There's no point in staying here. Let's move on.
+I don't see Sayuri and Yoko. Have they already gone?
+The girls in leotards are dancing. It is quite a dainty sight.
+The gymnastics team has started practicing.
+They were laughing as they danced. My eyes were fixed on these angels.
+Sayuri and Yoko joined the rest of the team.
+Noriko Furima is right in front of me.
+I don't see any students in leotards. When is the gymnastics team going to start practicing?
+ÅyNorikoÅz Yuichi.
+That silly voice. There was only one student with that kind of voice, Noriko.
+060b
+id15
+ÅyYuichiÅz It's Professor Sakuma. Stop calling me Yuichi.
+ÅyNorikoÅz Why not?
+ÅyYuichiÅz Because... Oh, never mind...
+The Gymnastics Club has not yet begun.
+Female students in bloomers are exercising here and there. The girls in leotards don't seem to be around yet.
+It is a spacious gymnasium. It is said to be fully air-conditioned, so both the temperature and humidity are comfortable.
+Å@Go to the classroom
+Å@Go up to the roof
+Å@Go to the swimming poolÅ@Å@
+Let's look around a little more.
+Let's go back to the classroom.
+Let's look around a little more.
+Let's go to the roof.
+Let's look around a little more.
+The pool? Ok, let's go.
+Å@Look at Noriko FurimaÅ@Å@
+Å@Talk to Noriko Furima
+Å@Look aroundÅ@Å@
+Å@Move
+Noriko is looking at me with her puppy dog eyes.
+She is pretty hard to deal with. I wish she would listen to me more.
+ÅE
+I still don't get her.
+Her short hair cut looks really good. She doesn't look like a tomboy at all. She carries herself like a woman.
+ÅE
+She's a very active girl. She might look dull, but I think she's pretty sharp.
+ÅyNorikoÅz There's still some time before the gymnastics team starts practicing.
+ÅyNorikoÅz I think the gymnastics team will start their practice in about thirty minutes.
+ÅyYuichiÅz Thank you.
+ÅyNorikoÅz *giggle* Are you mad at me?
+ÅyYuichiÅz No I'm not.
+ÅyNorikoÅz You're cheeks are convulsing.
+Noriko poked at my cheeks. Damn she's annoying...
+ÅyYuichiÅz I'll just come back in about thirty minutes then, okay?
+ÅyNorikoÅz Okay.
+She's so...
+ÅyNorikoÅz What were we talking about?
+ÅyYuichiÅz About the gymnastics team...
+ÅyNorikoÅz Oh, the gymnastics team practices in the first gym.
+ÅyYuichiÅz I know that. I want to know when.
+ÅyNorikoÅz Everyday.
+ÅyYuichiÅz I mean, when everyday?
+ÅyNorikoÅz I think after school...
+ÅyYuichiÅz Are you toying with me?
+ÅyNorikoÅz *giggle* Can you tell?
+ÅyYuichiÅz ...
+ÅyNorikoÅz So, what do you want to ask?
+ÅyNorikoÅz That's a good question.
+ÅyYuichiÅz It was a simple question. Are they're going to practice or not.
+ÅyNorikoÅz Professor Sakuma?
+ÅyYuichiÅz Yes?
+ÅyNorikoÅz Why can't I call you Yuichi?
+ÅyYuichiÅz Noooo... That's not what I asked.
+ÅyYuichiÅz Hi... Noriko.
+ÅyNorikoÅz Hi Yuichi.
+ÅyYuichiÅz Oh what the hell. Do you know when the gymnastics team is going to practice?
+ÅyNorikoÅz The gymnastics team?
+ÅyYuichiÅz Right, the gymnastics team.
+ÅyNorikoÅz That's a good question.
+Noriko looks like she's thinking really hard. I wonder what she's thinking about.
+Noriko is standing in front of me.
+The way she stands looks so cute.
+I don't see any female students in leotards yet.
+ÅyNorikoÅz Oh, Sakuma.
+Oh. It's Noriko.
+060b
+id15
+ÅyYuichiÅz It's Professor Sakuma.
+ÅyNorikoÅz I think we are the same.
+ÅyYuichiÅz Slightly different.
+Å@Go to the classroom
+Å@Go up to the roof
+Å@Go to the swimming poolÅ@Å@
+It's a little early to move.
+Okay, let's return to the classroom.
+ÅyYuichiÅz See ya, Noriko.
+ÅyNorikoÅz See you later.
+I left the endlessly happy Noriko and the first gym.
+I'll move later.
+Let's go to the rooftop.
+ÅyYuichiÅz See ya, Noriko.
+ÅyNorikoÅz See you later.
+I left the endlessly happy Noriko and the first gym.
+I'll wait a little bit more before I move.
+The swimming pool, huh? Okay, let's go there.
+ÅyYuichiÅz See ya, Noriko.
+ÅyNorikoÅz See you later.
+I left the endlessly happy Noriko and the first gym.
+id54
+070
+This is the swimming pool.
+I don't see anyone. I guess the swim team has already finished.
+id54
+070
+This is the swimming pool.
+The swim team is around. They seem to be doing well.
+id54
+070
+I wonder if Hiromi is okay.
+id54
+070
+This is the swimming pool. There they are!
+Looks like the swim team started their practice.
+id54
+070
+This is the swimming pool.
+There's no one here.
+Å@Ask a nearby studentÅ@Å@
+Å@Look aroundÅ@Å@
+Å@Move
+Was I not loud enough?
+ÅyYuichiÅz Hey you there!
+All the students turned to look at me. Oops, maybe a little too loud?
+ÅyYuichiÅz Oh um, do you know where Hiromi Matsuno is?
+I asked a nearby student in a whisper.
+ÅyGirlÅz Hiromi?
+ÅyYuichiÅz Right, I think she's on the swim team.
+The girl looked around, checking for something. And whispered back to me.
+ÅyGirlÅz I think Hiromi went towards the locker room.
+The girl left quickly as she replied. That was a little weird.
+The locker room... Locker room... Oh, there it is. I found a door with a locker room sign on it.
+I'll just ask.
+ÅyYuichiÅz Excuse me...
+ÅyGirlÅz ...
+The girl just walked right past me.
+There's no point in staying here. Let's move on.
+The air conditioner must be turned off. It is a little chilly.
+Dark lighting illuminated the surface of the water with a flickering light.
+The pool area appears to be empty.
+Nothing seems to have changed.
+Hiromi Matsuno doesn't seem to here.
+Well, after what happened. I can't say I had a choice.
+The swimming club is conducting club activities. Several girls in swimsuits are swimming in the pool.
+I guess the girls around here don't know what happened in the locker room. They're having fun swimming.
+And that cold girl... Kyoko Himuro.
+I looked around but she doesn't seem to be around any more.
+She warned me, but... I wonder what kind of a girl she is.
+I hope Hiromi is okay. I hope she's not pushing herself too hard. I guess this won't be just another visit anymore.
+I don't see Yoko anymore. I guess she left.
+I wonder where Hiromi is. I don't see her.
+I wonder...
+Wow, Those swimming suits are cut pretty high. I wonder if they shave.
+I guess it's only natural for a man to glance at the girls' crotches with that perverted look.
+But I made a promise that I won't have that perverted look on my face. I was fighting myself from having that look.
+These young healthy looking girls were shamelessly showing off their legs.
+Water droplets on their healthy bodies. Healthy beauty. I lost myself watching them.
+The swim team hasn't started practicing.
+It's not as big as it seemed, but it still has two fifty meter pools.
+The spot lights on the ceiling are reflecting off the surface of the pool, and it's making me dizzy.
+There isn't anyone around. I wonder if the swim team started their practices yet.
+Å@Go to the classroom
+Å@Go up to the roof
+Å@Go to the gymÅ@Å@
+Å@Go to the locker roomÅ@Å@
+I don't have any business in the locker room.
+I should wait a little bit more before I move.
+Okay, let's go to the classroom.
+I should wait a little bit more before I move.
+Okay, let's go up to the roof.
+I should wait a little bit more before I move.
+Let's go to the gym.
+Å@Look at Shizuka IijimaÅ@Å@
+Å@Talk to Shizuka IijimaÅ@Å@
+Å@Take out the pillsÅ@Å@
+Å@ThinkÅ@Å@
+Å@Look aroundÅ@Å@
+Å@Move
+I have to make it look like I haven't done anything.
+Shizuka is looking at me doubtfully.
+Shit... Did she see me take the pills?
+It's the school nurse, Shizuka. And yes, her tits are huge. They look as if they're about to burst out of her blouse.
+ÅyYuichiÅz Dr. Iijima.
+ÅyShizukaÅz What are you doing?
+ÅyYuichiÅz I was just um, waiting for your return.
+ÅyShizukaÅz For my return?
+ÅyYuichiÅz Yeah. I couldn't forget about your sexy body.
+Her looks turned slutty. She licked her lips.
+ÅyShizukaÅz Oh... So you remembered our promise.
+Shizuka came right next to me and started to rub my chest.
+ÅyShizukaÅz It didn't go well last time, but I think we'll have more fun this time. I'll give you the works.
+I guess she didn't see me take the pills. And that means I don't have to stay here any longer.
+ÅyYuichiÅz Right... But I still have things to do and I'm wanted by the principal so...
+I pretended to look at my wristwatch.
+ÅyYuichiÅz Oh shit... I have to go. I'll see you later okay?
+ÅyShizukaÅz Well, if you're wanted by the principal... I guess you have to go.
+Shizuka dropped her shoulders and looked disappointed.
+ÅyShizukaÅz We'll do it another time.
+ÅyYuichiÅz Right... I think...
+ÅyShizukaÅz Dr. Sakuma, what are you doing here?
+Yoko was taking the pills out of the cabinet.
+I searched a little.
+Here it is.
+A pill case without labels. I'll just take two, three of these white pills.
+I'll put them back where I found them.
+ÅyWoman's VoiceÅz What are you doing?
+OOPS!
+050d
+id57
+ÅyYuichiÅz Dr. Iijima.
+They were in the cabinet somewhere...
+Where were those pills...
+Wait no... it's those pills!
+It all started after I took those pills given to me by principal Amamiya.
+And Yoko, too, went haywire after she took those pills.
+The school nurse, Shizuka, is standing in front of me.
+What am I not seeing?
+There's no one in the nursing office. Shizuka isn't here either.
+There's something about the school nurse's room... I wonder what it is...
+No, I think it's a little too early to move.
+Å@Look at Shizuka IijimaÅ@Å@Å@
+Å@Talk to Shizuka Iijima
+Å@Look around
+Å@Move
+Shizuka is giving me a disappointed look.
+ÅyShizukaÅz Well, I guess if the principal's calling you, you have to go.
+Shizuka is standing in front of me.
+Å@Go to the faculty room
+Å@Go to the principal's officeÅ@Å@
+Å@Go in front of the school gate
+Okay, let's return to the faculty room.
+ÅyYuichiÅz Okay, I'll see you later Dr. Iijima.
+ÅyShizukaÅz Please drop by again.
+I left the disappointed looking Shizuka and the nurse's office.
+Okay, let's go to the principal's office.
+ÅyYuichiÅz Okay, I'll see you later, Dr. Iijima.
+ÅyShizukaÅz Please drop by again.
+I left a disappointed looking Shizuka and the nurse's office.
+Okay, let's go to the school gate.
+ÅyYuichiÅz Okay, I'll see you later Dr. Iijima.
+ÅyShizukaÅz Please drop by again.
+I left a disappointed looking Shizuka and the nurse's office.
+Å@Look aroundÅ@Å@
+Å@Move
+All I have to do is knock on the door right?
+The students are so involved in their club activities that they don't even notice me.
+I think I'll go to the locker room. It's not like I wanna take a peek or anything...I just want to go see Hiromi. Really.
+Å@Go to the classroom
+Å@Go up to the roof
+Å@Go to the gymÅ@Å@
+Å@Go to the locker room
+Yeah, let's go to the locker room. All I have to do is knock right?
+I moved from the poolside to the front of the locker room.
+I was about to knock on the door when I heard voices from inside.
+ÅyGirl's VoiceÅz I said...!!! You mean...!?
+I guess they're arguing or something. I have heard that voice before...
+Instead of knocking, I opened the door ever slightly.
+220
+hs0722
+ÅyYuichiÅz Damn!
+Hiromi.
+Hiromi was all tied up and she was lying on the floor. She was gagged with a slip or something.
+The girl standing above her was... Yoko. That masturbating lesbian chic. What the hell is she doing to Hiromi?
+ÅyYokoÅz You're pretty friendly with him aren't you? I hope you haven't told him anything.
+ÅyHiromiÅz ...
+They're talking about something meaningful. What to do now...
+No, it would be better to go to the locker room.
+No, it would be better to go to the locker room.
+No, it would be better to go to the locker room.
+Å@Join Yoko and assault HiromiÅ@Å@
+Å@Rescue Hiromi Matsuno
+I said I can't do it!
+When I think about it, I can't do that.
+Now, I will torture Hiromi Matsuno... What!
+I couldn't just turn my back on her. I was about to open the locker room door and go inside.
+ÅyWoman's VoiceÅz Mr. Sakuma!
+ÅyYuichiÅz ...?
+230
+ÅyYuichiÅz You're... Ms. Himuro?
+Å@Look at Kyouko HimuroÅ@Å@
+Å@Talk to Kyouko Himuro
+Kyouko Himuro is giving me a cold look.
+What the hell is she doing here. She looked like she was waiting for me here.
+Kyouko Himuro was standing in front of me with her arms crossed. Her cold stare was looking right at me.
+ÅyYuichiÅz I am not a busybody. What are you saying?
+ÅyKyoukoÅz I have no intention of meddling with you here.
+ÅyYuichiÅz I am not sure that you have the right to talk to me this way.
+Her face looked more stern. I think the temperature went down five degrees.
+ÅyKyoukoÅz I'm saying this for your own sake.
+ÅyYuichiÅz Are you trying to threaten me?
+ÅyKyoukoÅz Of course not. I told you, I'm warning you for your own sake.
+Kyoko Himuro turned around and left the swimming pool. She epitomizes a beautiful bitch.
+A busybody huh?
+I think I'm finally getting somewhere...
+ÅyHiromiÅz *gag*
+I forgot about Hiromi!
+220
+ÅyYokoÅz You want to stop being friends? You don't want to do that do you?
+ÅyHiromiÅz *gag*
+ÅyYokoÅz I can't hear you!
+*kick*
+Yoko kicked Hiromi in the stomach. Hiromi let out a painful moan.
+ÅyHiromiÅz *moan*
+ÅyYokoÅz You are pretty, Hiromi. I like playing with you.
+ÅyHiromiÅz *gag*
+She stepped on Hiromi's stomach. Hiromi gave out a painful moan again. Her face was messed up with tears and saliva.
+I can't take it anymore, that bitch!
+I opened the door.
+ÅyYuichiÅz What the hell are you doing!
+Yoko turned slowly to me.
+220b
+ÅyYokoÅz Well, look who dropped in. The pervert who tried to rape me in the school nurse's room. What are you up to now, peeping?
+ÅyYuichiÅz What the hell's that suppose to mean?
+ÅyYokoÅz I mean exactly what I said.
+ÅyYuichiÅz Never mind that! What the hell are you doing to Hiromi?
+ÅyYokoÅz Who are you suppose to be, the white knight? This is just a friendly game. It's none of your business.
+ÅyYuichiÅz Friendly game? Tying her up and gagging her is your idea of a friendly game?
+ÅyYokoÅz Oh stop, you were eating me out like mad. Your words don't mean anything to me.
+ÅyYuichiÅz ...
+ÅyYokoÅz ...Hiromi, just think it over okay?
+ÅyYuichiÅz Wait...
+Yoko walked straight past me and left the locker room. She gave me a bitchy smile as she left.
+240
+ÅyYuichiÅz Hiromi, are you okay?
+ÅyHiromiÅz ...
+I untied Hiromi. She crouched down, placing her hands over the torn swimsuit. There were bruises on her arms and legs.
+I tried to put my jacket over her.
+ÅyHiromiÅz I... I'm okay, Professor Sakuma. Thank you.
+ÅyYuichiÅz Are you sure? You might have internal bleeding.
+Hiromi Matsuno looked at her arms and legs and tried to hide them.
+ÅyYuichiÅz Do you want me to take you to the nurse's office?
+ÅyHiromiÅz No! Not the nurse's office!
+I was surprised. I guess no one likes the nurse's office, but...
+ÅyHiromiÅz I'm really okay. Thank you. I'm fine now...
+Hiromi tried to give me a smile. It was obvious that she was trying hard to smile.
+ÅyHiromiÅz I'm really okay now. Can I be alone for a moment?
+ÅyYuichiÅz You're really okay?
+ÅyHiromiÅz Yes, I'm sorry you had to see this...
+I wanted to make sure, but she seemed to be determined.
+ÅyYuichiÅz Okay...
+I left the locker room with mixed feelings.
+ÅyKyoukoÅz Don't pry too much.
+ÅyKyoukoÅz Mr. Sakuma, you seem to be asking a lot of questions. Don't be a busybody.
+I was getting pissed off. A busybody!?
+Å@Look aroundÅ@Å@
+Å@Move
+I wonder if Sayuri Amamiya is here. I'll ask.
+ÅyYuichiÅz Excuse me.
+ÅyStudentÅz Yes?
+ÅyYuichiÅz Is Sayuri Amamiya here?
+ÅyStudentÅz Ms. Amamiya... She was here until a minute ago...
+ÅyYuichiÅz ...
+ÅyStudentÅz Oh there she is. The one with the short hair.
+The student was pointing at her. Haven't I seen her somewhere before...?
+She noticed me also and came walking this way.
+060d
+id57
+ÅySayuriÅz Hello, Professor Sakuma.
+ÅyYuichiÅz You're Sayuri?
+So this is Sayuri Amamiya.
+ÅySayuriÅz You look busy Professor Sakuma.
+ÅyYuichiÅz Busy?
+ÅySayuriÅz *giggle*
+Students in leotards were getting ready for team activities.
+Noriko isn't around anymore.
+I should wait before I move.
+Å@Look at Sayuri AmamiyaÅ@Å@
+Å@Talk to Sayuri Amamiya
+Sayuri is smiling like something is funny. She's enjoying herself.
+Sayuri was thrusting her breasts at me. We are in the middle of team activities.
+The girls around me were practicing, trying to disregard what they were seeing.
+I guess they don't want to get involved.
+Contrary to her age, she seems experienced. She seems used to this.
+She enjoys the flirting. That's what it seems like.
+Sayuri is staring at me.
+Her body and face clearly indicate that she is Toshiko Amamiya's daughter.
+This girl is Toshiko's daughter... The leader of the gymnastics team, and also the president of the student council.
+I remembered what I saw on the roof on my first day.
+110
+I can't forget that hardcore lesbo fucking.
+060
+060d
+ÅySayuriÅz *giggle* ... I believe you are a reasonable guy.
+ÅyYuichiÅz Yes.
+ÅySayuriÅz Yes?
+Sayuri is smiling victoriously.
+ÅySayuriÅz Yoko!
+Sayuri called out while still facing me. Soon a girl dressed in leotards came around.
+060e
+ÅyYuichiÅz You, you are...
+ÅySayuriÅz I am told you and Yoko were pretty hot in the nurse's office.
+ÅyYuichiÅz ...
+ÅySayuriÅz I am a bit jealous, but I will forgive you. I mean, I am going to have you do her first anyway.
+ÅyYuichiÅz What!
+ÅySayuriÅz Professor, I can't get hot without looking at other people doing it. Yoko is my pet, so you can do as you please to her.
+ÅyYuichiÅz A pet?
+ÅySayuriÅz *giggle* But I wonder if you can stand her magical tongue?
+I looked at Yoko Kawano. She looks sharp-edged, yet also calm and pure. Just like a model student.
+But I have seen her, both on the roof and at the nurse's office. Without that I would never have guessed.
+ÅySayuriÅz I like reasonable people.
+ÅyYuichiÅz What do you want me to do?
+ÅySayuriÅz Wow, that was a quick turnaround. Like I said, I like reasonable people.
+ÅyYuichiÅz ...
+ÅySayuriÅz *giggle*
+Sayuri rubbed her Leotard clad body against me. I felt her hardened nipples against me.
+ÅySayuriÅz I want you to do what you did to my mother.
+ÅyYuichiÅz ...
+ÅySayuriÅz You can't turn me down, professor. Since you are such a reasonable man. *giggle*
+What a fucking bitch. She is too young to be this good.
+ÅySayuriÅz Professor Sakuma, you wouldn't want trouble, would you?
+ÅyYuichiÅz ...
+ÅySayuriÅz My mother seems to have forgiven you. I can't understand why.
+ÅyYuichiÅz What do you mean?
+ÅySayuriÅz I guess I mean that if I go where I could go, Professor Sakuma would be in so much shit...
+I carefully studied Sayuri. I guess she is threatening me.
+ÅySayuriÅz You are really a bold person.
+ÅyYuichiÅz I wonder what the word "busy" means.
+ÅySayuriÅz I meant what I said. *giggle* Professor Sakuma, how was my mother?
+ÅyYuichiÅz I, I have no idea what you are talking about.
+ÅySayuriÅz I mean not only the nurse Ms. Iijima, but also my mother who is the principal... You are shameless...
+How does she know about that stuff...!?
+Å@Obey herÅ@Å@
+Å@Leave the gym
+I can't leave the gym right now.
+ÅySayuriÅz Where are you going? Don't tell me you have a problem with my suggestion.
+I was close to saying "Of course, I have a problem".
+I stared at Sayuri.
+ÅySayuriÅz You know, Mr. Sakuma, you look very intelligent, but I guess you aren't really that smart.
+Sayuri narrowed her already razor-thin eyes and glared at me. A sharp light burns in the depths of her eyes.
+I clearly saw how hard Sayuri could be. I guess what I want doesn't weigh much around here.
+I didn't have much of a choice... I did my best job of faking disappointment, and nodded grudgingly.
+ÅyYuichiÅz Oh, alright...
+ÅySayuriÅz Yes, that is much better.
+Sayuri smiled faintly, and motioned to the place I was supposed to head to with a quick jerk of her head. There is a door there.
+hs0727
+250
+I was being taken to a small room in the corner of the gym.
+There is gymnastics equipment and basketballs. This is the equipment room.
+ÅySayuriÅz Yoko, go ahead and start.
+ÅyYokoÅz Yes, Sayuri.
+She licked my balls over my pants. That felt really good.
+She caught the fly with her tooth, and slowly started to move her head downward. My zipper followed.
+She takes my tool out of my underwear. Yoko hungrily swallowed my still soft cock into her mouth.
+ÅyYuichiÅz Shit...
+Warmth covered my dick all the way to my balls. Ecstasy rushes in. Yoko stares at me from below, as though asking "What do you think?"
+She tightened her lips around my cock, and slowly pulled back. From within her mouth, my hardened and angled love stick begins to show itself. It was magically appearing from her mouth.
+Yoko stopped her lips right at the tip of my dick. She rolled the head of my cock in her mouth, and then her sweet lips slowly engulfed my cock again.
+ÅySayuriÅz Are you close to coming? Well the fun has just begun!
+Sayuri smiled lewdly as she whispered into my ear.
+The rather small mouth once again started to swallow my now monstrous sex. Contrary to my worries that it couldn't possibly fit, she easily took it in all the way to my balls.
+My cock was all the way down her throat. I could feel her mouth movements. Yoko slowly started to bob her head back and forth, back and forth...
+ÅyYuichiÅz Oh, god!
+Her right hand was toying with my balls, while her fingers gently caressed my asshole. She synchronized her hands with the movement of her head, creating an endless sensation of pleasure.
+Her strong tongue sexily moves around her mouth, poking at my thing from time to time. It is as though she was waiting impatiently for me to come.
+ÅyYuichiÅz Jesus, I am so close...
+ÅySayuriÅz You are coming, huh. You can cum all over her face, or you can blow your load into her mouth.
+As my thing steadily grew in size, she inserted her finger in my asshole, deeper and deeper. I couldn't take it anymore, I blasted my cum all over her mouth.
+290
+ÅyYuichiÅz Shit!
+AHH!Å@AHH!Å@AHH!!Å@AHH!!!
+ÅyYokoÅz Mmmm, Mmmm, yum!
+Yoko took all my hot cum down her throat, all the while continuing to move her head back and forth. I was completely overwhelmed by the pleasure.
+ÅySayuriÅz Two minutes, I guess. Not bad at all.
+Sayuri whispered into my ears as she turned to face Yoko.
+ÅySayuriÅz You mustn't swallow it. Show me.
+Yoko nodded slightly, and opened her cum filled mouth.
+ÅySayuriÅz Wow, you got quite a feast, didn't you... Show Mr. Sakuma as well.
+Yoko's mouth was filled with my cum. She stuck a finger in there to scoop some out.
+ÅySayuriÅz That is enough... Go ahead and swallow.
+Once again, she made a light nodding gesture, and Yoko swallowed the cum in her mouth.
+ÅyYokoÅz Mmmm.
+ÅySayuriÅz How is the taste?
+ÅyYokoÅz Well...There was a lot, and it was a little bitter.
+ÅySayuriÅz Good for you! Now, have him put it up your cunt this time.
+ÅyYokoÅz Yes...
+Yoko turned her face towards me. My cock was still limp after shooting off its load.
+ÅyYuichiÅz Wait a minute, it is too soon!
+ÅySayuriÅz Well, that's funny... That's okay, stick it into Yoko anyway.
+Yoko lay on the exercise mat face down. She lifted her ass, and stared at me with moist eyes.
+ÅySayuriÅz Professor, I guess she can't seem to wait.
+ÅyYuichiÅz ...
+ÅySayuriÅz Professor Sakuma, I think it is in your best interest to do as I say.
+Shit this kid has me licked.
+I thought of yelling at her. But it was my own doing.To scold her would be to scold myself.
+I rubbed my cock against Yoko's cunt. Her hot juices covered me.
+ÅyYokoÅz Oh, please, hurry!
+My cock slithered into her cunt like a worm.
+270
+ÅyYokoÅz Oh yes!
+Wow, what's this!?
+Yoko's cunt was squirming like a separate creature. It was rubbing my cock deep inside her wet pussy. My cock hardened.
+Each time her ass shook, I felt a tremendous pleasure. God, if this keeps on...
+ÅySayuriÅz Mmmm, Professor Sakuma, how is Yoko's cunt? Mmmm...
+Her voice sounds funny. What's going on?
+260
+ÅyYuichiÅz Wow!
+Sayuri was totally naked, and fucking herself while watching us. What a whore. She had two, no, three fingers up her ass.
+ÅySayuriÅz Mmm... Yoko move your ass so I can see it better. Yes! Oh yes!
+Sayuri was probing her own ass, shoving her fingers in and out.
+Her cunt was dripping with hot honey, which was flowing towards her ass. It was a lubricant that helped her move her fingers even faster.
+I was completely lost in this world of pleasure as I fucked while watching someone play with herself. Yoko's hungry pussy was sucking my cock deeper into her, wrapping itself tighter and tighter around my dick.
+270
+ÅyYuichiÅz Shit, I am going to cum again!
+ÅySayuriÅz No, Yoko, no!
+Right as I was about to cum, the pussy suddenly tightened around my dick, preventing me from shooting off my load.
+ÅyYuichiÅz What the fuck!
+ÅySayuriÅz Yoko is well trained, isn't she. I can't have you cum yet.
+Yoko slowly pulled away from me. My wet dick showed itself out of her cunt.
+ÅySayuriÅz Now my turn, professor Sakuma!
+ÅyYuichiÅz ...
+ÅySayuriÅz You look good even when you are pissed.
+She totally ignored my pissed glare, and got down on the mattress doggy style. She pointed her ass towards me, and beckoned me with her moist eyes.
+As I placed the tip of dick into her pussy, she pulled back.
+ÅySayuriÅz No!
+ÅyYuichiÅz What!
+ÅySayuriÅz I love the backdoor.
+ÅyYuichiÅz Backdoor?
+ÅySayuriÅz I love it up my ass. When I was a foreign exchange student, I was taught that by my friends.
+Just one kid, fucking around the world. What a life!
+ÅySayuriÅz Hurry up!
+I placed my dick at the entrance of her puckered asshole, and shoved it all the way in. Who cares if this hurts.
+280
+My dick made a wet sound.
+Contrary to my concerns, my cock was swallowed all the way up to my balls into Sayuri's wet ass.
+ÅySayuriÅz Oh yes!
+Sayuri's fine pale skin started to shine with sweat. She took deep breaths and moaned.
+This felt very different than a pussy. It changed shape each time I pumped her, and it tightened around my cock.
+ÅySayuriÅz Oh god, oh yes!
+As I slowly pumped her ass, I felt a warm breath between my legs. Yoko was licking my ass!
+ÅyYuichiÅz Damn!
+ÅyYokoÅz You like it? Shall I put my tongue in?
+She licked my ass. She curled her tongue and stuck the tip deep into my asshole.
+Her tongue kept probing my ass. She started to move it around, tasting all over. With Sayuri's asshole and Yoko's tongue working their magic, my cock got harder. I quickly approached my limit.
+ÅyYuichiÅz God, I am cumming!
+ÅySayuriÅz Yes, cum, cum inside me!
+As I felt Sayuri's warmth inside her ass, and Yoko's tongue up my own, I was in absolute ecstasy.ÅB
+ÅyYuichiÅz Shit!
+ÅySayuriÅz Jesus, Yes! Cum baby, cum! Yes!
+Gulp, gulp, gulp. Gulp!
+I unloaded all the cum left in me into her ass. Her anus tightened around my dick, trying to wring every drop out.
+ÅySayuriÅz Ooooh, mmm...
+As I finished unloading, I slowly pulled my dick out. Yoko quickly jumped in to start licking Sayuri's asshole.
+ÅySayuriÅz Yes, good, ah, stick your tongue all the way in, deeper, yes.
+Yoko had her tongue deep into Sayuri's ass, licking out my cum. She carefully cleaned Sayuri's ass clean.
+ÅySayuriÅz Well, well, professor. You really let it go this time, didn't you.
+Sayuri took a quick glance at me, and started to lick the cum on Yoko's lips off. They started to kiss.
+They were licking the cum off of each other's tongue.
+ÅySayuriÅz Mmmm, that was a lot. And sticky.
+They were kissing each other wildly. I felt jealous as I watched them go for it.
+060
+060d
+060e
+id57
+ÅySayuriÅz You've fucked the school nurse, the principal, and now students. How can you call yourself an educator?
+Sayuri said this without any emotions. She was enjoying it.
+ÅyYuichiÅz ...
+ÅySayuriÅz Awww, don't be mad...
+ÅyYuichiÅz I was born with this face. I can't help it.
+ÅySayuriÅz It's okay. I don't plan to hurt you.
+ÅyYuichiÅz And I don't plan on being hurt.
+Sayuri narrowed her eyes as she glared at me. She seemed like her mother.
+ÅySayuriÅz It depends on how you behave, professor Sakuma.
+ÅyYuichiÅz Are you threatening me?
+ÅySayuriÅz No, just advice.
+ÅyYuichiÅz ...
+ÅySayuriÅz Well, I have to attend the team activities. See you later. Yoko!
+ÅyYokoÅz Yes!
+060
+Sayuri smiled for a moment. Then she turned and led Yoko away.
+Threatened by girls! Wow!
+I think it would be best to do what she says.
+It is Hiromi. What is she doing alone on the roof?
+Å@Look at Hiromi MatsunoÅ@Å@
+Å@Talk to Hiromi Matsuno
+ÅyYuichiÅz What are you doing up here?
+ÅyHiromiÅz Oh, well, um, it is nothing, really...
+ÅyYuichiÅz You are doing nothing, alone in this cold weather?
+I was gentle. I am not usually so gentle.
+ÅyHiromiÅz Um, well, I have to go now.
+Hiromi tried to hurry away. I can't let her go.
+I stood in front of her and looked into her eyes. They were wet with tears.
+ÅyYuichiÅz Hiromi, if you have a problem, I want you to tell me.
+I spoke to Hiromi gently. She was moved.
+ÅyHiromiÅz Professor Sakuma...
+300c
+ÅyYuichiÅz Don't look sad. Smile.
+Hiromi's face seemed to brighten a little.
+ÅyHiromiÅz You are always the same.  Oh, professor Sakuma!
+hs0712
+310
+ÅyHiromiÅz Oh, professor Sakuma!
+ÅyYuichiÅz Hiromi...
+I didn't know what to do as Hiromi cried on my shoulders.
+I couldn't find the right word...
+ÅyYuichiÅz Hiromi...
+Hiromi looked up at me. Her soft pink lips were in front of my eyes. I felt something. This wasn't good.
+The next moment, I was kissing her lips.
+ÅyHiromiÅz Mmm...
+I would've stopped if she had asked me to. But instead she wrapped her arms around my neck and pulled me towards her.
+ÅyHiromiÅz Oh, professor Sakuma!
+320
+I was trying to control my feelings. I was caressing her, She was so delicate.
+I cupped her well shaped tits, and massaged them. She didn't resist. They were so soft.
+I slowly unbuttoned her blouse.
+ÅyHiromiÅz Oh professor Sakuma, mmm...
+Under her blouse, was a cream colored slip.
+I lifted up her slip, and placed my hand on her bra. I hooked my fingers around the front hook and removed her bra.
+ÅyHiromiÅz No, stop...
+As her well shaped tits felt the cool air, she turned from me. I held her gently from behind.
+ÅyHiromiÅz Professor Sakuma, I am so happy...
+She was so pure and fresh. It was making me hot.
+I moved my hands up her thighs. I raised her skirt, and saw white underwear. My hands slipped beneath her panties.
+ÅyHiromiÅz Oh!
+Hiromi's pussy was cool. I parted her light bush, and caressed her slightly wet slit. Each time I touched her, hot juices flowed.
+ÅyYuichiÅz Hiromi, is it okay?
+Hiromi looked down as she nodded. Her cheeks were hot, and slightly red.
+I held my cock in my hand, and placed it at Hiromi's entrance. Her cunt was wet.
+I slowly inserted my dick into her.
+330
+ÅyHiromiÅz Oh, Jesus, professor Sakuma!
+I was surprised at how easily my cock slipped into her. Her hot pussy tightened around me.
+She was so pretty, cute, and lovable.
+ÅyHiromiÅz Professor Sakuma, oh, yes!
+ÅyYuichiÅz Call me Yuichi.
+ÅyHiromiÅz Ah, Yuichi! Yuuuichi!
+I lifted one of Hiromi's legs so I could enter her more deeply. I wanted to feel as much of her as I could.
+Her pussy was making lewd wet sounds.
+ÅyHiromiÅz Oh god, yes, yes, yes, you're so good!!
+Hiromi was no longer controlling her voice. Her sexy voice echoed in the dusk.
+ÅyYuichiÅz Hiromi, you are so good...
+ÅyHiromiÅz Yes, oh, please, more!
+ÅyYuichiÅz Hiromi!
+ÅyHiromiÅz Yuichi, Yuichi! I love you, I love you so much!
+My feelings were exploding, and I started to pump faster. Hiromi's pussy was getting tighter and tighter.
+ÅyYuichiÅz Hiromi, I'm cumming!
+ÅyHiromiÅz Oh Yuichi, cum inside me, please, cum inside me!
+Hiromi's cheeks were hot, and she seemed in pain. I was feeling such pleasure. I wanted to unload into her so badly.
+Hiromi reached her peak. She shuddered uncontrollably. Her wet pussy wrapped tightly around my cock.
+ÅyYuichiÅz Oh god!
+ÅyHiromiÅz Yuichi! Oh yes!
+I started to cum inside her.
+ÅyHiromiÅz Mmm, ooo, yes, Yuichi!
+I continued to pump my load into her.
+ÅyHiromiÅz Mmmm, mmmm, yes...
+We kissed under the cold sky. I held her tightly. I caressed Hiromi's tits and softly touched her hair. Her slightly wet body was very attractive.
+After French kissing her for a while, I let go of her lips. My cock was still inside Hiromi. She was looking at me with wet eyes.
+ÅyHiromiÅz Professor Sakuma...
+ÅyYuichiÅz Please call me Yuichi.
+ÅyHiromiÅz Yuichi...
+ÅyYuichiÅz What is it?
+She quietly started to kiss me. Our tongues started to dance again.
+ÅyHiromiÅz ...I think I can tell you anything...
+ÅyYuichiÅz Tell me what?
+ÅyHiromiÅz Well...
+Hiromi looked straight into my eyes. I realized she was making a decision.
+ÅyYuichiÅz I see...
+080
+080b
+ÅyYuichiÅz What do you want to talk about?
+She put on her uniform. There was indecision in her eyes.
+I waited for her to speak.
+ÅyHiromiÅz Well, I guess you know there used to be a professor by the name of Sasaki at this school.
+ÅyYuichiÅz Um, yeah.
+My heart was beating faster. I tensely waited.
+ÅyHiromiÅz Well, professor Sasaki wasn't a teacher.
+ÅyYuichiÅz What do you mean?
+ÅyHiromiÅz Well, she was some agent sent in from an organization.
+I swallowed hard.
+ÅyHiromiÅz That is why I had to...
+Hiromi gasped a little. Tears were beginning to flow.
+ÅyYuichiÅz ...
+ÅyHiromiÅz Tomorrow...
+ÅyYuichiÅz Tomorrow?
+ÅyHiromiÅz Yes, tomorrow... Please come to the swimming pool at 6PM. Team activities are off tomorrow, so no one will be there...
+ÅyYuichiÅz Does it have to be tomorrow?
+ÅyHiromiÅz Yes. Professor Sasaki will join us.
+ÅyYuichiÅz You mean Megumi, I mean, professor Sasaki is here?
+Hiromi stared at the ground. She was thinking. She no longer seemed pained. It was more like determination.
+ÅyHiromiÅz Yuichi, please help me...
+I nodded quietly as I looked into Hiromi's eyes.
+ÅyHiromiÅz I will be there tomorrow.
+080
+Hiromi smiled, bowed and quickly walked away.
+It is pointless to just look at Hiromi. I decided to talk to her.
+ÅyYuichiÅz What's the matter, Hiromi?
+300b
+ÅyHiromiÅz Professor Sakuma...
+Hiromi looked surprised. She didn't even notice me until I came close.
+This must be serious...
+She is thinking.
+Hiromi is standing alone. She is very serious. I wonder what is wrong?
+Å@Look at Shizuka IijimaÅ@Å@
+Å@Talk to Shizuka Iijima
+Å@Look around
+Å@Move
+Shizuka smiled sexily as she slowly edged towards me. It might be better to leave.
+Shizuka acted like she was thinking. Her left hand was on her right elbow, and her right fingers were on her cheek. She is sexy no matter what she does.
+She must be a nice girl, but I'm not drowning in sexual desire right now.
+I unconsciously followed with my eyes the rich curves created by her soft body.
+I look up and see Shizuka Iijima. She let out a wry smile. She was certainly a nice enough woman that I wanted to munch on her even under normal circumstances.
+Her voluptuous body contrasted with her plain white gown.
+Her ample bust and her deep cleavage was staring at me.
+ÅyShizukaÅz Oh, you can't run away like that.
+ÅyShizukaÅz Oh, never mind talk. Let's do it now!
+Shizuka undid my shirt button. The other hand was caressing between my thighs.
+ÅyYuichiÅz Um, well, Ms. Iijima, I have an appointment with the principal, and I must, well, well, go soon.
+ÅyShizukaÅz Stop lying to me. The principal has left for home.
+ÅyYuichiÅz Oh, really...
+ÅyShizukaÅz Professor Sakuma, I guess you aren't easily turned on.
+Shizuka softly blew into my ears. She started licking my ears.
+I wasn't going to fall for it again. I pushed away her hands and turned towards her.
+ÅyYuichiÅz I really have an appointment. I have to go.
+It wasn't a lie. I had to deliver the pills to the JES headquarters.
+ÅyShizukaÅz How about just a kiss then.
+ÅyYuichiÅz What?
+ÅyShizukaÅz I will let you go after just one kiss.
+ÅyYuichiÅz ...
+She quickly placed her lips on mine. Her tongue entered my mouth.
+ÅyShizukaÅz Mmm...
+Before I knew it, she had unbuttoned my shirt and started to undo my pants. This was not the time.
+ÅyYuichiÅz Dr. Iijima, please, wait just a minute...
+ÅyShizukaÅz Don't move.
+ÅyShizukaÅz Sorry, there is a rule against giving out information about patients to a third party.
+Shizuka seemed apologetic. Doctors must protect the privacy of their patients.
+ÅyYuichiÅz I understand, Dr. Iijima. Sorry for asking you.
+ÅyShizukaÅz I am glad you understand. But that is strange.
+ÅyYuichiÅz What?
+ÅyShizukaÅz You are the second person to inquire about professor Sasaki today?
+ÅyYuichiÅz Someone besides me?
+ÅyShizukaÅz Yes, what was the name? Ummmm...
+ÅyYuichiÅz Was it Hiromi?
+I asked fearfully.
+ÅyShizukaÅz No, it wasn't her.
+Who else would ask about Megumi Sasaki...
+Could it be that cold girl, Kyouko Himuro? Could it be her?
+I was talking to myself.
+ÅyYuichiÅz Then, perhaps it was Kyouko?
+Shizuka nodded.
+ÅyShizukaÅz Yes. But I wonder why...
+I wondered why Kyoko is asking about Megumi.
+Shizuka Iijima seems to be thinking about something.
+ÅyYuichiÅz I had heard that professor Sasaki often came to the nurse's office.
+ÅyShizukaÅz Yes, what about it?
+ÅyYuichiÅz Was there something wrong with her?
+Shizuka looked at me funny.
+ÅyShizukaÅz Why do you ask?
+ÅyYuichiÅz Well, it interests me.
+Shizuka started to talk, then stopped.
+ÅyShizukaÅz I was worried that you wouldn't come again.
+Shizuka looked sullen, as she edged towards me. I stopped her.
+ÅyYuichiÅz Well, I had a few questions...
+ÅyShizukaÅz You want to know my three sizes? I wouldn't mind telling you, you know.
+ÅyYuichiÅz Well, it isn't that I am not interested, but...
+ÅyShizukaÅz Well, then what is it?
+Shizuka is smiling.
+The nurse's office is different when Shizuka is present.
+The whole place is in a pink fog.
+Å@Go to the faculty room
+Å@Go to the principal's officeÅ@Å@
+Å@Go in front of the school gate
+I should wait a little before moving.
+Yes, let's go to the faculty room.
+ÅyYuichiÅz Well, Dr. Iijima.
+ÅyShizukaÅz That's too bad...
+I rushed out of the room like someone caught cheating.
+I should wait a little before moving.
+I guess the principal has left already.
+I should wait a little before moving.
+I should leave after I pick up my stuff at the faculty room.
+...
+Kyouko's advice, to watch out for Hiromi, clung in my mind.
+Of course, such advice was nonsense. But...
+The problem is why did she say it. What does Kyouko gain by threatening me?
+Tomorrow at 6PM. Perhaps I will understand when I talk to Megumi Sasaki.
+I regretted not asking Hiromi more questions when I was with her on the roof.
+But it made no difference. It is just a day.
+I tried to convince myself that it was just a day.
+As it turns out, one day was a lot.
+s07
+...I guess I'm a bit confused.
+I should try to organize my thoughts.
+Å@Think about Hiromi MatsunoÅ@Å@
+But I thought Megumi Sasaki was...
+I saw a girl dressed in a uniform.
+ÅyWoman's VoiceÅz Mr. Sakuma.
+ÅyYuichiÅz Yes?
+030b
+id02
+ÅyYuichiÅz You are... Kyouko.
+ÅyKyoukoÅz Good afternoon.
+What timing! I was just thinking about her, and here she is.
+I wonder what she wants after threatening me in the locker room.
+There is no point thinking about this now. I should wait until tomorrow.
+I hope she is not involved in some trouble.
+In fact, it is possible that she is a key.
+I wonder how I will respond if that is the case...
+I couldn't control my feelings. I had a terrible premonition.
+Hiromi seemed determined.
+Does she knows the whereabouts of Megumi?
+Å@Look at Kyouko HimuroÅ@Å@
+Å@Talk to Kyouko Himuro
+Kyouko is staring at me with slightly narrowed eyes.
+She really isn't sexy at all. I admit she is beautiful.
+She always has her hair in a ponytail. She would be sexier if she let her hair down.
+I am sure she doesn't care.
+I wonder what she wants.
+ÅyKyoukoÅz I came to give you some advice.
+ÅyYuichiÅz I am tired of your advice.
+I recalled her threats in the locker room. What advice?
+ÅyKyoukoÅz You might not care, but I do.
+ÅyYuichiÅz Huh?
+ÅyKyoukoÅz You should watch out for that girl, Hiromi Matsuno.
+I was taken by surprise. What does she know about Hiromi?
+ÅyYuichiÅz What do you mean?
+ÅyKyoukoÅz I mean exactly what I said.
+ÅyYuichiÅz What do you know? Hey, wait!
+030
+Kyouko rushed away, breaking away from my attempt to stop her.
+id21
+Beware of Hiromi? I wonder.
+ÅyYuichiÅz What do you want from me?
+ÅyKyoukoÅz ...
+Ignored again. I'm used to it by now.
+ÅyYuichiÅz Well, well. Thanks for that thing in the locker rooms.
+ÅyKyoukoÅz No need to thank me.
+She doesn't understand humor.

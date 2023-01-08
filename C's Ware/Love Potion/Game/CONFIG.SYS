@@ -1,0 +1,4 @@
+shell = startup.com
+files = 10
+buffers = 20
+

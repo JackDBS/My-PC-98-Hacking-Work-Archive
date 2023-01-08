@@ -1,0 +1,66 @@
+010
+\　　　　　　　　　　Music Mode
+id03
+\　　　　　　　　　　The Campus
+id51
+\　　　　　　　　　　Toshiko Amamiya
+hs0701
+\　　　　　　　　　　Mugen
+tit3
+\　　　　　　　　　　Etsuraku no Gakuen
+id21
+\　　　　　　　　　　The Faculty Room
+id15
+\　　　　　　　　　　Noriko Furima
+hs0723
+\　　　　　　　　　　Misty Days
+mist_r
+\　　　　　　　　　　Mystery Travel (Opening)
+id49
+\　　　　　　　　　　Officer Yumi
+hs0726
+\　　　　　　　　　　One Night Stand
+hs0702
+\　　　　　　　　　　MENU
+hs0719
+\　　　　　　　　　　The Principal's Office
+id02
+\　　　　　　　　　　Kyoko Himuro
+hs0727
+\　　　　　　　　　　Weakness
+id40
+\　　　　　　　　　　The Nursing Room
+id67
+\　　　　　　　　　　Hiromi Matsuno
+hs0712
+\　　　　　　　　　　Sincere Hiromi
+id12
+\　　　　　　　　　　The Gym
+hs0724
+\　　　　　　　　　　Pure
+id54
+\　　　　　　　　　　The Heated Pool
+id57
+\　　　　　　　　　　Schemes
+hs0721
+\　　　　　　　　　　Underwater
+hs0718
+\　　　　　　　　　　The Silence of the Night
+id62
+\　　　　　　　　　　Pure Love And A Knife
+hs0722
+\　　　　　　　　　　Secret
+hs0711
+\　　　　　　　　　　Slave
+id59
+\　　　　　　　　　　Hiromi's Confession
+yk12
+\　　　　　　　　　　Lust
+id14
+\　　　　　　　　　　Battle
+id28
+\　　　　　　　　　　The End
+hs0716
+\　　　　　　　　　　Memories
+mist
+\　　　　　　　　　 Mystery Travel (The End)

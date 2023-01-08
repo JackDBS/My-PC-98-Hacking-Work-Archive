@@ -1,0 +1,154 @@
+010
+\　　　　　　　　　　　 Graphic Mode 　　
+Ｂ
+100
+　Next Image　　
+110
+　Next Image　　
+　Previous Image
+140
+　Next Image　　
+　Previous Image
+150
+　Next Image　　
+　Previous Image
+160
+　Next Image　　
+　Previous Image
+170
+　Next Image　　
+　Previous Image
+180
+　Next Image　　
+　Previous Image
+190
+　Next Image　　
+　Previous Image
+200
+　Next Image　　
+　Previous Image
+200
+200b
+　Next Image　　
+　Previous Image
+205
+　Next Image　　
+　Previous Image
+210
+　Next Image　　
+　Previous Image
+220
+　Next Image　　
+　Previous Image
+240
+　Next Image　　
+　Previous Image
+250
+　Next Image　　
+　Previous Image
+260
+　Next Image　　
+　Previous Image
+270
+　Next Image　　
+　Previous Image
+280
+　Next Image　　
+　Previous Image
+290
+　Next Image　　
+　Previous Image
+320
+　Next Image　　
+　Previous Image
+330
+　Next Image　　
+　Previous Image
+350
+　Next Image　　
+　Previous Image
+360
+　Next Image　　
+　Previous Image
+370
+　Next Image　　
+　Previous Image
+380
+　Next Image　　
+　Previous Image
+390
+　Next Image　　
+　Previous Image
+400
+　Next Image　　
+　Previous Image
+410
+　Next Image　　
+　Previous Image
+420
+　Next Image　　
+　Previous Image
+424
+　Next Image　　
+　Previous Image
+426
+　Next Image　　
+　Previous Image
+Ｂ
+428
+　Next Image　　
+　Previous Image
+Ｃ
+470
+　Next Image　　
+　Previous Image
+480
+　Next Image　　
+　Previous Image
+490
+　Next Image　　
+　Previous Image
+500
+　Next Image　　
+　Previous Image
+520
+　Next Image　　
+　Previous Image
+530
+　Next Image　　
+　Previous Image
+540
+　Next Image　　
+　Previous Image
+570
+　Next Image　　
+　Previous Image
+570
+570b
+　Next Image　　
+　Previous Image
+580
+　Next Image　　
+　Previous Image
+590
+　Next Image　　
+　Previous Image
+600
+　Next Image　　
+　Previous Image
+610
+　Next Image　　
+　Previous Image
+620
+　Next Image　　
+　Previous Image
+630
+　Next Image　　
+　Previous Image
+640
+　Next Image　　
+　Previous Image
+650
+　Back to Beginning　　
+　Previous Image
+　Exit
