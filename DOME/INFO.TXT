@@ -1,3 +1,0 @@
-Text in DOME is Shift-JIS
-
-Later games have not been tested yet.
